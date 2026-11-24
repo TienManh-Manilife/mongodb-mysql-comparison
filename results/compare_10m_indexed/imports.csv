@@ -1,0 +1,15 @@
+﻿profile,engine,version,schema_seconds,import_seconds,logical_records,logical_records_per_second,table
+equivalent,mongodb,8.0.38,0.17258469600028548,816.0766984849997,34093651,41777.5082456011,
+equivalent,mongodb,,,0.0043476490000102785,34,,provinces
+equivalent,mongodb,,,0.04434736899975178,3321,,wards
+equivalent,mongodb,,,35.4985598799999,2592673,,households
+equivalent,mongodb,,,410.46692999000015,10000000,,persons
+equivalent,mongodb,,,134.88279693599998,10000000,,household_members
+equivalent,mongodb,,,235.17971666099993,11497623,,residence_history
+equivalent,mysql,8.4.13,0.22461073399995257,1373.6605540509995,34093651,24819.56033421501,
+equivalent,mysql,,,0.01546533499981706,34,,provinces
+equivalent,mysql,,,0.13351842900010524,3321,,wards
+equivalent,mysql,,,53.211069272999794,2592673,,households
+equivalent,mysql,,,676.5311720119998,10000000,,persons
+equivalent,mysql,,,229.95884889900003,10000000,,household_members
+equivalent,mysql,,,413.8104801029999,11497623,,residence_history

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="750" viewBox="0 0 880 750">
+<rect width="880" height="750" fill="white"/>
+<text x="22" y="31" font-family="sans-serif" font-size="20" font-weight="bold">Mean latency: MySQL / MongoDB</text>
+<text x="22" y="56" font-family="sans-serif" font-size="13" fill="#475569">equivalent / secondary / 1 · &gt;1 favors MongoDB; &lt;1 favors MySQL</text>
+<text x="22" y="90" font-family="sans-serif" font-size="13">W01</text>
+<rect x="105" y="72" width="516.05" height="25" rx="3" fill="#287a67"/>
+<text x="628.05" y="90" font-family="sans-serif" font-size="12">2.49×</text>
+<text x="22" y="130" font-family="sans-serif" font-size="13">W02</text>
+<rect x="105" y="112" width="268.50" height="25" rx="3" fill="#287a67"/>
+<text x="380.50" y="130" font-family="sans-serif" font-size="12">1.29×</text>
+<text x="22" y="170" font-family="sans-serif" font-size="13">W03</text>
+<rect x="105" y="152" width="327.84" height="25" rx="3" fill="#287a67"/>
+<text x="439.84" y="170" font-family="sans-serif" font-size="12">1.58×</text>
+<text x="22" y="210" font-family="sans-serif" font-size="13">W04</text>
+<rect x="105" y="192" width="203.11" height="25" rx="3" fill="#287a67"/>
+<text x="315.11" y="210" font-family="sans-serif" font-size="12">0.979×</text>
+<text x="22" y="250" font-family="sans-serif" font-size="13">W05</text>
+<rect x="105" y="232" width="587.72" height="25" rx="3" fill="#287a67"/>
+<text x="699.72" y="250" font-family="sans-serif" font-size="12">2.83×</text>
+<text x="22" y="290" font-family="sans-serif" font-size="13">W06</text>
+<rect x="105" y="272" width="124.81" height="25" rx="3" fill="#287a67"/>
+<text x="236.81" y="290" font-family="sans-serif" font-size="12">0.602×</text>
+<text x="22" y="330" font-family="sans-serif" font-size="13">W07</text>
+<rect x="105" y="312" width="543.50" height="25" rx="3" fill="#287a67"/>
+<text x="655.50" y="330" font-family="sans-serif" font-size="12">2.62×</text>
+<text x="22" y="370" font-family="sans-serif" font-size="13">W08</text>
+<rect x="105" y="352" width="15.60" height="25" rx="3" fill="#287a67"/>
+<text x="127.60" y="370" font-family="sans-serif" font-size="12">0.0752×</text>
+<text x="22" y="410" font-family="sans-serif" font-size="13">W09</text>
+<rect x="105" y="392" width="147.38" height="25" rx="3" fill="#287a67"/>
+<text x="259.38" y="410" font-family="sans-serif" font-size="12">0.711×</text>
+<text x="22" y="450" font-family="sans-serif" font-size="13">W10</text>
+<rect x="105" y="432" width="157.71" height="25" rx="3" fill="#287a67"/>
+<text x="269.71" y="450" font-family="sans-serif" font-size="12">0.76×</text>
+<text x="22" y="490" font-family="sans-serif" font-size="13">W11</text>
+<rect x="105" y="472" width="152.83" height="25" rx="3" fill="#287a67"/>
+<text x="264.83" y="490" font-family="sans-serif" font-size="12">0.737×</text>
+<text x="22" y="530" font-family="sans-serif" font-size="13">W12</text>
+<rect x="105" y="512" width="79.15" height="25" rx="3" fill="#287a67"/>
+<text x="191.15" y="530" font-family="sans-serif" font-size="12">0.382×</text>
+<text x="22" y="570" font-family="sans-serif" font-size="13">W13</text>
+<rect x="105" y="552" width="77.89" height="25" rx="3" fill="#287a67"/>
+<text x="189.89" y="570" font-family="sans-serif" font-size="12">0.375×</text>
+<text x="22" y="610" font-family="sans-serif" font-size="13">W14</text>
+<rect x="105" y="592" width="243.78" height="25" rx="3" fill="#287a67"/>
+<text x="355.78" y="610" font-family="sans-serif" font-size="12">1.18×</text>
+<text x="22" y="650" font-family="sans-serif" font-size="13">W15</text>
+<rect x="105" y="632" width="279.25" height="25" rx="3" fill="#287a67"/>
+<text x="391.25" y="650" font-family="sans-serif" font-size="12">1.35×</text>
+<text x="22" y="690" font-family="sans-serif" font-size="13">W16</text>
+<rect x="105" y="672" width="243.49" height="25" rx="3" fill="#287a67"/>
+<text x="355.49" y="690" font-family="sans-serif" font-size="12">1.17×</text>
+<line x1="312.42639897628356" x2="312.42639897628356" y1="66" y2="730" stroke="#475569" stroke-dasharray="4 4"/>
+</svg>

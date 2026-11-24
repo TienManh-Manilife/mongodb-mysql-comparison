@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="670" viewBox="0 0 880 670">
+<rect width="880" height="670" fill="white"/>
+<text x="22" y="31" font-family="sans-serif" font-size="20" font-weight="bold">Throughput: MongoDB / MySQL</text>
+<text x="22" y="56" font-family="sans-serif" font-size="13" fill="#475569">equivalent / secondary / 4 · &gt;1 favors MongoDB; &lt;1 favors MySQL</text>
+<text x="22" y="90" font-family="sans-serif" font-size="13">W01</text>
+<rect x="105" y="72" width="388.04" height="25" rx="3" fill="#287a67"/>
+<text x="500.04" y="90" font-family="sans-serif" font-size="12">4.31×</text>
+<text x="22" y="130" font-family="sans-serif" font-size="13">W02</text>
+<rect x="105" y="112" width="211.82" height="25" rx="3" fill="#287a67"/>
+<text x="323.82" y="130" font-family="sans-serif" font-size="12">2.35×</text>
+<text x="22" y="170" font-family="sans-serif" font-size="13">W03</text>
+<rect x="105" y="152" width="102.69" height="25" rx="3" fill="#287a67"/>
+<text x="214.69" y="170" font-family="sans-serif" font-size="12">1.14×</text>
+<text x="22" y="210" font-family="sans-serif" font-size="13">W04</text>
+<rect x="105" y="192" width="101.77" height="25" rx="3" fill="#287a67"/>
+<text x="213.77" y="210" font-family="sans-serif" font-size="12">1.13×</text>
+<text x="22" y="250" font-family="sans-serif" font-size="13">W05</text>
+<rect x="105" y="232" width="587.72" height="25" rx="3" fill="#287a67"/>
+<text x="699.72" y="250" font-family="sans-serif" font-size="12">6.53×</text>
+<text x="22" y="290" font-family="sans-serif" font-size="13">W06</text>
+<rect x="105" y="272" width="123.35" height="25" rx="3" fill="#287a67"/>
+<text x="235.35" y="290" font-family="sans-serif" font-size="12">1.37×</text>
+<text x="22" y="330" font-family="sans-serif" font-size="13">W07</text>
+<rect x="105" y="312" width="240.48" height="25" rx="3" fill="#287a67"/>
+<text x="352.48" y="330" font-family="sans-serif" font-size="12">2.67×</text>
+<text x="22" y="370" font-family="sans-serif" font-size="13">W08</text>
+<rect x="105" y="352" width="7.18" height="25" rx="3" fill="#287a67"/>
+<text x="119.18" y="370" font-family="sans-serif" font-size="12">0.0798×</text>
+<text x="22" y="410" font-family="sans-serif" font-size="13">W09</text>
+<rect x="105" y="392" width="129.96" height="25" rx="3" fill="#287a67"/>
+<text x="241.96" y="410" font-family="sans-serif" font-size="12">1.44×</text>
+<text x="22" y="450" font-family="sans-serif" font-size="13">W10</text>
+<rect x="105" y="432" width="122.48" height="25" rx="3" fill="#287a67"/>
+<text x="234.48" y="450" font-family="sans-serif" font-size="12">1.36×</text>
+<text x="22" y="490" font-family="sans-serif" font-size="13">W11</text>
+<rect x="105" y="472" width="86.48" height="25" rx="3" fill="#287a67"/>
+<text x="198.48" y="490" font-family="sans-serif" font-size="12">0.96×</text>
+<text x="22" y="530" font-family="sans-serif" font-size="13">W14</text>
+<rect x="105" y="512" width="71.89" height="25" rx="3" fill="#287a67"/>
+<text x="183.89" y="530" font-family="sans-serif" font-size="12">0.798×</text>
+<text x="22" y="570" font-family="sans-serif" font-size="13">W15</text>
+<rect x="105" y="552" width="90.07" height="25" rx="3" fill="#287a67"/>
+<text x="202.07" y="570" font-family="sans-serif" font-size="12">1×</text>
+<text x="22" y="610" font-family="sans-serif" font-size="13">W16</text>
+<rect x="105" y="592" width="131.40" height="25" rx="3" fill="#287a67"/>
+<text x="243.40" y="610" font-family="sans-serif" font-size="12">1.46×</text>
+<line x1="195.05907949622255" x2="195.05907949622255" y1="66" y2="650" stroke="#475569" stroke-dasharray="4 4"/>
+</svg>

@@ -4,4 +4,6 @@ datasets/
 benchmark/
 
 task.txt
-results/
+results/mongodb_indexed/
+results/mysql_indexed/
+results/compare_10m_indexed/equivalent

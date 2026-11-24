@@ -38,14 +38,26 @@ def main():
     p.add_argument('--concurrency',nargs='+',type=int,default=[1,4,8]); p.add_argument('--repeats',type=int,default=3); p.add_argument('--ops',type=int,default=200); p.add_argument('--aggregate-ops',type=int,default=3); p.add_argument('--write-batch',type=int,default=100); p.add_argument('--import-batch',type=int,default=1000); p.add_argument('--warmup',type=int,default=3); p.add_argument('--seed',type=int,default=42)
     p.add_argument('--reuse-import',action='store_true',help='Skip destructive import only when DB manifest matches. Normally use one profile and one engine with this option.')
     p.add_argument('--confirm-reset',action='store_true',help='Required before dropping dedicated benchmark database tables.')
+    p.add_argument('--reuse-plan',type=Path,help='Reuse a previously audited plan.json without scanning CSV files. Requires unchanged dataset.')
     a=p.parse_args()
     if not re.fullmatch(r'[A-Za-z0-9_-]+',a.run_id): p.error('Invalid run-id')
     if not a.reuse_import and not a.confirm_reset: p.error('Import drops the dedicated benchmark database. Pass --confirm-reset explicitly.')
     if min(a.concurrency)<1 or max(a.concurrency)>64 or min(a.ops,a.repeats,a.aggregate_ops,a.write_batch,a.import_batch)<1 or a.warmup<0 or a.write_batch>1000 or a.import_batch>5000: p.error('Invalid numeric settings')
     if len(set(a.profiles))!=len(a.profiles) or len(set(a.engines))!=len(a.engines) or len(set(a.workloads))!=len(a.workloads) or len(set(a.indexes))!=len(a.indexes) or len(set(a.concurrency))!=len(a.concurrency): p.error('Duplicate options')
     if a.reuse_import and (len(a.profiles)!=1 or len(a.engines)!=1): p.error('--reuse-import requires exactly one profile and one engine')
+    cached_plan=None
+    if a.reuse_plan:
+        if not a.reuse_import: p.error('--reuse-plan requires --reuse-import')
+        try:
+            cached_plan=json.loads(a.reuse_plan.read_text(encoding='utf-8-sig'))
+            if cached_plan['seed']!=a.seed: raise ValueError('Plan seed differs from --seed')
+            needed=max(a.ops,a.aggregate_ops,a.warmup,1)
+            if cached_plan['ops']<needed or len(cached_plan['samples'])<needed: raise ValueError(f'Plan needs at least {needed} samples')
+            if cached_plan['audit']['counts']!=cached_plan['dataset']['counts']: raise ValueError('Plan audit counts differ')
+        except (OSError,ValueError,KeyError,TypeError) as e:
+            p.error(f'Invalid cached plan: {e}')
     out=ROOT/'results'/a.run_id; out.mkdir(parents=True,exist_ok=False)
-    (out/'config.json').write_text(json.dumps(vars(a),indent=2),encoding='utf-8')
+    (out/'config.json').write_text(json.dumps(vars(a),indent=2,default=str),encoding='utf-8')
     # Store effective configuration without credentials.
     conf=json.loads(compose('config','--format','json',capture=True).stdout)
     for s in conf.get('services',{}).values():
@@ -57,7 +69,11 @@ def main():
     info=json.loads(subprocess.run(['docker','info','--format','{{json .}}'],capture_output=True,text=True,check=True).stdout)
     (out/'docker_info.json').write_text(json.dumps({k:info.get(k) for k in ['ServerVersion','OSType','OperatingSystem','Architecture','NCPU','MemTotal','Driver','CgroupDriver','CgroupVersion','KernelVersion']},indent=2),encoding='utf-8')
     compose('build','client')
-    client('plan','--run-id',a.run_id,'--seed',a.seed,'--ops',max(a.ops,a.aggregate_ops,a.warmup,1))
+    if cached_plan is not None:
+        (out/'plan.json').write_text(json.dumps(cached_plan,ensure_ascii=False,indent=2),encoding='utf-8')
+        print(f'Reusing audited plan: {a.reuse_plan}; CSV audit skipped',flush=True)
+    else:
+        client('plan','--run-id',a.run_id,'--seed',a.seed,'--ops',max(a.ops,a.aggregate_ops,a.warmup,1))
     try:
         for i,profile in enumerate(a.profiles):
             # Reverse backend order on the second profile to reduce systematic order bias.
