@@ -1,0 +1,55 @@
+name: population-dbms-benchmark
+services:
+  mongodb:
+    image: ${MONGO_IMAGE:-mongo:8.0}
+    cpus: ${DB_CPUS:-4}
+    mem_limit: ${DB_MEMORY:-4g}
+    memswap_limit: ${DB_MEMORY:-4g}
+    command: [mongod, --wiredTigerCacheSizeGB, '${MONGO_CACHE_GB:-2}', --bind_ip_all]
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: [CMD, mongosh, --quiet, --eval, 'db.adminCommand({ping:1}).ok || quit(1)']
+      interval: 5s
+      timeout: 5s
+      retries: 60
+  mysql:
+    image: ${MYSQL_IMAGE:-mysql:8.4}
+    cpus: ${DB_CPUS:-4}
+    mem_limit: ${DB_MEMORY:-4g}
+    memswap_limit: ${DB_MEMORY:-4g}
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-local_benchmark_only}
+      MYSQL_ROOT_HOST: '%'
+      MYSQL_DATABASE: population_db
+    command:
+      - --innodb-buffer-pool-size=${MYSQL_CACHE_BYTES:-2147483648}
+      - --innodb-flush-log-at-trx-commit=1
+      - --skip-log-bin
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_0900_bin
+      - --max-connections=150
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: [CMD-SHELL, 'mysql --protocol=TCP -h 127.0.0.1 -uroot -p"$$MYSQL_ROOT_PASSWORD" -e "SELECT 1" >/dev/null 2>&1']
+      interval: 5s
+      timeout: 5s
+      retries: 60
+  client:
+    build: .
+    cpus: ${CLIENT_CPUS:-2}
+    mem_limit: ${CLIENT_MEMORY:-2g}
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-local_benchmark_only}
+      PYTHONUNBUFFERED: '1'
+    volumes:
+      - type: bind
+        source: ${DATASET_PATH:-./datasets/population_10000000}
+        target: /dataset
+        read_only: true
+      - ./results:/results
+    entrypoint: [python, -m, benchmark.cli]
+volumes:
+  mongo_data:
+  mysql_data:
