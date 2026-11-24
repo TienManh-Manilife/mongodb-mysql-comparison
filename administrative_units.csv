@@ -1,0 +1,3322 @@
+﻿STT,Mã xã/phường,Xã/phường/đặc khu,Mã tỉnh,Tỉnh/thành phố
+1,00004,Phường Ba Đình,01,Thành phố Hà Nội
+2,00008,Phường Ngọc Hà,01,Thành phố Hà Nội
+3,00025,Phường Giảng Võ,01,Thành phố Hà Nội
+4,00070,Phường Hoàn Kiếm,01,Thành phố Hà Nội
+5,00082,Phường Cửa Nam,01,Thành phố Hà Nội
+6,00091,Phường Phú Thượng,01,Thành phố Hà Nội
+7,00097,Phường Hồng Hà,01,Thành phố Hà Nội
+8,00103,Phường Tây Hồ,01,Thành phố Hà Nội
+9,00118,Phường Bồ Đề,01,Thành phố Hà Nội
+10,00127,Phường Việt Hưng,01,Thành phố Hà Nội
+11,00136,Phường Phúc Lợi,01,Thành phố Hà Nội
+12,00145,Phường Long Biên,01,Thành phố Hà Nội
+13,00160,Phường Nghĩa Đô,01,Thành phố Hà Nội
+14,00166,Phường Cầu Giấy,01,Thành phố Hà Nội
+15,00175,Phường Yên Hoà,01,Thành phố Hà Nội
+16,00190,Phường Ô Chợ Dừa,01,Thành phố Hà Nội
+17,00199,Phường Láng,01,Thành phố Hà Nội
+18,00226,Phường Văn Miếu - Quốc Tử Giám,01,Thành phố Hà Nội
+19,00229,Phường Kim Liên,01,Thành phố Hà Nội
+20,00235,Phường Đống Đa,01,Thành phố Hà Nội
+21,00256,Phường Hai Bà Trưng,01,Thành phố Hà Nội
+22,00283,Phường Vĩnh Tuy,01,Thành phố Hà Nội
+23,00292,Phường Bạch Mai,01,Thành phố Hà Nội
+24,00301,Phường Vĩnh Hưng,01,Thành phố Hà Nội
+25,00316,Phường Định Công,01,Thành phố Hà Nội
+26,00322,Phường Tương Mai,01,Thành phố Hà Nội
+27,00328,Phường Lĩnh Nam,01,Thành phố Hà Nội
+28,00331,Phường Hoàng Mai,01,Thành phố Hà Nội
+29,00337,Phường Hoàng Liệt,01,Thành phố Hà Nội
+30,00340,Phường Yên Sở,01,Thành phố Hà Nội
+31,00352,Phường Phương Liệt,01,Thành phố Hà Nội
+32,00364,Phường Khương Đình,01,Thành phố Hà Nội
+33,00367,Phường Thanh Xuân,01,Thành phố Hà Nội
+34,00376,Xã Sóc Sơn,01,Thành phố Hà Nội
+35,00382,Xã Kim Anh,01,Thành phố Hà Nội
+36,00385,Xã Trung Giã,01,Thành phố Hà Nội
+37,00430,Xã Đa Phúc,01,Thành phố Hà Nội
+38,00433,Xã Nội Bài,01,Thành phố Hà Nội
+39,00454,Xã Đông Anh,01,Thành phố Hà Nội
+40,00466,Xã Phúc Thịnh,01,Thành phố Hà Nội
+41,00475,Xã Thư Lâm,01,Thành phố Hà Nội
+42,00493,Xã Thiên Lộc,01,Thành phố Hà Nội
+43,00508,Xã Vĩnh Thanh,01,Thành phố Hà Nội
+44,00541,Xã Phù Đổng,01,Thành phố Hà Nội
+45,00562,Xã Thuận An,01,Thành phố Hà Nội
+46,00565,Xã Gia Lâm,01,Thành phố Hà Nội
+47,00577,Xã Bát Tràng,01,Thành phố Hà Nội
+48,00592,Phường Từ Liêm,01,Thành phố Hà Nội
+49,00598,Phường Thượng Cát,01,Thành phố Hà Nội
+50,00602,Phường Đông Ngạc,01,Thành phố Hà Nội
+51,00611,Phường Xuân Đỉnh,01,Thành phố Hà Nội
+52,00613,Phường Tây Tựu,01,Thành phố Hà Nội
+53,00619,Phường Phú Diễn,01,Thành phố Hà Nội
+54,00622,Phường Xuân Phương,01,Thành phố Hà Nội
+55,00634,Phường Tây Mỗ,01,Thành phố Hà Nội
+56,00637,Phường Đại Mỗ,01,Thành phố Hà Nội
+57,00640,Xã Thanh Trì,01,Thành phố Hà Nội
+58,00643,Phường Thanh Liệt,01,Thành phố Hà Nội
+59,00664,Xã Đại Thanh,01,Thành phố Hà Nội
+60,00679,Xã Ngọc Hồi,01,Thành phố Hà Nội
+61,00685,Xã Nam Phù,01,Thành phố Hà Nội
+62,04930,Xã Yên Xuân,01,Thành phố Hà Nội
+63,08974,Xã Quang Minh,01,Thành phố Hà Nội
+64,08980,Xã Yên Lãng,01,Thành phố Hà Nội
+65,08995,Xã Tiến Thắng,01,Thành phố Hà Nội
+66,09022,Xã Mê Linh,01,Thành phố Hà Nội
+67,09552,Phường Kiến Hưng,01,Thành phố Hà Nội
+68,09556,Phường Hà Đông,01,Thành phố Hà Nội
+69,09562,Phường Yên Nghĩa,01,Thành phố Hà Nội
+70,09568,Phường Phú Lương,01,Thành phố Hà Nội
+71,09574,Phường Sơn Tây,01,Thành phố Hà Nội
+72,09604,Phường Tùng Thiện,01,Thành phố Hà Nội
+73,09616,Xã Đoài Phương,01,Thành phố Hà Nội
+74,09619,Xã Quảng Oai,01,Thành phố Hà Nội
+75,09634,Xã Cổ Đô,01,Thành phố Hà Nội
+76,09661,Xã Minh Châu,01,Thành phố Hà Nội
+77,09664,Xã Vật Lại,01,Thành phố Hà Nội
+78,09676,Xã Bất Bạt,01,Thành phố Hà Nội
+79,09694,Xã Suối Hai,01,Thành phố Hà Nội
+80,09700,Xã Ba Vì,01,Thành phố Hà Nội
+81,09706,Xã Yên Bài,01,Thành phố Hà Nội
+82,09715,Xã Phúc Thọ,01,Thành phố Hà Nội
+83,09739,Xã Phúc Lộc,01,Thành phố Hà Nội
+84,09772,Xã Hát Môn,01,Thành phố Hà Nội
+85,09784,Xã Đan Phượng,01,Thành phố Hà Nội
+86,09787,Xã Liên Minh,01,Thành phố Hà Nội
+87,09817,Xã Ô Diên,01,Thành phố Hà Nội
+88,09832,Xã Hoài Đức,01,Thành phố Hà Nội
+89,09856,Xã Dương Hoà,01,Thành phố Hà Nội
+90,09871,Xã Sơn Đồng,01,Thành phố Hà Nội
+91,09877,Xã An Khánh,01,Thành phố Hà Nội
+92,09886,Phường Dương Nội,01,Thành phố Hà Nội
+93,09895,Xã Quốc Oai,01,Thành phố Hà Nội
+94,09910,Xã Kiều Phú,01,Thành phố Hà Nội
+95,09931,Xã Hưng Đạo,01,Thành phố Hà Nội
+96,09952,Xã Phú Cát,01,Thành phố Hà Nội
+97,09955,Xã Thạch Thất,01,Thành phố Hà Nội
+98,09982,Xã Hạ Bằng,01,Thành phố Hà Nội
+99,09988,Xã Hoà Lạc,01,Thành phố Hà Nội
+100,10003,Xã Tây Phương,01,Thành phố Hà Nội
+101,10015,Phường Chương Mỹ,01,Thành phố Hà Nội
+102,10030,Xã Phú Nghĩa,01,Thành phố Hà Nội
+103,10045,Xã Xuân Mai,01,Thành phố Hà Nội
+104,10072,Xã Quảng Bị,01,Thành phố Hà Nội
+105,10081,Xã Trần Phú,01,Thành phố Hà Nội
+106,10096,Xã Hoà Phú,01,Thành phố Hà Nội
+107,10114,Xã Thanh Oai,01,Thành phố Hà Nội
+108,10126,Xã Bình Minh,01,Thành phố Hà Nội
+109,10144,Xã Tam Hưng,01,Thành phố Hà Nội
+110,10180,Xã Dân Hoà,01,Thành phố Hà Nội
+111,10183,Xã Thường Tín,01,Thành phố Hà Nội
+112,10210,Xã Hồng Vân,01,Thành phố Hà Nội
+113,10231,Xã Thượng Phúc,01,Thành phố Hà Nội
+114,10237,Xã Chương Dương,01,Thành phố Hà Nội
+115,10273,Xã Phú Xuyên,01,Thành phố Hà Nội
+116,10279,Xã Phượng Dực,01,Thành phố Hà Nội
+117,10330,Xã Chuyên Mỹ,01,Thành phố Hà Nội
+118,10342,Xã Đại Xuyên,01,Thành phố Hà Nội
+119,10354,Xã Vân Đình,01,Thành phố Hà Nội
+120,10369,Xã Ứng Thiên,01,Thành phố Hà Nội
+121,10402,Xã Ứng Hoà,01,Thành phố Hà Nội
+122,10417,Xã Hoà Xá,01,Thành phố Hà Nội
+123,10441,Xã Mỹ Đức,01,Thành phố Hà Nội
+124,10459,Xã Phúc Sơn,01,Thành phố Hà Nội
+125,10465,Xã Hồng Sơn,01,Thành phố Hà Nội
+126,10489,Xã Hương Sơn,01,Thành phố Hà Nội
+127,01273,Phường Thục Phán,04,Tỉnh Cao Bằng
+128,01279,Phường Nùng Trí Cao,04,Tỉnh Cao Bằng
+129,01288,Phường Tân Giang,04,Tỉnh Cao Bằng
+130,01290,Xã Bảo Lâm,04,Tỉnh Cao Bằng
+131,01294,Xã Lý Bôn,04,Tỉnh Cao Bằng
+132,01297,Xã Nam Quang,04,Tỉnh Cao Bằng
+133,01304,Xã Quảng Lâm,04,Tỉnh Cao Bằng
+134,01318,Xã Yên Thổ,04,Tỉnh Cao Bằng
+135,01321,Xã Bảo Lạc,04,Tỉnh Cao Bằng
+136,01324,Xã Cốc Pàng,04,Tỉnh Cao Bằng
+137,01327,Xã Cô Ba,04,Tỉnh Cao Bằng
+138,01336,Xã Khánh Xuân,04,Tỉnh Cao Bằng
+139,01339,Xã Xuân Trường,04,Tỉnh Cao Bằng
+140,01351,Xã Hưng Đạo,04,Tỉnh Cao Bằng
+141,01354,Xã Huy Giáp,04,Tỉnh Cao Bằng
+142,01360,Xã Sơn Lộ,04,Tỉnh Cao Bằng
+143,01363,Xã Thông Nông,04,Tỉnh Cao Bằng
+144,01366,Xã Cần Yên,04,Tỉnh Cao Bằng
+145,01387,Xã Thanh Long,04,Tỉnh Cao Bằng
+146,01392,Xã Trường Hà,04,Tỉnh Cao Bằng
+147,01393,Xã Lũng Nặm,04,Tỉnh Cao Bằng
+148,01414,Xã Tổng Cọt,04,Tỉnh Cao Bằng
+149,01438,Xã Hà Quảng,04,Tỉnh Cao Bằng
+150,01447,Xã Trà Lĩnh,04,Tỉnh Cao Bằng
+151,01456,Xã Quang Hán,04,Tỉnh Cao Bằng
+152,01465,Xã Quang Trung,04,Tỉnh Cao Bằng
+153,01477,Xã Trùng Khánh,04,Tỉnh Cao Bằng
+154,01489,Xã Đình Phong,04,Tỉnh Cao Bằng
+155,01501,Xã Đàm Thuỷ,04,Tỉnh Cao Bằng
+156,01525,Xã Đoài Dương,04,Tỉnh Cao Bằng
+157,01537,Xã Lý Quốc,04,Tỉnh Cao Bằng
+158,01552,Xã Quang Long,04,Tỉnh Cao Bằng
+159,01558,Xã Hạ Lang,04,Tỉnh Cao Bằng
+160,01561,Xã Vinh Quý,04,Tỉnh Cao Bằng
+161,01576,Xã Quảng Uyên,04,Tỉnh Cao Bằng
+162,01594,Xã Độc Lập,04,Tỉnh Cao Bằng
+163,01618,Xã Hạnh Phúc,04,Tỉnh Cao Bằng
+164,01636,Xã Bế Văn Đàn,04,Tỉnh Cao Bằng
+165,01648,Xã Phục Hoà,04,Tỉnh Cao Bằng
+166,01654,Xã Hoà An,04,Tỉnh Cao Bằng
+167,01660,Xã Nam Tuấn,04,Tỉnh Cao Bằng
+168,01699,Xã Nguyễn Huệ,04,Tỉnh Cao Bằng
+169,01708,Xã Bạch Đằng,04,Tỉnh Cao Bằng
+170,01726,Xã Nguyên Bình,04,Tỉnh Cao Bằng
+171,01729,Xã Tĩnh Túc,04,Tỉnh Cao Bằng
+172,01738,Xã Ca Thành,04,Tỉnh Cao Bằng
+173,01747,Xã Minh Tâm,04,Tỉnh Cao Bằng
+174,01768,Xã Phan Thanh,04,Tỉnh Cao Bằng
+175,01774,Xã Tam Kim,04,Tỉnh Cao Bằng
+176,01777,Xã Thành Công,04,Tỉnh Cao Bằng
+177,01786,Xã Đông Khê,04,Tỉnh Cao Bằng
+178,01789,Xã Canh Tân,04,Tỉnh Cao Bằng
+179,01792,Xã Kim Đồng,04,Tỉnh Cao Bằng
+180,01795,Xã Minh Khai,04,Tỉnh Cao Bằng
+181,01807,Xã Thạch An,04,Tỉnh Cao Bằng
+182,01822,Xã Đức Long,04,Tỉnh Cao Bằng
+183,00691,Phường Hà Giang 2,08,Tỉnh Tuyên Quang
+184,00694,Phường Hà Giang 1,08,Tỉnh Tuyên Quang
+185,00700,Xã Ngọc Đường,08,Tỉnh Tuyên Quang
+186,00706,Xã Phú Linh,08,Tỉnh Tuyên Quang
+187,00715,Xã Lũng Cú,08,Tỉnh Tuyên Quang
+188,00721,Xã Đồng Văn,08,Tỉnh Tuyên Quang
+189,00733,Xã Sà Phìn,08,Tỉnh Tuyên Quang
+190,00745,Xã Phố Bảng,08,Tỉnh Tuyên Quang
+191,00763,Xã Lũng Phìn,08,Tỉnh Tuyên Quang
+192,00769,Xã Mèo Vạc,08,Tỉnh Tuyên Quang
+193,00778,Xã Sơn Vĩ,08,Tỉnh Tuyên Quang
+194,00787,Xã Sủng Máng,08,Tỉnh Tuyên Quang
+195,00802,Xã Khâu Vai,08,Tỉnh Tuyên Quang
+196,00808,Xã Tát Ngà,08,Tỉnh Tuyên Quang
+197,00817,Xã Niêm Sơn,08,Tỉnh Tuyên Quang
+198,00820,Xã Yên Minh,08,Tỉnh Tuyên Quang
+199,00829,Xã Thắng Mố,08,Tỉnh Tuyên Quang
+200,00832,Xã Bạch Đích,08,Tỉnh Tuyên Quang
+201,00847,Xã Mậu Duệ,08,Tỉnh Tuyên Quang
+202,00859,Xã Ngọc Long,08,Tỉnh Tuyên Quang
+203,00865,Xã Đường Thượng,08,Tỉnh Tuyên Quang
+204,00871,Xã Du Già,08,Tỉnh Tuyên Quang
+205,00874,Xã Quản Bạ,08,Tỉnh Tuyên Quang
+206,00883,Xã Cán Tỷ,08,Tỉnh Tuyên Quang
+207,00889,Xã Nghĩa Thuận,08,Tỉnh Tuyên Quang
+208,00892,Xã Tùng Vài,08,Tỉnh Tuyên Quang
+209,00901,Xã Lùng Tám,08,Tỉnh Tuyên Quang
+210,00913,Xã Vị Xuyên,08,Tỉnh Tuyên Quang
+211,00919,Xã Minh Tân,08,Tỉnh Tuyên Quang
+212,00922,Xã Thuận Hoà,08,Tỉnh Tuyên Quang
+213,00925,Xã Tùng Bá,08,Tỉnh Tuyên Quang
+214,00928,Xã Thanh Thuỷ,08,Tỉnh Tuyên Quang
+215,00937,Xã Lao Chải,08,Tỉnh Tuyên Quang
+216,00952,Xã Cao Bồ,08,Tỉnh Tuyên Quang
+217,00958,Xã Thượng Sơn,08,Tỉnh Tuyên Quang
+218,00967,Xã Việt Lâm,08,Tỉnh Tuyên Quang
+219,00970,Xã Linh Hồ,08,Tỉnh Tuyên Quang
+220,00976,Xã Bạch Ngọc,08,Tỉnh Tuyên Quang
+221,00982,Xã Minh Sơn,08,Tỉnh Tuyên Quang
+222,00985,Xã Giáp Trung,08,Tỉnh Tuyên Quang
+223,00991,Xã Bắc Mê,08,Tỉnh Tuyên Quang
+224,00994,Xã Minh Ngọc,08,Tỉnh Tuyên Quang
+225,01006,Xã Yên Cường,08,Tỉnh Tuyên Quang
+226,01012,Xã Đường Hồng,08,Tỉnh Tuyên Quang
+227,01021,Xã Hoàng Su Phì,08,Tỉnh Tuyên Quang
+228,01024,Xã Bản Máy,08,Tỉnh Tuyên Quang
+229,01033,Xã Thàng Tín,08,Tỉnh Tuyên Quang
+230,01051,Xã Tân Tiến,08,Tỉnh Tuyên Quang
+231,01057,Xã Pờ Ly Ngài,08,Tỉnh Tuyên Quang
+232,01075,Xã Nậm Dịch,08,Tỉnh Tuyên Quang
+233,01084,Xã Hồ Thầu,08,Tỉnh Tuyên Quang
+234,01090,Xã Thông Nguyên,08,Tỉnh Tuyên Quang
+235,01096,Xã Pà Vầy Sủ,08,Tỉnh Tuyên Quang
+236,01108,Xã Xín Mần,08,Tỉnh Tuyên Quang
+237,01117,Xã Trung Thịnh,08,Tỉnh Tuyên Quang
+238,01141,Xã Nấm Dẩn,08,Tỉnh Tuyên Quang
+239,01144,Xã Quảng Nguyên,08,Tỉnh Tuyên Quang
+240,01147,Xã Khuôn Lùng,08,Tỉnh Tuyên Quang
+241,01153,Xã Bắc Quang,08,Tỉnh Tuyên Quang
+242,01156,Xã Vĩnh Tuy,08,Tỉnh Tuyên Quang
+243,01165,Xã Đồng Tâm,08,Tỉnh Tuyên Quang
+244,01171,Xã Tân Quang,08,Tỉnh Tuyên Quang
+245,01180,Xã Bằng Hành,08,Tỉnh Tuyên Quang
+246,01192,Xã Liên Hiệp,08,Tỉnh Tuyên Quang
+247,01201,Xã Hùng An,08,Tỉnh Tuyên Quang
+248,01216,Xã Đồng Yên,08,Tỉnh Tuyên Quang
+249,01225,Xã Tiên Nguyên,08,Tỉnh Tuyên Quang
+250,01234,Xã Yên Thành,08,Tỉnh Tuyên Quang
+251,01237,Xã Quang Bình,08,Tỉnh Tuyên Quang
+252,01243,Xã Tân Trịnh,08,Tỉnh Tuyên Quang
+253,01246,Xã Bằng Lang,08,Tỉnh Tuyên Quang
+254,01255,Xã Xuân Giang,08,Tỉnh Tuyên Quang
+255,01261,Xã Tiên Yên,08,Tỉnh Tuyên Quang
+256,02212,Phường Nông Tiến,08,Tỉnh Tuyên Quang
+257,02215,Phường Minh Xuân,08,Tỉnh Tuyên Quang
+258,02221,Xã Nà Hang,08,Tỉnh Tuyên Quang
+259,02239,Xã Thượng Nông,08,Tỉnh Tuyên Quang
+260,02245,Xã Côn Lôn,08,Tỉnh Tuyên Quang
+261,02248,Xã Yên Hoa,08,Tỉnh Tuyên Quang
+262,02260,Xã Hồng Thái,08,Tỉnh Tuyên Quang
+263,02266,Xã Lâm Bình,08,Tỉnh Tuyên Quang
+264,02269,Xã Thượng Lâm,08,Tỉnh Tuyên Quang
+265,02287,Xã Chiêm Hoá,08,Tỉnh Tuyên Quang
+266,02296,Xã Bình An,08,Tỉnh Tuyên Quang
+267,02302,Xã Minh Quang,08,Tỉnh Tuyên Quang
+268,02305,Xã Trung Hà,08,Tỉnh Tuyên Quang
+269,02308,Xã Tân Mỹ,08,Tỉnh Tuyên Quang
+270,02317,Xã Yên Lập,08,Tỉnh Tuyên Quang
+271,02320,Xã Tân An,08,Tỉnh Tuyên Quang
+272,02332,Xã Kiên Đài,08,Tỉnh Tuyên Quang
+273,02350,Xã Kim Bình,08,Tỉnh Tuyên Quang
+274,02353,Xã Hoà An,08,Tỉnh Tuyên Quang
+275,02359,Xã Tri Phú,08,Tỉnh Tuyên Quang
+276,02365,Xã Yên Nguyên,08,Tỉnh Tuyên Quang
+277,02374,Xã Hàm Yên,08,Tỉnh Tuyên Quang
+278,02380,Xã Bạch Xa,08,Tỉnh Tuyên Quang
+279,02392,Xã Phù Lưu,08,Tỉnh Tuyên Quang
+280,02398,Xã Yên Phú,08,Tỉnh Tuyên Quang
+281,02404,Xã Bình Xa,08,Tỉnh Tuyên Quang
+282,02407,Xã Thái Sơn,08,Tỉnh Tuyên Quang
+283,02419,Xã Thái Hoà,08,Tỉnh Tuyên Quang
+284,02425,Xã Hùng Đức,08,Tỉnh Tuyên Quang
+285,02434,Xã Lực Hành,08,Tỉnh Tuyên Quang
+286,02437,Xã Kiến Thiết,08,Tỉnh Tuyên Quang
+287,02449,Xã Xuân Vân,08,Tỉnh Tuyên Quang
+288,02455,Xã Hùng Lợi,08,Tỉnh Tuyên Quang
+289,02458,Xã Trung Sơn,08,Tỉnh Tuyên Quang
+290,02470,Xã Tân Long,08,Tỉnh Tuyên Quang
+291,02473,Xã Yên Sơn,08,Tỉnh Tuyên Quang
+292,02494,Xã Thái Bình,08,Tỉnh Tuyên Quang
+293,02509,Phường Mỹ Lâm,08,Tỉnh Tuyên Quang
+294,02512,Phường An Tường,08,Tỉnh Tuyên Quang
+295,02524,Phường Bình Thuận,08,Tỉnh Tuyên Quang
+296,02530,Xã Nhữ Khê,08,Tỉnh Tuyên Quang
+297,02536,Xã Sơn Dương,08,Tỉnh Tuyên Quang
+298,02545,Xã Tân Trào,08,Tỉnh Tuyên Quang
+299,02548,Xã Bình Ca,08,Tỉnh Tuyên Quang
+300,02554,Xã Minh Thanh,08,Tỉnh Tuyên Quang
+301,02572,Xã Đông Thọ,08,Tỉnh Tuyên Quang
+302,02578,Xã Tân Thanh,08,Tỉnh Tuyên Quang
+303,02608,Xã Hồng Sơn,08,Tỉnh Tuyên Quang
+304,02611,Xã Phú Lương,08,Tỉnh Tuyên Quang
+305,02620,Xã Sơn Thuỷ,08,Tỉnh Tuyên Quang
+306,02623,Xã Trường Sinh,08,Tỉnh Tuyên Quang
+307,03127,Phường Điện Biên Phủ,11,Tỉnh Điện Biên
+308,03151,Phường Mường Lay,11,Tỉnh Điện Biên
+309,03158,Xã Sín Thầu,11,Tỉnh Điện Biên
+310,03160,Xã Mường Nhé,11,Tỉnh Điện Biên
+311,03162,Xã Nậm Kè,11,Tỉnh Điện Biên
+312,03163,Xã Mường Toong,11,Tỉnh Điện Biên
+313,03164,Xã Quảng Lâm,11,Tỉnh Điện Biên
+314,03166,Xã Mường Chà,11,Tỉnh Điện Biên
+315,03169,Xã Nà Hỳ,11,Tỉnh Điện Biên
+316,03172,Xã Na Sang,11,Tỉnh Điện Biên
+317,03175,Xã Chà Tở,11,Tỉnh Điện Biên
+318,03176,Xã Nà Bủng,11,Tỉnh Điện Biên
+319,03181,Xã Mường Tùng,11,Tỉnh Điện Biên
+320,03193,Xã Pa Ham,11,Tỉnh Điện Biên
+321,03194,Xã Nậm Nèn,11,Tỉnh Điện Biên
+322,03199,Xã Si Pa Phìn,11,Tỉnh Điện Biên
+323,03202,Xã Mường Pồn,11,Tỉnh Điện Biên
+324,03203,Xã Na Son,11,Tỉnh Điện Biên
+325,03208,Xã Xa Dung,11,Tỉnh Điện Biên
+326,03214,Xã Mường Luân,11,Tỉnh Điện Biên
+327,03217,Xã Tủa Chùa,11,Tỉnh Điện Biên
+328,03220,Xã Tủa Thàng,11,Tỉnh Điện Biên
+329,03226,Xã Sín Chải,11,Tỉnh Điện Biên
+330,03241,Xã Sính Phình,11,Tỉnh Điện Biên
+331,03244,Xã Sáng Nhè,11,Tỉnh Điện Biên
+332,03253,Xã Tuần Giáo,11,Tỉnh Điện Biên
+333,03256,Xã Mường Ảng,11,Tỉnh Điện Biên
+334,03260,Xã Pú Nhung,11,Tỉnh Điện Biên
+335,03268,Xã Mường Mùn,11,Tỉnh Điện Biên
+336,03283,Xã Chiềng Sinh,11,Tỉnh Điện Biên
+337,03295,Xã Quài Tở,11,Tỉnh Điện Biên
+338,03301,Xã Búng Lao,11,Tỉnh Điện Biên
+339,03313,Xã Mường Lạn,11,Tỉnh Điện Biên
+340,03316,Xã Nà Tấu,11,Tỉnh Điện Biên
+341,03325,Xã Mường Phăng,11,Tỉnh Điện Biên
+342,03328,Xã Thanh Nưa,11,Tỉnh Điện Biên
+343,03334,Phường Mường Thanh,11,Tỉnh Điện Biên
+344,03349,Xã Thanh Yên,11,Tỉnh Điện Biên
+345,03352,Xã Thanh An,11,Tỉnh Điện Biên
+346,03356,Xã Sam Mứn,11,Tỉnh Điện Biên
+347,03358,Xã Núa Ngam,11,Tỉnh Điện Biên
+348,03368,Xã Mường Nhà,11,Tỉnh Điện Biên
+349,03370,Xã Pu Nhi,11,Tỉnh Điện Biên
+350,03382,Xã Phình Giàng,11,Tỉnh Điện Biên
+351,03385,Xã Tìa Dình,11,Tỉnh Điện Biên
+352,03388,Phường Đoàn Kết,12,Tỉnh Lai Châu
+353,03390,Xã Bình Lư,12,Tỉnh Lai Châu
+354,03394,Xã Sin Suối Hồ,12,Tỉnh Lai Châu
+355,03405,Xã Tả Lèng,12,Tỉnh Lai Châu
+356,03408,Phường Tân Phong,12,Tỉnh Lai Châu
+357,03424,Xã Bản Bo,12,Tỉnh Lai Châu
+358,03430,Xã Khun Há,12,Tỉnh Lai Châu
+359,03433,Xã Bum Tở,12,Tỉnh Lai Châu
+360,03434,Xã Nậm Hàng,12,Tỉnh Lai Châu
+361,03439,Xã Thu Lũm,12,Tỉnh Lai Châu
+362,03442,Xã Pa Ủ,12,Tỉnh Lai Châu
+363,03445,Xã Mường Tè,12,Tỉnh Lai Châu
+364,03451,Xã Mù Cả,12,Tỉnh Lai Châu
+365,03460,Xã Hua Bum,12,Tỉnh Lai Châu
+366,03463,Xã Tà Tổng,12,Tỉnh Lai Châu
+367,03466,Xã Bum Nưa,12,Tỉnh Lai Châu
+368,03472,Xã Mường Mô,12,Tỉnh Lai Châu
+369,03478,Xã Sìn Hồ,12,Tỉnh Lai Châu
+370,03487,Xã Lê Lợi,12,Tỉnh Lai Châu
+371,03503,Xã Pa Tần,12,Tỉnh Lai Châu
+372,03508,Xã Hồng Thu,12,Tỉnh Lai Châu
+373,03517,Xã Nậm Tăm,12,Tỉnh Lai Châu
+374,03529,Xã Tủa Sín Chải,12,Tỉnh Lai Châu
+375,03532,Xã Pu Sam Cáp,12,Tỉnh Lai Châu
+376,03538,Xã Nậm Mạ,12,Tỉnh Lai Châu
+377,03544,Xã Nậm Cuổi,12,Tỉnh Lai Châu
+378,03549,Xã Phong Thổ,12,Tỉnh Lai Châu
+379,03562,Xã Sì Lở Lầu,12,Tỉnh Lai Châu
+380,03571,Xã Dào San,12,Tỉnh Lai Châu
+381,03583,Xã Khổng Lào,12,Tỉnh Lai Châu
+382,03595,Xã Than Uyên,12,Tỉnh Lai Châu
+383,03598,Xã Tân Uyên,12,Tỉnh Lai Châu
+384,03601,Xã Mường Khoa,12,Tỉnh Lai Châu
+385,03613,Xã Nậm Sỏ,12,Tỉnh Lai Châu
+386,03616,Xã Pắc Ta,12,Tỉnh Lai Châu
+387,03618,Xã Mường Than,12,Tỉnh Lai Châu
+388,03637,Xã Mường Kim,12,Tỉnh Lai Châu
+389,03640,Xã Khoen On,12,Tỉnh Lai Châu
+390,03646,Phường Tô Hiệu,14,Tỉnh Sơn La
+391,03664,Phường Chiềng An,14,Tỉnh Sơn La
+392,03670,Phường Chiềng Cơi,14,Tỉnh Sơn La
+393,03679,Phường Chiềng Sinh,14,Tỉnh Sơn La
+394,03688,Xã Mường Chiên,14,Tỉnh Sơn La
+395,03694,Xã Mường Giôn,14,Tỉnh Sơn La
+396,03703,Xã Quỳnh Nhai,14,Tỉnh Sơn La
+397,03712,Xã Mường Sại,14,Tỉnh Sơn La
+398,03721,Xã Thuận Châu,14,Tỉnh Sơn La
+399,03724,Xã Bình Thuận,14,Tỉnh Sơn La
+400,03727,Xã Mường É,14,Tỉnh Sơn La
+401,03754,Xã Chiềng La,14,Tỉnh Sơn La
+402,03757,Xã Mường Khiêng,14,Tỉnh Sơn La
+403,03760,Xã Mường Bám,14,Tỉnh Sơn La
+404,03763,Xã Long Hẹ,14,Tỉnh Sơn La
+405,03781,Xã Co Mạ,14,Tỉnh Sơn La
+406,03784,Xã Nậm Lầu,14,Tỉnh Sơn La
+407,03799,Xã Muổi Nọi,14,Tỉnh Sơn La
+408,03808,Xã Mường La,14,Tỉnh Sơn La
+409,03814,Xã Chiềng Lao,14,Tỉnh Sơn La
+410,03820,Xã Ngọc Chiến,14,Tỉnh Sơn La
+411,03847,Xã Mường Bú,14,Tỉnh Sơn La
+412,03850,Xã Chiềng Hoa,14,Tỉnh Sơn La
+413,03856,Xã Bắc Yên,14,Tỉnh Sơn La
+414,03862,Xã Xím Vàng,14,Tỉnh Sơn La
+415,03868,Xã Tà Xùa,14,Tỉnh Sơn La
+416,03871,Xã Pắc Ngà,14,Tỉnh Sơn La
+417,03880,Xã Tạ Khoa,14,Tỉnh Sơn La
+418,03892,Xã Chiềng Sại,14,Tỉnh Sơn La
+419,03901,Xã Suối Tọ,14,Tỉnh Sơn La
+420,03907,Xã Mường Cơi,14,Tỉnh Sơn La
+421,03910,Xã Phù Yên,14,Tỉnh Sơn La
+422,03922,Xã Gia Phù,14,Tỉnh Sơn La
+423,03943,Xã Mường Bang,14,Tỉnh Sơn La
+424,03958,Xã Tường Hạ,14,Tỉnh Sơn La
+425,03961,Xã Kim Bon,14,Tỉnh Sơn La
+426,03970,Xã Tân Phong,14,Tỉnh Sơn La
+427,03979,Phường Mộc Sơn,14,Tỉnh Sơn La
+428,03980,Phường Mộc Châu,14,Tỉnh Sơn La
+429,03982,Phường Thảo Nguyên,14,Tỉnh Sơn La
+430,03985,Xã Chiềng Sơn,14,Tỉnh Sơn La
+431,03997,Xã Tân Yên,14,Tỉnh Sơn La
+432,04000,Xã Đoàn Kết,14,Tỉnh Sơn La
+433,04006,Xã Song Khủa,14,Tỉnh Sơn La
+434,04018,Xã Tô Múa,14,Tỉnh Sơn La
+435,04033,Phường Vân Sơn,14,Tỉnh Sơn La
+436,04045,Xã Lóng Sập,14,Tỉnh Sơn La
+437,04048,Xã Vân Hồ,14,Tỉnh Sơn La
+438,04057,Xã Xuân Nha,14,Tỉnh Sơn La
+439,04075,Xã Yên Châu,14,Tỉnh Sơn La
+440,04078,Xã Chiềng Hặc,14,Tỉnh Sơn La
+441,04087,Xã Yên Sơn,14,Tỉnh Sơn La
+442,04096,Xã Lóng Phiêng,14,Tỉnh Sơn La
+443,04099,Xã Phiêng Khoài,14,Tỉnh Sơn La
+444,04105,Xã Mai Sơn,14,Tỉnh Sơn La
+445,04108,Xã Chiềng Sung,14,Tỉnh Sơn La
+446,04117,Xã Mường Chanh,14,Tỉnh Sơn La
+447,04123,Xã Chiềng Mung,14,Tỉnh Sơn La
+448,04132,Xã Chiềng Mai,14,Tỉnh Sơn La
+449,04136,Xã Tà Hộc,14,Tỉnh Sơn La
+450,04144,Xã Phiêng Cằm,14,Tỉnh Sơn La
+451,04159,Xã Phiêng Pằn,14,Tỉnh Sơn La
+452,04168,Xã Sông Mã,14,Tỉnh Sơn La
+453,04171,Xã Bó Sinh,14,Tỉnh Sơn La
+454,04183,Xã Mường Lầm,14,Tỉnh Sơn La
+455,04186,Xã Nậm Ty,14,Tỉnh Sơn La
+456,04195,Xã Chiềng Sơ,14,Tỉnh Sơn La
+457,04204,Xã Chiềng Khoong,14,Tỉnh Sơn La
+458,04210,Xã Huổi Một,14,Tỉnh Sơn La
+459,04219,Xã Mường Hung,14,Tỉnh Sơn La
+460,04222,Xã Chiềng Khương,14,Tỉnh Sơn La
+461,04228,Xã Púng Bánh,14,Tỉnh Sơn La
+462,04231,Xã Sốp Cộp,14,Tỉnh Sơn La
+463,04240,Xã Mường Lèo,14,Tỉnh Sơn La
+464,04246,Xã Mường Lạn,14,Tỉnh Sơn La
+465,02647,Phường Lào Cai,15,Tỉnh Lào Cai
+466,02671,Phường Cam Đường,15,Tỉnh Lào Cai
+467,02680,Xã Hợp Thành,15,Tỉnh Lào Cai
+468,02683,Xã Bát Xát,15,Tỉnh Lào Cai
+469,02686,Xã A Mú Sung,15,Tỉnh Lào Cai
+470,02695,Xã Trịnh Tường,15,Tỉnh Lào Cai
+471,02701,Xã Y Tý,15,Tỉnh Lào Cai
+472,02707,Xã Dền Sáng,15,Tỉnh Lào Cai
+473,02725,Xã Bản Xèo,15,Tỉnh Lào Cai
+474,02728,Xã Mường Hum,15,Tỉnh Lào Cai
+475,02746,Xã Cốc San,15,Tỉnh Lào Cai
+476,02752,Xã Pha Long,15,Tỉnh Lào Cai
+477,02761,Xã Mường Khương,15,Tỉnh Lào Cai
+478,02782,Xã Cao Sơn,15,Tỉnh Lào Cai
+479,02788,Xã Bản Lầu,15,Tỉnh Lào Cai
+480,02809,Xã Si Ma Cai,15,Tỉnh Lào Cai
+481,02824,Xã Sín Chéng,15,Tỉnh Lào Cai
+482,02839,Xã Bắc Hà,15,Tỉnh Lào Cai
+483,02842,Xã Tả Củ Tỷ,15,Tỉnh Lào Cai
+484,02848,Xã Lùng Phình,15,Tỉnh Lào Cai
+485,02869,Xã Bản Liền,15,Tỉnh Lào Cai
+486,02890,Xã Bảo Nhai,15,Tỉnh Lào Cai
+487,02896,Xã Cốc Lầu,15,Tỉnh Lào Cai
+488,02902,Xã Phong Hải,15,Tỉnh Lào Cai
+489,02905,Xã Bảo Thắng,15,Tỉnh Lào Cai
+490,02908,Xã Tằng Loỏng,15,Tỉnh Lào Cai
+491,02923,Xã Gia Phú,15,Tỉnh Lào Cai
+492,02926,Xã Xuân Quang,15,Tỉnh Lào Cai
+493,02947,Xã Bảo Yên,15,Tỉnh Lào Cai
+494,02953,Xã Nghĩa Đô,15,Tỉnh Lào Cai
+495,02962,Xã Xuân Hoà,15,Tỉnh Lào Cai
+496,02968,Xã Thượng Hà,15,Tỉnh Lào Cai
+497,02989,Xã Bảo Hà,15,Tỉnh Lào Cai
+498,02998,Xã Phúc Khánh,15,Tỉnh Lào Cai
+499,03004,Xã Ngũ Chỉ Sơn,15,Tỉnh Lào Cai
+500,03006,Phường Sa Pa,15,Tỉnh Lào Cai
+501,03013,Xã Tả Phìn,15,Tỉnh Lào Cai
+502,03037,Xã Tả Van,15,Tỉnh Lào Cai
+503,03043,Xã Mường Bo,15,Tỉnh Lào Cai
+504,03046,Xã Bản Hồ,15,Tỉnh Lào Cai
+505,03061,Xã Võ Lao,15,Tỉnh Lào Cai
+506,03076,Xã Nậm Chày,15,Tỉnh Lào Cai
+507,03082,Xã Văn Bàn,15,Tỉnh Lào Cai
+508,03085,Xã Nậm Xé,15,Tỉnh Lào Cai
+509,03091,Xã Chiềng Ken,15,Tỉnh Lào Cai
+510,03103,Xã Khánh Yên,15,Tỉnh Lào Cai
+511,03106,Xã Dương Quỳ,15,Tỉnh Lào Cai
+512,03121,Xã Minh Lương,15,Tỉnh Lào Cai
+513,04252,Phường Yên Bái,15,Tỉnh Lào Cai
+514,04273,Phường Nam Cường,15,Tỉnh Lào Cai
+515,04279,Phường Văn Phú,15,Tỉnh Lào Cai
+516,04288,Phường Nghĩa Lộ,15,Tỉnh Lào Cai
+517,04303,Xã Lục Yên,15,Tỉnh Lào Cai
+518,04309,Xã Lâm Thượng,15,Tỉnh Lào Cai
+519,04336,Xã Tân Lĩnh,15,Tỉnh Lào Cai
+520,04342,Xã Khánh Hoà,15,Tỉnh Lào Cai
+521,04345,Xã Mường Lai,15,Tỉnh Lào Cai
+522,04363,Xã Phúc Lợi,15,Tỉnh Lào Cai
+523,04375,Xã Mậu A,15,Tỉnh Lào Cai
+524,04381,Xã Lâm Giang,15,Tỉnh Lào Cai
+525,04387,Xã Châu Quế,15,Tỉnh Lào Cai
+526,04399,Xã Đông Cuông,15,Tỉnh Lào Cai
+527,04402,Xã Phong Dụ Hạ,15,Tỉnh Lào Cai
+528,04423,Xã Phong Dụ Thượng,15,Tỉnh Lào Cai
+529,04429,Xã Tân Hợp,15,Tỉnh Lào Cai
+530,04441,Xã Xuân Ái,15,Tỉnh Lào Cai
+531,04450,Xã Mỏ Vàng,15,Tỉnh Lào Cai
+532,04456,Xã Mù Cang Chải,15,Tỉnh Lào Cai
+533,04462,Xã Nậm Có,15,Tỉnh Lào Cai
+534,04465,Xã Khao Mang,15,Tỉnh Lào Cai
+535,04474,Xã Lao Chải,15,Tỉnh Lào Cai
+536,04489,Xã Chế Tạo,15,Tỉnh Lào Cai
+537,04492,Xã Púng Luông,15,Tỉnh Lào Cai
+538,04498,Xã Trấn Yên,15,Tỉnh Lào Cai
+539,04531,Xã Quy Mông,15,Tỉnh Lào Cai
+540,04537,Xã Lương Thịnh,15,Tỉnh Lào Cai
+541,04543,Phường Âu Lâu,15,Tỉnh Lào Cai
+542,04564,Xã Việt Hồng,15,Tỉnh Lào Cai
+543,04576,Xã Hưng Khánh,15,Tỉnh Lào Cai
+544,04585,Xã Hạnh Phúc,15,Tỉnh Lào Cai
+545,04603,Xã Tà Xi Láng,15,Tỉnh Lào Cai
+546,04606,Xã Trạm Tấu,15,Tỉnh Lào Cai
+547,04609,Xã Phình Hồ,15,Tỉnh Lào Cai
+548,04630,Xã Tú Lệ,15,Tỉnh Lào Cai
+549,04636,Xã Gia Hội,15,Tỉnh Lào Cai
+550,04651,Xã Sơn Lương,15,Tỉnh Lào Cai
+551,04660,Xã Liên Sơn,15,Tỉnh Lào Cai
+552,04663,Phường Trung Tâm,15,Tỉnh Lào Cai
+553,04672,Xã Văn Chấn,15,Tỉnh Lào Cai
+554,04681,Phường Cầu Thia,15,Tỉnh Lào Cai
+555,04693,Xã Cát Thịnh,15,Tỉnh Lào Cai
+556,04699,Xã Chấn Thịnh,15,Tỉnh Lào Cai
+557,04705,Xã Thượng Bằng La,15,Tỉnh Lào Cai
+558,04711,Xã Nghĩa Tâm,15,Tỉnh Lào Cai
+559,04714,Xã Yên Bình,15,Tỉnh Lào Cai
+560,04717,Xã Thác Bà,15,Tỉnh Lào Cai
+561,04726,Xã Cảm Nhân,15,Tỉnh Lào Cai
+562,04744,Xã Yên Thành,15,Tỉnh Lào Cai
+563,04750,Xã Bảo Ái,15,Tỉnh Lào Cai
+564,01840,Phường Đức Xuân,19,Tỉnh Thái Nguyên
+565,01843,Phường Bắc Kạn,19,Tỉnh Thái Nguyên
+566,01849,Xã Phong Quang,19,Tỉnh Thái Nguyên
+567,01864,Xã Bằng Thành,19,Tỉnh Thái Nguyên
+568,01879,Xã Cao Minh,19,Tỉnh Thái Nguyên
+569,01882,Xã Nghiên Loan,19,Tỉnh Thái Nguyên
+570,01894,Xã Phúc Lộc,19,Tỉnh Thái Nguyên
+571,01906,Xã Ba Bể,19,Tỉnh Thái Nguyên
+572,01912,Xã Chợ Rã,19,Tỉnh Thái Nguyên
+573,01921,Xã Thượng Minh,19,Tỉnh Thái Nguyên
+574,01933,Xã Đồng Phúc,19,Tỉnh Thái Nguyên
+575,01936,Xã Nà Phặc,19,Tỉnh Thái Nguyên
+576,01942,Xã Bằng Vân,19,Tỉnh Thái Nguyên
+577,01954,Xã Ngân Sơn,19,Tỉnh Thái Nguyên
+578,01957,Xã Thượng Quan,19,Tỉnh Thái Nguyên
+579,01960,Xã Hiệp Lực,19,Tỉnh Thái Nguyên
+580,01969,Xã Phủ Thông,19,Tỉnh Thái Nguyên
+581,01981,Xã Vĩnh Thông,19,Tỉnh Thái Nguyên
+582,02008,Xã Cẩm Giàng,19,Tỉnh Thái Nguyên
+583,02014,Xã Bạch Thông,19,Tỉnh Thái Nguyên
+584,02020,Xã Chợ Đồn,19,Tỉnh Thái Nguyên
+585,02026,Xã Nam Cường,19,Tỉnh Thái Nguyên
+586,02038,Xã Quảng Bạch,19,Tỉnh Thái Nguyên
+587,02044,Xã Yên Thịnh,19,Tỉnh Thái Nguyên
+588,02071,Xã Nghĩa Tá,19,Tỉnh Thái Nguyên
+589,02083,Xã Yên Phong,19,Tỉnh Thái Nguyên
+590,02086,Xã Chợ Mới,19,Tỉnh Thái Nguyên
+591,02101,Xã Thanh Mai,19,Tỉnh Thái Nguyên
+592,02104,Xã Tân Kỳ,19,Tỉnh Thái Nguyên
+593,02107,Xã Thanh Thịnh,19,Tỉnh Thái Nguyên
+594,02116,Xã Yên Bình,19,Tỉnh Thái Nguyên
+595,02143,Xã Văn Lang,19,Tỉnh Thái Nguyên
+596,02152,Xã Cường Lợi,19,Tỉnh Thái Nguyên
+597,02155,Xã Na Rì,19,Tỉnh Thái Nguyên
+598,02176,Xã Trần Phú,19,Tỉnh Thái Nguyên
+599,02185,Xã Côn Minh,19,Tỉnh Thái Nguyên
+600,02191,Xã Xuân Dương,19,Tỉnh Thái Nguyên
+601,05443,Phường Phan Đình Phùng,19,Tỉnh Thái Nguyên
+602,05455,Phường Quyết Thắng,19,Tỉnh Thái Nguyên
+603,05467,Phường Gia Sàng,19,Tỉnh Thái Nguyên
+604,05482,Phường Quan Triều,19,Tỉnh Thái Nguyên
+605,05488,Xã Đại Phúc,19,Tỉnh Thái Nguyên
+606,05500,Phường Tích Lương,19,Tỉnh Thái Nguyên
+607,05503,Xã Tân Cương,19,Tỉnh Thái Nguyên
+608,05518,Phường Sông Công,19,Tỉnh Thái Nguyên
+609,05528,Phường Bách Quang,19,Tỉnh Thái Nguyên
+610,05533,Phường Bá Xuyên,19,Tỉnh Thái Nguyên
+611,05542,Xã Lam Vỹ,19,Tỉnh Thái Nguyên
+612,05551,Xã Kim Phượng,19,Tỉnh Thái Nguyên
+613,05563,Xã Phượng Tiến,19,Tỉnh Thái Nguyên
+614,05569,Xã Định Hoá,19,Tỉnh Thái Nguyên
+615,05581,Xã Trung Hội,19,Tỉnh Thái Nguyên
+616,05587,Xã Bình Yên,19,Tỉnh Thái Nguyên
+617,05602,Xã Phú Đình,19,Tỉnh Thái Nguyên
+618,05605,Xã Bình Thành,19,Tỉnh Thái Nguyên
+619,05611,Xã Phú Lương,19,Tỉnh Thái Nguyên
+620,05620,Xã Yên Trạch,19,Tỉnh Thái Nguyên
+621,05632,Xã Hợp Thành,19,Tỉnh Thái Nguyên
+622,05641,Xã Vô Tranh,19,Tỉnh Thái Nguyên
+623,05662,Xã Trại Cau,19,Tỉnh Thái Nguyên
+624,05665,Xã Văn Lăng,19,Tỉnh Thái Nguyên
+625,05674,Xã Quang Sơn,19,Tỉnh Thái Nguyên
+626,05680,Xã Văn Hán,19,Tỉnh Thái Nguyên
+627,05692,Xã Đồng Hỷ,19,Tỉnh Thái Nguyên
+628,05707,Xã Nam Hoà,19,Tỉnh Thái Nguyên
+629,05710,Phường Linh Sơn,19,Tỉnh Thái Nguyên
+630,05716,Xã Võ Nhai,19,Tỉnh Thái Nguyên
+631,05719,Xã Sảng Mộc,19,Tỉnh Thái Nguyên
+632,05722,Xã Nghinh Tường,19,Tỉnh Thái Nguyên
+633,05725,Xã Thần Sa,19,Tỉnh Thái Nguyên
+634,05740,Xã La Hiên,19,Tỉnh Thái Nguyên
+635,05746,Xã Tràng Xá,19,Tỉnh Thái Nguyên
+636,05755,Xã Dân Tiến,19,Tỉnh Thái Nguyên
+637,05773,Xã Phú Xuyên,19,Tỉnh Thái Nguyên
+638,05776,Xã Đức Lương,19,Tỉnh Thái Nguyên
+639,05788,Xã Phú Lạc,19,Tỉnh Thái Nguyên
+640,05800,Xã Phú Thịnh,19,Tỉnh Thái Nguyên
+641,05809,Xã An Khánh,19,Tỉnh Thái Nguyên
+642,05818,Xã La Bằng,19,Tỉnh Thái Nguyên
+643,05830,Xã Đại Từ,19,Tỉnh Thái Nguyên
+644,05845,Xã Vạn Phú,19,Tỉnh Thái Nguyên
+645,05851,Xã Quân Chu,19,Tỉnh Thái Nguyên
+646,05857,Phường Phúc Thuận,19,Tỉnh Thái Nguyên
+647,05860,Phường Phổ Yên,19,Tỉnh Thái Nguyên
+648,05881,Xã Thành Công,19,Tỉnh Thái Nguyên
+649,05890,Phường Vạn Xuân,19,Tỉnh Thái Nguyên
+650,05899,Phường Trung Thành,19,Tỉnh Thái Nguyên
+651,05908,Xã Phú Bình,19,Tỉnh Thái Nguyên
+652,05917,Xã Tân Khánh,19,Tỉnh Thái Nguyên
+653,05923,Xã Tân Thành,19,Tỉnh Thái Nguyên
+654,05941,Xã Điềm Thuỵ,19,Tỉnh Thái Nguyên
+655,05953,Xã Kha Sơn,19,Tỉnh Thái Nguyên
+656,05977,Phường Đông Kinh,20,Tỉnh Lạng Sơn
+657,05983,Phường Lương Văn Tri,20,Tỉnh Lạng Sơn
+658,05986,Phường Tam Thanh,20,Tỉnh Lạng Sơn
+659,06001,Xã Đoàn Kết,20,Tỉnh Lạng Sơn
+660,06004,Xã Quốc Khánh,20,Tỉnh Lạng Sơn
+661,06019,Xã Tân Tiến,20,Tỉnh Lạng Sơn
+662,06037,Xã Kháng Chiến,20,Tỉnh Lạng Sơn
+663,06040,Xã Thất Khê,20,Tỉnh Lạng Sơn
+664,06046,Xã Tràng Định,20,Tỉnh Lạng Sơn
+665,06058,Xã Quốc Việt,20,Tỉnh Lạng Sơn
+666,06073,Xã Hoa Thám,20,Tỉnh Lạng Sơn
+667,06076,Xã Quý Hoà,20,Tỉnh Lạng Sơn
+668,06079,Xã Hồng Phong,20,Tỉnh Lạng Sơn
+669,06085,Xã Thiện Hoà,20,Tỉnh Lạng Sơn
+670,06091,Xã Thiện Thuật,20,Tỉnh Lạng Sơn
+671,06103,Xã Thiện Long,20,Tỉnh Lạng Sơn
+672,06112,Xã Bình Gia,20,Tỉnh Lạng Sơn
+673,06115,Xã Tân Văn,20,Tỉnh Lạng Sơn
+674,06124,Xã Na Sầm,20,Tỉnh Lạng Sơn
+675,06148,Xã Thuỵ Hùng,20,Tỉnh Lạng Sơn
+676,06151,Xã Hội Hoan,20,Tỉnh Lạng Sơn
+677,06154,Xã Văn Lãng,20,Tỉnh Lạng Sơn
+678,06172,Xã Hoàng Văn Thụ,20,Tỉnh Lạng Sơn
+679,06184,Xã Đồng Đăng,20,Tỉnh Lạng Sơn
+680,06187,Phường Kỳ Lừa,20,Tỉnh Lạng Sơn
+681,06196,Xã Ba Sơn,20,Tỉnh Lạng Sơn
+682,06211,Xã Cao Lộc,20,Tỉnh Lạng Sơn
+683,06220,Xã Công Sơn,20,Tỉnh Lạng Sơn
+684,06253,Xã Văn Quan,20,Tỉnh Lạng Sơn
+685,06280,Xã Điềm He,20,Tỉnh Lạng Sơn
+686,06286,Xã Khánh Khê,20,Tỉnh Lạng Sơn
+687,06298,Xã Yên Phúc,20,Tỉnh Lạng Sơn
+688,06313,Xã Tri Lễ,20,Tỉnh Lạng Sơn
+689,06316,Xã Tân Đoàn,20,Tỉnh Lạng Sơn
+690,06325,xã Bắc Sơn,20,Tỉnh Lạng Sơn
+691,06337,Xã Tân Tri,20,Tỉnh Lạng Sơn
+692,06349,Xã Hưng Vũ,20,Tỉnh Lạng Sơn
+693,06364,Xã Vũ Lễ,20,Tỉnh Lạng Sơn
+694,06367,Xã Vũ Lăng,20,Tỉnh Lạng Sơn
+695,06376,Xã Nhất Hoà,20,Tỉnh Lạng Sơn
+696,06385,Xã Hữu Lũng,20,Tỉnh Lạng Sơn
+697,06391,Xã Yên Bình,20,Tỉnh Lạng Sơn
+698,06400,Xã Hữu Liên,20,Tỉnh Lạng Sơn
+699,06415,Xã Vân Nham,20,Tỉnh Lạng Sơn
+700,06427,Xã Cai Kinh,20,Tỉnh Lạng Sơn
+701,06436,Xã Thiện Tân,20,Tỉnh Lạng Sơn
+702,06445,Xã Tân Thành,20,Tỉnh Lạng Sơn
+703,06457,Xã Tuấn Sơn,20,Tỉnh Lạng Sơn
+704,06463,Xã Chi Lăng,20,Tỉnh Lạng Sơn
+705,06475,Xã Bằng Mạc,20,Tỉnh Lạng Sơn
+706,06481,Xã Chiến Thắng,20,Tỉnh Lạng Sơn
+707,06496,Xã Nhân Lý,20,Tỉnh Lạng Sơn
+708,06505,Xã Vạn Linh,20,Tỉnh Lạng Sơn
+709,06517,Xã Quan Sơn,20,Tỉnh Lạng Sơn
+710,06526,Xã Na Dương,20,Tỉnh Lạng Sơn
+711,06529,Xã Lộc Bình,20,Tỉnh Lạng Sơn
+712,06541,Xã Mẫu Sơn,20,Tỉnh Lạng Sơn
+713,06565,Xã Khuất Xá,20,Tỉnh Lạng Sơn
+714,06577,Xã Thống Nhất,20,Tỉnh Lạng Sơn
+715,06601,Xã Lợi Bác,20,Tỉnh Lạng Sơn
+716,06607,Xã Xuân Dương,20,Tỉnh Lạng Sơn
+717,06613,Xã Đình Lập,20,Tỉnh Lạng Sơn
+718,06616,Xã Thái Bình,20,Tỉnh Lạng Sơn
+719,06625,Xã Kiên Mộc,20,Tỉnh Lạng Sơn
+720,06637,Xã Châu Sơn,20,Tỉnh Lạng Sơn
+721,06652,Phường Hà Tu,22,Thành phố Quảng Ninh
+722,06658,Phường Cao Xanh,22,Thành phố Quảng Ninh
+723,06661,Phường Việt Hưng,22,Thành phố Quảng Ninh
+724,06673,Phường Bãi Cháy,22,Thành phố Quảng Ninh
+725,06676,Phường Hà Lầm,22,Thành phố Quảng Ninh
+726,06685,Phường Hồng Gai,22,Thành phố Quảng Ninh
+727,06688,Phường Hạ Long,22,Thành phố Quảng Ninh
+728,06706,Phường Tuần Châu,22,Thành phố Quảng Ninh
+729,06709,Phường Móng Cái 2,22,Thành phố Quảng Ninh
+730,06712,Phường Móng Cái 1,22,Thành phố Quảng Ninh
+731,06724,Xã Hải Sơn,22,Thành phố Quảng Ninh
+732,06733,Xã Hải Ninh,22,Thành phố Quảng Ninh
+733,06736,Phường Móng Cái 3,22,Thành phố Quảng Ninh
+734,06757,Xã Vĩnh Thực,22,Thành phố Quảng Ninh
+735,06760,Phường Mông Dương,22,Thành phố Quảng Ninh
+736,06778,Phường Quang Hanh,22,Thành phố Quảng Ninh
+737,06781,Phường Cửa Ông,22,Thành phố Quảng Ninh
+738,06793,Phường Cẩm Phả,22,Thành phố Quảng Ninh
+739,06799,Xã Hải Hoà,22,Thành phố Quảng Ninh
+740,06811,Phường Uông Bí,22,Thành phố Quảng Ninh
+741,06820,Phường Vàng Danh,22,Thành phố Quảng Ninh
+742,06832,Phường Yên Tử,22,Thành phố Quảng Ninh
+743,06838,Xã Bình Liêu,22,Thành phố Quảng Ninh
+744,06841,Xã Hoành Mô,22,Thành phố Quảng Ninh
+745,06856,Xã Lục Hồn,22,Thành phố Quảng Ninh
+746,06862,Xã Tiên Yên,22,Thành phố Quảng Ninh
+747,06874,Xã Điền Xá,22,Thành phố Quảng Ninh
+748,06877,Xã Đông Ngũ,22,Thành phố Quảng Ninh
+749,06886,Xã Hải Lạng,22,Thành phố Quảng Ninh
+750,06895,Xã Đầm Hà,22,Thành phố Quảng Ninh
+751,06913,Xã Quảng Tân,22,Thành phố Quảng Ninh
+752,06922,Xã Quảng Hà,22,Thành phố Quảng Ninh
+753,06931,Xã Quảng Đức,22,Thành phố Quảng Ninh
+754,06946,Xã Đường Hoa,22,Thành phố Quảng Ninh
+755,06967,Xã Cái Chiên,22,Thành phố Quảng Ninh
+756,06970,Xã Ba Chẽ,22,Thành phố Quảng Ninh
+757,06979,Xã Kỳ Thượng,22,Thành phố Quảng Ninh
+758,06985,Xã Lương Minh,22,Thành phố Quảng Ninh
+759,06994,Đặc khu Vân Đồn,22,Thành phố Quảng Ninh
+760,07030,Phường Hoành Bồ,22,Thành phố Quảng Ninh
+761,07054,Xã Quảng La,22,Thành phố Quảng Ninh
+762,07060,Xã Thống Nhất,22,Thành phố Quảng Ninh
+763,07069,Phường Mạo Khê,22,Thành phố Quảng Ninh
+764,07081,Phường Bình Khê,22,Thành phố Quảng Ninh
+765,07090,Phường An Sinh,22,Thành phố Quảng Ninh
+766,07093,Phường Đông Triều,22,Thành phố Quảng Ninh
+767,07114,Phường Hoàng Quế,22,Thành phố Quảng Ninh
+768,07132,Phường Quảng Yên,22,Thành phố Quảng Ninh
+769,07135,Phường Đông Mai,22,Thành phố Quảng Ninh
+770,07147,Phường Hiệp Hoà,22,Thành phố Quảng Ninh
+771,07168,Phường Hà An,22,Thành phố Quảng Ninh
+772,07180,Phường Liên Hoà,22,Thành phố Quảng Ninh
+773,07183,Phường Phong Cốc,22,Thành phố Quảng Ninh
+774,07192,Đặc khu Cô Tô,22,Thành phố Quảng Ninh
+775,07210,Phường Bắc Giang,24,Thành phố Bắc Ninh
+776,07228,Phường Đa Mai,24,Thành phố Bắc Ninh
+777,07246,Xã Xuân Lương,24,Thành phố Bắc Ninh
+778,07264,Xã Tam Tiến,24,Thành phố Bắc Ninh
+779,07282,Xã Đồng Kỳ,24,Thành phố Bắc Ninh
+780,07288,Xã Yên Thế,24,Thành phố Bắc Ninh
+781,07294,Phường Bố Hạ,24,Thành phố Bắc Ninh
+782,07306,Xã Nhã Nam,24,Thành phố Bắc Ninh
+783,07330,Xã Phúc Hoà,24,Thành phố Bắc Ninh
+784,07333,Xã Quang Trung,24,Thành phố Bắc Ninh
+785,07339,Xã Tân Yên,24,Thành phố Bắc Ninh
+786,07351,Xã Ngọc Thiện,24,Thành phố Bắc Ninh
+787,07375,Phường Lạng Giang,24,Thành phố Bắc Ninh
+788,07381,Xã Tiên Lục,24,Thành phố Bắc Ninh
+789,07399,Phường Kép,24,Thành phố Bắc Ninh
+790,07420,Xã Mỹ Thái,24,Thành phố Bắc Ninh
+791,07432,Xã Tân Dĩnh,24,Thành phố Bắc Ninh
+792,07444,Phường Lục Nam,24,Thành phố Bắc Ninh
+793,07450,Xã Đông Phú,24,Thành phố Bắc Ninh
+794,07462,Xã Bảo Đài,24,Thành phố Bắc Ninh
+795,07486,Xã Nghĩa Phương,24,Thành phố Bắc Ninh
+796,07489,Xã Trường Sơn,24,Thành phố Bắc Ninh
+797,07492,Xã Lục Sơn,24,Thành phố Bắc Ninh
+798,07498,Xã Bắc Lũng,24,Thành phố Bắc Ninh
+799,07519,Xã Cẩm Lý,24,Thành phố Bắc Ninh
+800,07525,Phường Chũ,24,Thành phố Bắc Ninh
+801,07531,Xã Tân Sơn,24,Thành phố Bắc Ninh
+802,07534,Xã Sa Lý,24,Thành phố Bắc Ninh
+803,07537,Xã Biên Sơn,24,Thành phố Bắc Ninh
+804,07543,Xã Sơn Hải,24,Thành phố Bắc Ninh
+805,07552,Xã Kiên Lao,24,Thành phố Bắc Ninh
+806,07573,Xã Biển Động,24,Thành phố Bắc Ninh
+807,07582,Xã Lục Ngạn,24,Thành phố Bắc Ninh
+808,07594,Xã Đèo Gia,24,Thành phố Bắc Ninh
+809,07603,Xã Nam Dương,24,Thành phố Bắc Ninh
+810,07612,Phường Phượng Sơn,24,Thành phố Bắc Ninh
+811,07615,Xã Sơn Động,24,Thành phố Bắc Ninh
+812,07616,Xã Tây Yên Tử,24,Thành phố Bắc Ninh
+813,07621,Xã Vân Sơn,24,Thành phố Bắc Ninh
+814,07627,Xã Đại Sơn,24,Thành phố Bắc Ninh
+815,07642,Xã Yên Định,24,Thành phố Bắc Ninh
+816,07654,Xã An Lạc,24,Thành phố Bắc Ninh
+817,07663,Xã Tuấn Đạo,24,Thành phố Bắc Ninh
+818,07672,Xã Dương Hưu,24,Thành phố Bắc Ninh
+819,07681,Phường Yên Dũng,24,Thành phố Bắc Ninh
+820,07682,Phường Tân An,24,Thành phố Bắc Ninh
+821,07696,Phường Tiền Phong,24,Thành phố Bắc Ninh
+822,07699,Phường Tân Tiến,24,Thành phố Bắc Ninh
+823,07735,Xã Đồng Việt,24,Thành phố Bắc Ninh
+824,07738,Phường Cảnh Thuỵ,24,Thành phố Bắc Ninh
+825,07774,Phường Tự Lạn,24,Thành phố Bắc Ninh
+826,07777,Phường Việt Yên,24,Thành phố Bắc Ninh
+827,07795,Phường Nếnh,24,Thành phố Bắc Ninh
+828,07798,Phường Vân Hà,24,Thành phố Bắc Ninh
+829,07822,Xã Hoàng Vân,24,Thành phố Bắc Ninh
+830,07840,Phường Hiệp Hoà,24,Thành phố Bắc Ninh
+831,07864,Xã Hợp Thịnh,24,Thành phố Bắc Ninh
+832,07870,Xã Xuân Cẩm,24,Thành phố Bắc Ninh
+833,09169,Phường Vũ Ninh,24,Thành phố Bắc Ninh
+834,09187,Phường Kinh Bắc,24,Thành phố Bắc Ninh
+835,09190,Phường Võ Cường,24,Thành phố Bắc Ninh
+836,09193,Phường Yên Phong,24,Thành phố Bắc Ninh
+837,09202,Xã Tam Giang,24,Thành phố Bắc Ninh
+838,09205,Xã Yên Trung,24,Thành phố Bắc Ninh
+839,09208,Xã Tam Đa,24,Thành phố Bắc Ninh
+840,09238,Xã Văn Môn,24,Thành phố Bắc Ninh
+841,09247,Phường Quế Võ,24,Thành phố Bắc Ninh
+842,09253,Phường Nhân Hoà,24,Thành phố Bắc Ninh
+843,09265,Phường Phương Liễu,24,Thành phố Bắc Ninh
+844,09286,Phường Nam Sơn,24,Thành phố Bắc Ninh
+845,09292,Phường Phù Lãng,24,Thành phố Bắc Ninh
+846,09295,Phường Bồng Lai,24,Thành phố Bắc Ninh
+847,09301,Phường Đào Viên,24,Thành phố Bắc Ninh
+848,09313,Phường Chi Lăng,24,Thành phố Bắc Ninh
+849,09319,Phường Tiên Du,24,Thành phố Bắc Ninh
+850,09325,Phường Hạp Lĩnh,24,Thành phố Bắc Ninh
+851,09334,Xã Liên Bão,24,Thành phố Bắc Ninh
+852,09340,Xã Đại Đồng,24,Thành phố Bắc Ninh
+853,09343,Xã Tân Chi,24,Thành phố Bắc Ninh
+854,09349,Xã Phật Tích,24,Thành phố Bắc Ninh
+855,09367,Phường Từ Sơn,24,Thành phố Bắc Ninh
+856,09370,Phường Tam Sơn,24,Thành phố Bắc Ninh
+857,09379,Phường Phù Khê,24,Thành phố Bắc Ninh
+858,09385,Phường Đồng Nguyên,24,Thành phố Bắc Ninh
+859,09400,Phường Thuận Thành,24,Thành phố Bắc Ninh
+860,09409,Phường Mão Điền,24,Thành phố Bắc Ninh
+861,09427,Phường Trí Quả,24,Thành phố Bắc Ninh
+862,09430,Phường Trạm Lộ,24,Thành phố Bắc Ninh
+863,09433,Phường Song Liễu,24,Thành phố Bắc Ninh
+864,09445,Phường Ninh Xá,24,Thành phố Bắc Ninh
+865,09454,Phường Gia Bình,24,Thành phố Bắc Ninh
+866,09466,Xã Cao Đức,24,Thành phố Bắc Ninh
+867,09469,Xã Đại Lai,24,Thành phố Bắc Ninh
+868,09475,Phường Nhân Thắng,24,Thành phố Bắc Ninh
+869,09487,Xã Đông Cứu,24,Thành phố Bắc Ninh
+870,09496,Phường Lương Tài,24,Thành phố Bắc Ninh
+871,09499,Xã Trung Kênh,24,Thành phố Bắc Ninh
+872,09523,Xã Trung Chính,24,Thành phố Bắc Ninh
+873,09529,Xã Lâm Thao,24,Thành phố Bắc Ninh
+874,04792,Phường Tân Hoà,25,Tỉnh Phú Thọ
+875,04795,Phường Hoà Bình,25,Tỉnh Phú Thọ
+876,04828,Phường Thống Nhất,25,Tỉnh Phú Thọ
+877,04831,Xã Đà Bắc,25,Tỉnh Phú Thọ
+878,04846,Xã Đức Nhàn,25,Tỉnh Phú Thọ
+879,04849,Xã Tân Pheo,25,Tỉnh Phú Thọ
+880,04873,Xã Quy Đức,25,Tỉnh Phú Thọ
+881,04876,Xã Cao Sơn,25,Tỉnh Phú Thọ
+882,04891,Xã Tiền Phong,25,Tỉnh Phú Thọ
+883,04894,Phường Kỳ Sơn,25,Tỉnh Phú Thọ
+884,04897,Xã Thịnh Minh,25,Tỉnh Phú Thọ
+885,04924,Xã Lương Sơn,25,Tỉnh Phú Thọ
+886,04960,Xã Liên Sơn,25,Tỉnh Phú Thọ
+887,04978,Xã Kim Bôi,25,Tỉnh Phú Thọ
+888,04990,Xã Nật Sơn,25,Tỉnh Phú Thọ
+889,05014,Xã Mường Động,25,Tỉnh Phú Thọ
+890,05047,Xã Cao Dương,25,Tỉnh Phú Thọ
+891,05068,Xã Hợp Kim,25,Tỉnh Phú Thọ
+892,05086,Xã Dũng Tiến,25,Tỉnh Phú Thọ
+893,05089,Xã Cao Phong,25,Tỉnh Phú Thọ
+894,05092,Xã Thung Nai,25,Tỉnh Phú Thọ
+895,05116,Xã Mường Thàng,25,Tỉnh Phú Thọ
+896,05128,Xã Tân Lạc,25,Tỉnh Phú Thọ
+897,05134,Xã Mường Hoa,25,Tỉnh Phú Thọ
+898,05152,Xã Vân Sơn,25,Tỉnh Phú Thọ
+899,05158,Xã Mường Bi,25,Tỉnh Phú Thọ
+900,05191,Xã Toàn Thắng,25,Tỉnh Phú Thọ
+901,05200,Xã Mai Châu,25,Tỉnh Phú Thọ
+902,05206,Xã Tân Mai,25,Tỉnh Phú Thọ
+903,05212,Xã Pà Cò,25,Tỉnh Phú Thọ
+904,05245,Xã Bao La,25,Tỉnh Phú Thọ
+905,05251,Xã Mai Hạ,25,Tỉnh Phú Thọ
+906,05266,Xã Lạc Sơn,25,Tỉnh Phú Thọ
+907,05287,Xã Mường Vang,25,Tỉnh Phú Thọ
+908,05290,Xã Nhân Nghĩa,25,Tỉnh Phú Thọ
+909,05293,Xã Thượng Cốc,25,Tỉnh Phú Thọ
+910,05305,Xã Yên Phú,25,Tỉnh Phú Thọ
+911,05323,Xã Quyết Thắng,25,Tỉnh Phú Thọ
+912,05329,Xã Ngọc Sơn,25,Tỉnh Phú Thọ
+913,05347,Xã Đại Đồng,25,Tỉnh Phú Thọ
+914,05353,Xã Yên Thuỷ,25,Tỉnh Phú Thọ
+915,05362,Xã Lạc Lương,25,Tỉnh Phú Thọ
+916,05386,Xã Yên Trị,25,Tỉnh Phú Thọ
+917,05392,Xã Lạc Thuỷ,25,Tỉnh Phú Thọ
+918,05395,Xã An Nghĩa,25,Tỉnh Phú Thọ
+919,05425,Xã An Bình,25,Tỉnh Phú Thọ
+920,07894,Phường Nông Trang,25,Tỉnh Phú Thọ
+921,07900,Phường Việt Trì,25,Tỉnh Phú Thọ
+922,07909,Phường Thanh Miếu,25,Tỉnh Phú Thọ
+923,07918,Phường Vân Phú,25,Tỉnh Phú Thọ
+924,07942,Phường Phú Thọ,25,Tỉnh Phú Thọ
+925,07948,Phường Âu Cơ,25,Tỉnh Phú Thọ
+926,07954,Phường Phong Châu,25,Tỉnh Phú Thọ
+927,07969,Xã Đoan Hùng,25,Tỉnh Phú Thọ
+928,07996,Xã Bằng Luân,25,Tỉnh Phú Thọ
+929,07999,Xã Chí Đám,25,Tỉnh Phú Thọ
+930,08023,Xã Tây Cốc,25,Tỉnh Phú Thọ
+931,08038,Xã Chân Mộng,25,Tỉnh Phú Thọ
+932,08053,Xã Hạ Hoà,25,Tỉnh Phú Thọ
+933,08071,Xã Đan Thượng,25,Tỉnh Phú Thọ
+934,08110,Xã Hiền Lương,25,Tỉnh Phú Thọ
+935,08113,Xã Yên Kỳ,25,Tỉnh Phú Thọ
+936,08134,Xã Văn Lang,25,Tỉnh Phú Thọ
+937,08143,Xã Vĩnh Chân,25,Tỉnh Phú Thọ
+938,08152,Xã Thanh Ba,25,Tỉnh Phú Thọ
+939,08173,Xã Quảng Yên,25,Tỉnh Phú Thọ
+940,08203,Xã Hoàng Cương,25,Tỉnh Phú Thọ
+941,08209,Xã Đông Thành,25,Tỉnh Phú Thọ
+942,08218,Xã Chí Tiên,25,Tỉnh Phú Thọ
+943,08227,Xã Liên Minh,25,Tỉnh Phú Thọ
+944,08230,Xã Phù Ninh,25,Tỉnh Phú Thọ
+945,08236,Xã Phú Mỹ,25,Tỉnh Phú Thọ
+946,08245,Xã Trạm Thản,25,Tỉnh Phú Thọ
+947,08254,Xã Dân Chủ,25,Tỉnh Phú Thọ
+948,08275,Xã Bình Phú,25,Tỉnh Phú Thọ
+949,08290,Xã Yên Lập,25,Tỉnh Phú Thọ
+950,08296,Xã Sơn Lương,25,Tỉnh Phú Thọ
+951,08305,Xã Xuân Viên,25,Tỉnh Phú Thọ
+952,08311,Xã Trung Sơn,25,Tỉnh Phú Thọ
+953,08323,Xã Thượng Long,25,Tỉnh Phú Thọ
+954,08338,Xã Minh Hoà,25,Tỉnh Phú Thọ
+955,08341,Xã Cẩm Khê,25,Tỉnh Phú Thọ
+956,08344,Xã Tiên Lương,25,Tỉnh Phú Thọ
+957,08377,Xã Vân Bán,25,Tỉnh Phú Thọ
+958,08398,Xã Phú Khê,25,Tỉnh Phú Thọ
+959,08416,Xã Hùng Việt,25,Tỉnh Phú Thọ
+960,08431,Xã Đồng Lương,25,Tỉnh Phú Thọ
+961,08434,Xã Tam Nông,25,Tỉnh Phú Thọ
+962,08443,Xã Hiền Quan,25,Tỉnh Phú Thọ
+963,08467,Xã Vạn Xuân,25,Tỉnh Phú Thọ
+964,08479,Xã Thọ Văn,25,Tỉnh Phú Thọ
+965,08494,Xã Lâm Thao,25,Tỉnh Phú Thọ
+966,08500,Xã Xuân Lũng,25,Tỉnh Phú Thọ
+967,08515,Xã Hy Cương,25,Tỉnh Phú Thọ
+968,08521,Xã Phùng Nguyên,25,Tỉnh Phú Thọ
+969,08527,Xã Bản Nguyên,25,Tỉnh Phú Thọ
+970,08542,Xã Thanh Sơn,25,Tỉnh Phú Thọ
+971,08545,Xã Thu Cúc,25,Tỉnh Phú Thọ
+972,08560,Xã Lai Đồng,25,Tỉnh Phú Thọ
+973,08566,Xã Tân Sơn,25,Tỉnh Phú Thọ
+974,08584,Xã Võ Miếu,25,Tỉnh Phú Thọ
+975,08590,Xã Xuân Đài,25,Tỉnh Phú Thọ
+976,08593,Xã Minh Đài,25,Tỉnh Phú Thọ
+977,08611,Xã Văn Miếu,25,Tỉnh Phú Thọ
+978,08614,Xã Cự Đồng,25,Tỉnh Phú Thọ
+979,08620,Xã Long Cốc,25,Tỉnh Phú Thọ
+980,08632,Xã Hương Cần,25,Tỉnh Phú Thọ
+981,08635,Xã Khả Cửu,25,Tỉnh Phú Thọ
+982,08656,Xã Yên Sơn,25,Tỉnh Phú Thọ
+983,08662,Xã Đào Xá,25,Tỉnh Phú Thọ
+984,08674,Xã Thanh Thuỷ,25,Tỉnh Phú Thọ
+985,08686,Xã Tu Vũ,25,Tỉnh Phú Thọ
+986,08707,Phường Vĩnh Yên,25,Tỉnh Phú Thọ
+987,08716,Phường Vĩnh Phúc,25,Tỉnh Phú Thọ
+988,08740,Phường Phúc Yên,25,Tỉnh Phú Thọ
+989,08746,Phường Xuân Hoà,25,Tỉnh Phú Thọ
+990,08761,Xã Lập Thạch,25,Tỉnh Phú Thọ
+991,08770,Xã Hợp Lý,25,Tỉnh Phú Thọ
+992,08773,Xã Yên Lãng,25,Tỉnh Phú Thọ
+993,08782,Xã Hải Lựu,25,Tỉnh Phú Thọ
+994,08788,Xã Thái Hoà,25,Tỉnh Phú Thọ
+995,08812,Xã Liên Hoà,25,Tỉnh Phú Thọ
+996,08824,Xã Tam Sơn,25,Tỉnh Phú Thọ
+997,08842,Xã Tiên Lữ,25,Tỉnh Phú Thọ
+998,08848,Xã Sông Lô,25,Tỉnh Phú Thọ
+999,08866,Xã Sơn Đông,25,Tỉnh Phú Thọ
+1000,08869,Xã Tam Dương,25,Tỉnh Phú Thọ
+1001,08872,Xã Tam Dương Bắc,25,Tỉnh Phú Thọ
+1002,08896,Xã Hoàng An,25,Tỉnh Phú Thọ
+1003,08905,Xã Hội Thịnh,25,Tỉnh Phú Thọ
+1004,08911,Xã Tam Đảo,25,Tỉnh Phú Thọ
+1005,08914,Xã Đạo Trù,25,Tỉnh Phú Thọ
+1006,08923,Xã Đại Đình,25,Tỉnh Phú Thọ
+1007,08935,Xã Bình Nguyên,25,Tỉnh Phú Thọ
+1008,08944,Xã Bình Tuyền,25,Tỉnh Phú Thọ
+1009,08950,Xã Bình Xuyên,25,Tỉnh Phú Thọ
+1010,08971,Xã Xuân Lãng,25,Tỉnh Phú Thọ
+1011,09025,Xã Yên Lạc,25,Tỉnh Phú Thọ
+1012,09040,Xã Tề Lỗ,25,Tỉnh Phú Thọ
+1013,09043,Xã Tam Hồng,25,Tỉnh Phú Thọ
+1014,09052,Xã Nguyệt Đức,25,Tỉnh Phú Thọ
+1015,09064,Xã Liên Châu,25,Tỉnh Phú Thọ
+1016,09076,Xã Vĩnh Tường,25,Tỉnh Phú Thọ
+1017,09079,Xã Vĩnh An,25,Tỉnh Phú Thọ
+1018,09100,Xã Vĩnh Hưng,25,Tỉnh Phú Thọ
+1019,09106,Xã Vĩnh Thành,25,Tỉnh Phú Thọ
+1020,09112,Xã Thổ Tang,25,Tỉnh Phú Thọ
+1021,09154,Xã Vĩnh Phú,25,Tỉnh Phú Thọ
+1022,10507,Phường Thành Đông,31,Thành phố Hải Phòng
+1023,10525,Phường Hải Dương,31,Thành phố Hải Phòng
+1024,10532,Phường Lê Thanh Nghị,31,Thành phố Hải Phòng
+1025,10537,Phường Tân Hưng,31,Thành phố Hải Phòng
+1026,10543,Phường Việt Hoà,31,Thành phố Hải Phòng
+1027,10546,Phường Chí Linh,31,Thành phố Hải Phòng
+1028,10549,Phường Chu Văn An,31,Thành phố Hải Phòng
+1029,10552,Phường Nguyễn Trãi,31,Thành phố Hải Phòng
+1030,10570,Phường Trần Hưng Đạo,31,Thành phố Hải Phòng
+1031,10573,Phường Trần Nhân Tông,31,Thành phố Hải Phòng
+1032,10603,Phường Lê Đại Hành,31,Thành phố Hải Phòng
+1033,10606,Xã Nam Sách,31,Thành phố Hải Phòng
+1034,10615,Xã Hợp Tiến,31,Thành phố Hải Phòng
+1035,10633,Xã Trần Phú,31,Thành phố Hải Phòng
+1036,10642,Xã Thái Tân,31,Thành phố Hải Phòng
+1037,10645,Xã An Phú,31,Thành phố Hải Phòng
+1038,10660,Phường Ái Quốc,31,Thành phố Hải Phòng
+1039,10675,Phường Kinh Môn,31,Thành phố Hải Phòng
+1040,10678,Phường Bắc An Phụ,31,Thành phố Hải Phòng
+1041,10705,Xã Nam An Phụ,31,Thành phố Hải Phòng
+1042,10714,Phường Nhị Chiểu,31,Thành phố Hải Phòng
+1043,10726,Phường Phạm Sư Mạnh,31,Thành phố Hải Phòng
+1044,10729,Phường Trần Liễu,31,Thành phố Hải Phòng
+1045,10744,Phường Nguyễn Đại Năng,31,Thành phố Hải Phòng
+1046,10750,Xã Phú Thái,31,Thành phố Hải Phòng
+1047,10756,Xã Lai Khê,31,Thành phố Hải Phòng
+1048,10792,Xã An Thành,31,Thành phố Hải Phòng
+1049,10804,Xã Kim Thành,31,Thành phố Hải Phòng
+1050,10813,Xã Thanh Hà,31,Thành phố Hải Phòng
+1051,10816,Xã Hà Bắc,31,Thành phố Hải Phòng
+1052,10837,Phường Nam Đồng,31,Thành phố Hải Phòng
+1053,10843,Xã Hà Nam,31,Thành phố Hải Phòng
+1054,10846,Xã Hà Tây,31,Thành phố Hải Phòng
+1055,10882,Xã Hà Đông,31,Thành phố Hải Phòng
+1056,10888,Xã Cẩm Giang,31,Thành phố Hải Phòng
+1057,10891,Phường Tứ Minh,31,Thành phố Hải Phòng
+1058,10903,Xã Cẩm Giàng,31,Thành phố Hải Phòng
+1059,10909,Xã Tuệ Tĩnh,31,Thành phố Hải Phòng
+1060,10930,Xã Mao Điền,31,Thành phố Hải Phòng
+1061,10945,Xã Kẻ Sặt,31,Thành phố Hải Phòng
+1062,10966,Xã Bình Giang,31,Thành phố Hải Phòng
+1063,10972,Xã Đường An,31,Thành phố Hải Phòng
+1064,10993,Xã Thượng Hồng,31,Thành phố Hải Phòng
+1065,10999,Xã Gia Lộc,31,Thành phố Hải Phòng
+1066,11002,Phường Thạch Khôi,31,Thành phố Hải Phòng
+1067,11020,Xã Yết Kiêu,31,Thành phố Hải Phòng
+1068,11050,Xã Gia Phúc,31,Thành phố Hải Phòng
+1069,11065,Xã Trường Tân,31,Thành phố Hải Phòng
+1070,11074,Xã Tứ Kỳ,31,Thành phố Hải Phòng
+1071,11086,Xã Đại Sơn,31,Thành phố Hải Phòng
+1072,11113,Xã Tân Kỳ,31,Thành phố Hải Phòng
+1073,11131,Xã Chí Minh,31,Thành phố Hải Phòng
+1074,11140,Xã Lạc Phượng,31,Thành phố Hải Phòng
+1075,11146,Xã Nguyên Giáp,31,Thành phố Hải Phòng
+1076,11164,Xã Vĩnh Lại,31,Thành phố Hải Phòng
+1077,11167,Xã Tân An,31,Thành phố Hải Phòng
+1078,11203,Xã Ninh Giang,31,Thành phố Hải Phòng
+1079,11218,Xã Hồng Châu,31,Thành phố Hải Phòng
+1080,11224,Xã Khúc Thừa Dụ,31,Thành phố Hải Phòng
+1081,11239,Xã Thanh Miện,31,Thành phố Hải Phòng
+1082,11242,Xã Nguyễn Lương Bằng,31,Thành phố Hải Phòng
+1083,11254,Xã Bắc Thanh Miện,31,Thành phố Hải Phòng
+1084,11257,Xã Hải Hưng,31,Thành phố Hải Phòng
+1085,11284,Xã Nam Thanh Miện,31,Thành phố Hải Phòng
+1086,11311,Phường Hồng Bàng,31,Thành phố Hải Phòng
+1087,11329,Phường Ngô Quyền,31,Thành phố Hải Phòng
+1088,11359,Phường Gia Viên,31,Thành phố Hải Phòng
+1089,11383,Phường Lê Chân,31,Thành phố Hải Phòng
+1090,11407,Phường An Biên,31,Thành phố Hải Phòng
+1091,11411,Phường Đông Hải,31,Thành phố Hải Phòng
+1092,11413,Phường Hải An,31,Thành phố Hải Phòng
+1093,11443,Phường Kiến An,31,Thành phố Hải Phòng
+1094,11446,Phường Phù Liễn,31,Thành phố Hải Phòng
+1095,11455,Phường Đồ Sơn,31,Thành phố Hải Phòng
+1096,11473,Phường Bạch Đằng,31,Thành phố Hải Phòng
+1097,11488,Phường Lưu Kiếm,31,Thành phố Hải Phòng
+1098,11503,Xã Việt Khê,31,Thành phố Hải Phòng
+1099,11506,Phường Lê Ích Mộc,31,Thành phố Hải Phòng
+1100,11533,Phường Hoà Bình,31,Thành phố Hải Phòng
+1101,11542,Phường Nam Triệu,31,Thành phố Hải Phòng
+1102,11557,Phường Thiên Hương,31,Thành phố Hải Phòng
+1103,11560,Phường Thuỷ Nguyên,31,Thành phố Hải Phòng
+1104,11581,Phường An Dương,31,Thành phố Hải Phòng
+1105,11593,Phường An Phong,31,Thành phố Hải Phòng
+1106,11602,Phường Hồng An,31,Thành phố Hải Phòng
+1107,11617,Phường An Hải,31,Thành phố Hải Phòng
+1108,11629,Xã An Lão,31,Thành phố Hải Phòng
+1109,11635,Xã An Trường,31,Thành phố Hải Phòng
+1110,11647,Xã An Quang,31,Thành phố Hải Phòng
+1111,11668,Xã An Khánh,31,Thành phố Hải Phòng
+1112,11674,Xã An Hưng,31,Thành phố Hải Phòng
+1113,11680,Xã Kiến Thuỵ,31,Thành phố Hải Phòng
+1114,11689,Phường Hưng Đạo,31,Thành phố Hải Phòng
+1115,11692,Phường Dương Kinh,31,Thành phố Hải Phòng
+1116,11713,Xã Nghi Dương,31,Thành phố Hải Phòng
+1117,11725,Xã Kiến Minh,31,Thành phố Hải Phòng
+1118,11728,Xã Kiến Hưng,31,Thành phố Hải Phòng
+1119,11737,Phường Nam Đồ Sơn,31,Thành phố Hải Phòng
+1120,11749,Xã Kiến Hải,31,Thành phố Hải Phòng
+1121,11755,Xã Tiên Lãng,31,Thành phố Hải Phòng
+1122,11761,Xã Quyết Thắng,31,Thành phố Hải Phòng
+1123,11779,Xã Tân Minh,31,Thành phố Hải Phòng
+1124,11791,Xã Tiên Minh,31,Thành phố Hải Phòng
+1125,11806,Xã Chấn Hưng,31,Thành phố Hải Phòng
+1126,11809,Xã Hùng Thắng,31,Thành phố Hải Phòng
+1127,11824,Xã Vĩnh Bảo,31,Thành phố Hải Phòng
+1128,11836,Xã Vĩnh Thịnh,31,Thành phố Hải Phòng
+1129,11842,Xã Vĩnh Thuận,31,Thành phố Hải Phòng
+1130,11848,Xã Vĩnh Hoà,31,Thành phố Hải Phòng
+1131,11875,Xã Vĩnh Hải,31,Thành phố Hải Phòng
+1132,11887,Xã Vĩnh Am,31,Thành phố Hải Phòng
+1133,11911,Xã Nguyễn Bỉnh Khiêm,31,Thành phố Hải Phòng
+1134,11914,Đặc khu Cát Hải,31,Thành phố Hải Phòng
+1135,11948,Đặc khu Bạch Long Vĩ,31,Thành phố Hải Phòng
+1136,11953,Phường Phố Hiến,33,Tỉnh Hưng Yên
+1137,11977,Xã Tân Hưng,33,Tỉnh Hưng Yên
+1138,11980,Phường Hồng Châu,33,Tỉnh Hưng Yên
+1139,11983,Phường Sơn Nam,33,Tỉnh Hưng Yên
+1140,11992,Xã Lạc Đạo,33,Tỉnh Hưng Yên
+1141,11995,Xã Đại Đồng,33,Tỉnh Hưng Yên
+1142,12004,Xã Như Quỳnh,33,Tỉnh Hưng Yên
+1143,12019,Xã Văn Giang,33,Tỉnh Hưng Yên
+1144,12025,Xã Phụng Công,33,Tỉnh Hưng Yên
+1145,12031,Xã Nghĩa Trụ,33,Tỉnh Hưng Yên
+1146,12049,Xã Mễ Sở,33,Tỉnh Hưng Yên
+1147,12064,Xã Nguyễn Văn Linh,33,Tỉnh Hưng Yên
+1148,12070,Xã Hoàn Long,33,Tỉnh Hưng Yên
+1149,12073,Xã Yên Mỹ,33,Tỉnh Hưng Yên
+1150,12091,Xã Việt Yên,33,Tỉnh Hưng Yên
+1151,12103,Phường Mỹ Hào,33,Tỉnh Hưng Yên
+1152,12127,Phường Thượng Hồng,33,Tỉnh Hưng Yên
+1153,12133,Phường Đường Hào,33,Tỉnh Hưng Yên
+1154,12142,Xã Ân Thi,33,Tỉnh Hưng Yên
+1155,12148,Xã Phạm Ngũ Lão,33,Tỉnh Hưng Yên
+1156,12166,Xã Xuân Trúc,33,Tỉnh Hưng Yên
+1157,12184,Xã Nguyễn Trãi,33,Tỉnh Hưng Yên
+1158,12196,Xã Hồng Quang,33,Tỉnh Hưng Yên
+1159,12205,Xã Khoái Châu,33,Tỉnh Hưng Yên
+1160,12223,Xã Triệu Việt Vương,33,Tỉnh Hưng Yên
+1161,12238,Xã Việt Tiến,33,Tỉnh Hưng Yên
+1162,12247,Xã Châu Ninh,33,Tỉnh Hưng Yên
+1163,12271,Xã Chí Minh,33,Tỉnh Hưng Yên
+1164,12280,Xã Lương Bằng,33,Tỉnh Hưng Yên
+1165,12286,Xã Nghĩa Dân,33,Tỉnh Hưng Yên
+1166,12313,Xã Đức Hợp,33,Tỉnh Hưng Yên
+1167,12322,Xã Hiệp Cường,33,Tỉnh Hưng Yên
+1168,12337,Xã Hoàng Hoa Thám,33,Tỉnh Hưng Yên
+1169,12361,Xã Tiên Hoa,33,Tỉnh Hưng Yên
+1170,12364,Xã Tiên Lữ,33,Tỉnh Hưng Yên
+1171,12391,Xã Quang Hưng,33,Tỉnh Hưng Yên
+1172,12406,Xã Đoàn Đào,33,Tỉnh Hưng Yên
+1173,12424,Xã Tiên Tiến,33,Tỉnh Hưng Yên
+1174,12427,Xã Tống Trân,33,Tỉnh Hưng Yên
+1175,12452,Phường Trần Hưng Đạo,33,Tỉnh Hưng Yên
+1176,12454,Phường Trần Lãm,33,Tỉnh Hưng Yên
+1177,12466,Phường Vũ Phúc,33,Tỉnh Hưng Yên
+1178,12472,Xã Quỳnh Phụ,33,Tỉnh Hưng Yên
+1179,12499,Xã A Sào,33,Tỉnh Hưng Yên
+1180,12511,Xã Minh Thọ,33,Tỉnh Hưng Yên
+1181,12517,Xã Ngọc Lâm,33,Tỉnh Hưng Yên
+1182,12523,Xã Phụ Dực,33,Tỉnh Hưng Yên
+1183,12526,Xã Đồng Bằng,33,Tỉnh Hưng Yên
+1184,12532,Xã Nguyễn Du,33,Tỉnh Hưng Yên
+1185,12577,Xã Quỳnh An,33,Tỉnh Hưng Yên
+1186,12583,Xã Tân Tiến,33,Tỉnh Hưng Yên
+1187,12586,Xã Hưng Hà,33,Tỉnh Hưng Yên
+1188,12595,Xã Ngự Thiên,33,Tỉnh Hưng Yên
+1189,12613,Xã Long Hưng,33,Tỉnh Hưng Yên
+1190,12619,Xã Diên Hà,33,Tỉnh Hưng Yên
+1191,12631,Xã Thần Khê,33,Tỉnh Hưng Yên
+1192,12634,Xã Tiên La,33,Tỉnh Hưng Yên
+1193,12676,Xã Lê Quý Đôn,33,Tỉnh Hưng Yên
+1194,12685,Xã Hồng Minh,33,Tỉnh Hưng Yên
+1195,12688,Xã Đông Hưng,33,Tỉnh Hưng Yên
+1196,12694,Xã Bắc Đông Hưng,33,Tỉnh Hưng Yên
+1197,12700,Xã Bắc Tiên Hưng,33,Tỉnh Hưng Yên
+1198,12736,Xã Đông Tiên Hưng,33,Tỉnh Hưng Yên
+1199,12745,Xã Bắc Đông Quan,33,Tỉnh Hưng Yên
+1200,12754,Xã Tiên Hưng,33,Tỉnh Hưng Yên
+1201,12763,Xã Nam Tiên Hưng,33,Tỉnh Hưng Yên
+1202,12775,Xã Nam Đông Hưng,33,Tỉnh Hưng Yên
+1203,12793,Xã Đông Quan,33,Tỉnh Hưng Yên
+1204,12817,Phường Trà Lý,33,Tỉnh Hưng Yên
+1205,12826,Xã Thái Thuỵ,33,Tỉnh Hưng Yên
+1206,12850,Xã Tây Thuỵ Anh,33,Tỉnh Hưng Yên
+1207,12859,Xã Bắc Thuỵ Anh,33,Tỉnh Hưng Yên
+1208,12862,Xã Đông Thuỵ Anh,33,Tỉnh Hưng Yên
+1209,12865,Xã Thuỵ Anh,33,Tỉnh Hưng Yên
+1210,12904,Xã Nam Thuỵ Anh,33,Tỉnh Hưng Yên
+1211,12916,Xã Bắc Thái Ninh,33,Tỉnh Hưng Yên
+1212,12919,Xã Tây Thái Ninh,33,Tỉnh Hưng Yên
+1213,12922,Xã Thái Ninh,33,Tỉnh Hưng Yên
+1214,12943,Xã Đông Thái Ninh,33,Tỉnh Hưng Yên
+1215,12961,Xã Nam Thái Ninh,33,Tỉnh Hưng Yên
+1216,12970,Xã Tiền Hải,33,Tỉnh Hưng Yên
+1217,12988,Xã Đông Tiền Hải,33,Tỉnh Hưng Yên
+1218,13003,Xã Đồng Châu,33,Tỉnh Hưng Yên
+1219,13021,Xã Ái Quốc,33,Tỉnh Hưng Yên
+1220,13039,Xã Tây Tiền Hải,33,Tỉnh Hưng Yên
+1221,13057,Xã Nam Cường,33,Tỉnh Hưng Yên
+1222,13063,Xã Nam Tiền Hải,33,Tỉnh Hưng Yên
+1223,13066,Xã Hưng Phú,33,Tỉnh Hưng Yên
+1224,13075,Xã Kiến Xương,33,Tỉnh Hưng Yên
+1225,13093,Xã Trà Giang,33,Tỉnh Hưng Yên
+1226,13096,Xã Bình Nguyên,33,Tỉnh Hưng Yên
+1227,13120,Xã Lê Lợi,33,Tỉnh Hưng Yên
+1228,13132,Xã Quang Lịch,33,Tỉnh Hưng Yên
+1229,13141,Xã Vũ Quý,33,Tỉnh Hưng Yên
+1230,13159,Xã Hồng Vũ,33,Tỉnh Hưng Yên
+1231,13183,Xã Bình Thanh,33,Tỉnh Hưng Yên
+1232,13186,Xã Bình Định,33,Tỉnh Hưng Yên
+1233,13192,Xã Vũ Thư,33,Tỉnh Hưng Yên
+1234,13219,Xã Vạn Xuân,33,Tỉnh Hưng Yên
+1235,13222,Xã Thư Trì,33,Tỉnh Hưng Yên
+1236,13225,Phường Thái Bình,33,Tỉnh Hưng Yên
+1237,13246,Xã Tân Thuận,33,Tỉnh Hưng Yên
+1238,13264,Xã Thư Vũ,33,Tỉnh Hưng Yên
+1239,13279,Xã Vũ Tiên,33,Tỉnh Hưng Yên
+1240,13285,Phường Phủ Lý,37,Tỉnh Ninh Bình
+1241,13291,Phường Phù Vân,37,Tỉnh Ninh Bình
+1242,13318,Phường Châu Sơn,37,Tỉnh Ninh Bình
+1243,13324,Phường Duy Tiên,37,Tỉnh Ninh Bình
+1244,13330,Phường Duy Tân,37,Tỉnh Ninh Bình
+1245,13336,Phường Duy Hà,37,Tỉnh Ninh Bình
+1246,13348,Phường Đồng Văn,37,Tỉnh Ninh Bình
+1247,13363,Phường Tiên Sơn,37,Tỉnh Ninh Bình
+1248,13366,Phường Hà Nam,37,Tỉnh Ninh Bình
+1249,13384,Phường Kim Bảng,37,Tỉnh Ninh Bình
+1250,13393,Phường Lê Hồ,37,Tỉnh Ninh Bình
+1251,13396,Phường Nguyễn Úy,37,Tỉnh Ninh Bình
+1252,13402,Phường Kim Thanh,37,Tỉnh Ninh Bình
+1253,13420,Phường Tam Chúc,37,Tỉnh Ninh Bình
+1254,13435,Phường Lý Thường Kiệt,37,Tỉnh Ninh Bình
+1255,13444,Phường Liêm Tuyền,37,Tỉnh Ninh Bình
+1256,13456,Xã Liêm Hà,37,Tỉnh Ninh Bình
+1257,13474,Xã Tân Thanh,37,Tỉnh Ninh Bình
+1258,13483,Xã Thanh Bình,37,Tỉnh Ninh Bình
+1259,13489,Xã Thanh Lâm,37,Tỉnh Ninh Bình
+1260,13495,Xã Thanh Liêm,37,Tỉnh Ninh Bình
+1261,13501,Xã Bình Mỹ,37,Tỉnh Ninh Bình
+1262,13504,Xã Bình Lục,37,Tỉnh Ninh Bình
+1263,13531,Xã Bình Giang,37,Tỉnh Ninh Bình
+1264,13540,Xã Bình An,37,Tỉnh Ninh Bình
+1265,13558,Xã Bình Sơn,37,Tỉnh Ninh Bình
+1266,13573,Xã Lý Nhân,37,Tỉnh Ninh Bình
+1267,13579,Xã Bắc Lý,37,Tỉnh Ninh Bình
+1268,13591,Xã Nam Xang,37,Tỉnh Ninh Bình
+1269,13594,Xã Trần Thương,37,Tỉnh Ninh Bình
+1270,13597,Xã Vĩnh Trụ,37,Tỉnh Ninh Bình
+1271,13609,Xã Nhân Hà,37,Tỉnh Ninh Bình
+1272,13627,Xã Nam Lý,37,Tỉnh Ninh Bình
+1273,13669,Phường Nam Định,37,Tỉnh Ninh Bình
+1274,13684,Phường Thiên Trường,37,Tỉnh Ninh Bình
+1275,13693,Phường Đông A,37,Tỉnh Ninh Bình
+1276,13699,Phường Thành Nam,37,Tỉnh Ninh Bình
+1277,13708,Phường Mỹ Lộc,37,Tỉnh Ninh Bình
+1278,13741,Xã Vụ Bản,37,Tỉnh Ninh Bình
+1279,13750,Xã Minh Tân,37,Tỉnh Ninh Bình
+1280,13753,Xã Hiển Khánh,37,Tỉnh Ninh Bình
+1281,13777,Phường Trường Thi,37,Tỉnh Ninh Bình
+1282,13786,Xã Liên Minh,37,Tỉnh Ninh Bình
+1283,13795,Xã Ý Yên,37,Tỉnh Ninh Bình
+1284,13807,Xã Tân Minh,37,Tỉnh Ninh Bình
+1285,13822,Xã Phong Doanh,37,Tỉnh Ninh Bình
+1286,13834,Xã Vũ Dương,37,Tỉnh Ninh Bình
+1287,13864,Xã Vạn Thắng,37,Tỉnh Ninh Bình
+1288,13870,Xã Yên Cường,37,Tỉnh Ninh Bình
+1289,13879,Xã Yên Đồng,37,Tỉnh Ninh Bình
+1290,13891,Xã Nghĩa Hưng,37,Tỉnh Ninh Bình
+1291,13894,Xã Rạng Đông,37,Tỉnh Ninh Bình
+1292,13900,Xã Đồng Thịnh,37,Tỉnh Ninh Bình
+1293,13918,Xã Nghĩa Sơn,37,Tỉnh Ninh Bình
+1294,13927,Xã Hồng Phong,37,Tỉnh Ninh Bình
+1295,13939,Xã Quỹ Nhất,37,Tỉnh Ninh Bình
+1296,13957,Xã Nghĩa Lâm,37,Tỉnh Ninh Bình
+1297,13966,Xã Nam Trực,37,Tỉnh Ninh Bình
+1298,13972,Phường Vị Khê,37,Tỉnh Ninh Bình
+1299,13984,Phường Hồng Quang,37,Tỉnh Ninh Bình
+1300,13987,Xã Nam Hồng,37,Tỉnh Ninh Bình
+1301,14005,Xã Nam Ninh,37,Tỉnh Ninh Bình
+1302,14011,Xã Nam Minh,37,Tỉnh Ninh Bình
+1303,14014,Xã Nam Đồng,37,Tỉnh Ninh Bình
+1304,14026,Xã Cổ Lễ,37,Tỉnh Ninh Bình
+1305,14038,Xã Ninh Giang,37,Tỉnh Ninh Bình
+1306,14053,Xã Trực Ninh,37,Tỉnh Ninh Bình
+1307,14056,Xã Cát Thành,37,Tỉnh Ninh Bình
+1308,14062,Xã Quang Hưng,37,Tỉnh Ninh Bình
+1309,14071,Xã Minh Thái,37,Tỉnh Ninh Bình
+1310,14077,Xã Ninh Cường,37,Tỉnh Ninh Bình
+1311,14089,Xã Xuân Trường,37,Tỉnh Ninh Bình
+1312,14095,Xã Xuân Hồng,37,Tỉnh Ninh Bình
+1313,14104,Xã Xuân Giang,37,Tỉnh Ninh Bình
+1314,14122,Xã Xuân Hưng,37,Tỉnh Ninh Bình
+1315,14161,Xã Giao Minh,37,Tỉnh Ninh Bình
+1316,14167,Xã Giao Thuỷ,37,Tỉnh Ninh Bình
+1317,14179,Xã Giao Hưng,37,Tỉnh Ninh Bình
+1318,14182,Xã Giao Hoà,37,Tỉnh Ninh Bình
+1319,14194,Xã Giao Bình,37,Tỉnh Ninh Bình
+1320,14203,Xã Giao Phúc,37,Tỉnh Ninh Bình
+1321,14212,Xã Giao Ninh,37,Tỉnh Ninh Bình
+1322,14215,Xã Hải Hậu,37,Tỉnh Ninh Bình
+1323,14218,Xã Hải Tiến,37,Tỉnh Ninh Bình
+1324,14221,Xã Hải Thịnh,37,Tỉnh Ninh Bình
+1325,14236,Xã Hải Anh,37,Tỉnh Ninh Bình
+1326,14248,Xã Hải Hưng,37,Tỉnh Ninh Bình
+1327,14281,Xã Hải An,37,Tỉnh Ninh Bình
+1328,14287,Xã Hải Quang,37,Tỉnh Ninh Bình
+1329,14308,Xã Hải Xuân,37,Tỉnh Ninh Bình
+1330,14329,Phường Hoa Lư,37,Tỉnh Ninh Bình
+1331,14359,Phường Nam Hoa Lư,37,Tỉnh Ninh Bình
+1332,14362,Phường Tam Điệp,37,Tỉnh Ninh Bình
+1333,14365,Phường Trung Sơn,37,Tỉnh Ninh Bình
+1334,14371,Phường Yên Sơn,37,Tỉnh Ninh Bình
+1335,14389,Xã Gia Lâm,37,Tỉnh Ninh Bình
+1336,14401,Xã Gia Tường,37,Tỉnh Ninh Bình
+1337,14404,Xã Cúc Phương,37,Tỉnh Ninh Bình
+1338,14407,Xã Phú Sơn,37,Tỉnh Ninh Bình
+1339,14428,Xã Nho Quan,37,Tỉnh Ninh Bình
+1340,14434,Xã Thanh Sơn,37,Tỉnh Ninh Bình
+1341,14452,Xã Quỳnh Lưu,37,Tỉnh Ninh Bình
+1342,14458,Xã Phú Long,37,Tỉnh Ninh Bình
+1343,14464,Xã Gia Viễn,37,Tỉnh Ninh Bình
+1344,14482,Xã Gia Hưng,37,Tỉnh Ninh Bình
+1345,14488,Xã Gia Vân,37,Tỉnh Ninh Bình
+1346,14494,Xã Gia Trấn,37,Tỉnh Ninh Bình
+1347,14500,Xã Đại Hoàng,37,Tỉnh Ninh Bình
+1348,14524,Xã Gia Phong,37,Tỉnh Ninh Bình
+1349,14533,Phường Tây Hoa Lư,37,Tỉnh Ninh Bình
+1350,14560,Xã Yên Khánh,37,Tỉnh Ninh Bình
+1351,14563,Xã Khánh Thiện,37,Tỉnh Ninh Bình
+1352,14566,Phường Đông Hoa Lư,37,Tỉnh Ninh Bình
+1353,14608,Xã Khánh Trung,37,Tỉnh Ninh Bình
+1354,14611,Xã Khánh Nhạc,37,Tỉnh Ninh Bình
+1355,14614,Xã Khánh Hội,37,Tỉnh Ninh Bình
+1356,14620,Xã Phát Diệm,37,Tỉnh Ninh Bình
+1357,14623,Xã Bình Minh,37,Tỉnh Ninh Bình
+1358,14638,Xã Kim Sơn,37,Tỉnh Ninh Bình
+1359,14647,Xã Quang Thiện,37,Tỉnh Ninh Bình
+1360,14653,Xã Chất Bình,37,Tỉnh Ninh Bình
+1361,14674,Xã Lai Thành,37,Tỉnh Ninh Bình
+1362,14677,Xã Định Hoá,37,Tỉnh Ninh Bình
+1363,14698,Xã Kim Đông,37,Tỉnh Ninh Bình
+1364,14701,Xã Yên Mô,37,Tỉnh Ninh Bình
+1365,14725,Phường Yên Thắng,37,Tỉnh Ninh Bình
+1366,14728,Xã Yên Từ,37,Tỉnh Ninh Bình
+1367,14743,Xã Yên Mạc,37,Tỉnh Ninh Bình
+1368,14746,Xã Đồng Thái,37,Tỉnh Ninh Bình
+1369,14758,Phường Hàm Rồng,38,Tỉnh Thanh Hoá
+1370,14797,Phường Hạc Thành,38,Tỉnh Thanh Hoá
+1371,14812,Phường Bỉm Sơn,38,Tỉnh Thanh Hoá
+1372,14818,Phường Quang Trung,38,Tỉnh Thanh Hoá
+1373,14845,Xã Mường Lát,38,Tỉnh Thanh Hoá
+1374,14848,Xã Tam Chung,38,Tỉnh Thanh Hoá
+1375,14854,Xã Mường Lý,38,Tỉnh Thanh Hoá
+1376,14857,Xã Trung Lý,38,Tỉnh Thanh Hoá
+1377,14860,Xã Quang Chiểu,38,Tỉnh Thanh Hoá
+1378,14863,Xã Pù Nhi,38,Tỉnh Thanh Hoá
+1379,14864,Xã Nhi Sơn,38,Tỉnh Thanh Hoá
+1380,14866,Xã Mường Chanh,38,Tỉnh Thanh Hoá
+1381,14869,Xã Hồi Xuân,38,Tỉnh Thanh Hoá
+1382,14872,Xã Trung Thành,38,Tỉnh Thanh Hoá
+1383,14875,Xã Trung Sơn,38,Tỉnh Thanh Hoá
+1384,14878,Xã Phú Lệ,38,Tỉnh Thanh Hoá
+1385,14890,Xã Phú Xuân,38,Tỉnh Thanh Hoá
+1386,14896,Xã Hiền Kiệt,38,Tỉnh Thanh Hoá
+1387,14902,Xã Nam Xuân,38,Tỉnh Thanh Hoá
+1388,14908,Xã Thiên Phủ,38,Tỉnh Thanh Hoá
+1389,14923,Xã Bá Thước,38,Tỉnh Thanh Hoá
+1390,14932,Xã Điền Quang,38,Tỉnh Thanh Hoá
+1391,14950,Xã Điền Lư,38,Tỉnh Thanh Hoá
+1392,14953,Xã Quý Lương,38,Tỉnh Thanh Hoá
+1393,14956,Xã Pù Luông,38,Tỉnh Thanh Hoá
+1394,14959,Xã Cổ Lũng,38,Tỉnh Thanh Hoá
+1395,14974,Xã Văn Nho,38,Tỉnh Thanh Hoá
+1396,14980,Xã Thiết Ống,38,Tỉnh Thanh Hoá
+1397,15001,Xã Trung Hạ,38,Tỉnh Thanh Hoá
+1398,15007,Xã Tam Thanh,38,Tỉnh Thanh Hoá
+1399,15010,Xã Sơn Thuỷ,38,Tỉnh Thanh Hoá
+1400,15013,Xã Na Mèo,38,Tỉnh Thanh Hoá
+1401,15016,Xã Quan Sơn,38,Tỉnh Thanh Hoá
+1402,15019,Xã Tam Lư,38,Tỉnh Thanh Hoá
+1403,15022,Xã Sơn Điện,38,Tỉnh Thanh Hoá
+1404,15025,Xã Mường Mìn,38,Tỉnh Thanh Hoá
+1405,15031,Xã Yên Khương,38,Tỉnh Thanh Hoá
+1406,15034,Xã Yên Thắng,38,Tỉnh Thanh Hoá
+1407,15043,Xã Giao An,38,Tỉnh Thanh Hoá
+1408,15049,Xã Văn Phú,38,Tỉnh Thanh Hoá
+1409,15055,Xã Linh Sơn,38,Tỉnh Thanh Hoá
+1410,15058,Xã Đồng Lương,38,Tỉnh Thanh Hoá
+1411,15061,Xã Ngọc Lặc,38,Tỉnh Thanh Hoá
+1412,15085,Xã Thạch Lập,38,Tỉnh Thanh Hoá
+1413,15091,Xã Ngọc Liên,38,Tỉnh Thanh Hoá
+1414,15106,Xã Nguyệt Ấn,38,Tỉnh Thanh Hoá
+1415,15112,Xã Kiên Thọ,38,Tỉnh Thanh Hoá
+1416,15124,Xã Minh Sơn,38,Tỉnh Thanh Hoá
+1417,15127,Xã Cẩm Thuỷ,38,Tỉnh Thanh Hoá
+1418,15142,Xã Cẩm Thạch,38,Tỉnh Thanh Hoá
+1419,15148,Xã Cẩm Tú,38,Tỉnh Thanh Hoá
+1420,15163,Xã Cẩm Vân,38,Tỉnh Thanh Hoá
+1421,15178,Xã Cẩm Tân,38,Tỉnh Thanh Hoá
+1422,15187,Xã Kim Tân,38,Tỉnh Thanh Hoá
+1423,15190,Xã Vân Du,38,Tỉnh Thanh Hoá
+1424,15199,Xã Thạch Quảng,38,Tỉnh Thanh Hoá
+1425,15211,Xã Thạch Bình,38,Tỉnh Thanh Hoá
+1426,15229,Xã Thành Vinh,38,Tỉnh Thanh Hoá
+1427,15250,Xã Ngọc Trạo,38,Tỉnh Thanh Hoá
+1428,15271,Xã Hà Trung,38,Tỉnh Thanh Hoá
+1429,15274,Xã Hà Long,38,Tỉnh Thanh Hoá
+1430,15286,Xã Hoạt Giang,38,Tỉnh Thanh Hoá
+1431,15298,Xã Lĩnh Toại,38,Tỉnh Thanh Hoá
+1432,15316,Xã Tống Sơn,38,Tỉnh Thanh Hoá
+1433,15349,Xã Vĩnh Lộc,38,Tỉnh Thanh Hoá
+1434,15361,Xã Tây Đô,38,Tỉnh Thanh Hoá
+1435,15382,Xã Biện Thượng,38,Tỉnh Thanh Hoá
+1436,15409,Xã Yên Phú,38,Tỉnh Thanh Hoá
+1437,15412,Xã Quý Lộc,38,Tỉnh Thanh Hoá
+1438,15421,Xã Yên Trường,38,Tỉnh Thanh Hoá
+1439,15442,Xã Yên Ninh,38,Tỉnh Thanh Hoá
+1440,15448,Xã Định Hoà,38,Tỉnh Thanh Hoá
+1441,15457,Xã Định Tân,38,Tỉnh Thanh Hoá
+1442,15469,Xã Yên Định,38,Tỉnh Thanh Hoá
+1443,15499,Xã Thọ Xuân,38,Tỉnh Thanh Hoá
+1444,15505,Xã Thọ Long,38,Tỉnh Thanh Hoá
+1445,15520,Xã Xuân Hoà,38,Tỉnh Thanh Hoá
+1446,15544,Xã Lam Sơn,38,Tỉnh Thanh Hoá
+1447,15553,Xã Sao Vàng,38,Tỉnh Thanh Hoá
+1448,15568,Xã Thọ Lập,38,Tỉnh Thanh Hoá
+1449,15574,Xã Xuân Tín,38,Tỉnh Thanh Hoá
+1450,15592,Xã Xuân Lập,38,Tỉnh Thanh Hoá
+1451,15607,Xã Bát Mọt,38,Tỉnh Thanh Hoá
+1452,15610,Xã Yên Nhân,38,Tỉnh Thanh Hoá
+1453,15622,Xã Vạn Xuân,38,Tỉnh Thanh Hoá
+1454,15628,Xã Lương Sơn,38,Tỉnh Thanh Hoá
+1455,15634,Xã Luận Thành,38,Tỉnh Thanh Hoá
+1456,15643,Xã Thắng Lộc,38,Tỉnh Thanh Hoá
+1457,15646,Xã Thường Xuân,38,Tỉnh Thanh Hoá
+1458,15658,Xã Xuân Chinh,38,Tỉnh Thanh Hoá
+1459,15661,Xã Tân Thành,38,Tỉnh Thanh Hoá
+1460,15664,Xã Triệu Sơn,38,Tỉnh Thanh Hoá
+1461,15667,Xã Thọ Bình,38,Tỉnh Thanh Hoá
+1462,15682,Xã Hợp Tiến,38,Tỉnh Thanh Hoá
+1463,15715,Xã Tân Ninh,38,Tỉnh Thanh Hoá
+1464,15724,Xã Đồng Tiến,38,Tỉnh Thanh Hoá
+1465,15754,Xã Thọ Ngọc,38,Tỉnh Thanh Hoá
+1466,15763,Xã Thọ Phú,38,Tỉnh Thanh Hoá
+1467,15766,Xã An Nông,38,Tỉnh Thanh Hoá
+1468,15772,Xã Thiệu Hoá,38,Tỉnh Thanh Hoá
+1469,15778,Xã Thiệu Tiến,38,Tỉnh Thanh Hoá
+1470,15796,Xã Thiệu Quang,38,Tỉnh Thanh Hoá
+1471,15820,Xã Thiệu Toán,38,Tỉnh Thanh Hoá
+1472,15835,Xã Thiệu Trung,38,Tỉnh Thanh Hoá
+1473,15853,Phường Đông Tiến,38,Tỉnh Thanh Hoá
+1474,15865,Xã Hoằng Hoá,38,Tỉnh Thanh Hoá
+1475,15880,Xã Hoằng Giang,38,Tỉnh Thanh Hoá
+1476,15889,Xã Hoằng Phú,38,Tỉnh Thanh Hoá
+1477,15910,Xã Hoằng Sơn,38,Tỉnh Thanh Hoá
+1478,15925,Phường Nguyệt Viên,38,Tỉnh Thanh Hoá
+1479,15961,Xã Hoằng Lộc,38,Tỉnh Thanh Hoá
+1480,15976,Xã Hoằng Châu,38,Tỉnh Thanh Hoá
+1481,15991,Xã Hoằng Tiến,38,Tỉnh Thanh Hoá
+1482,16000,Xã Hoằng Thanh,38,Tỉnh Thanh Hoá
+1483,16012,Xã Hậu Lộc,38,Tỉnh Thanh Hoá
+1484,16021,Xã Triệu Lộc,38,Tỉnh Thanh Hoá
+1485,16033,Xã Đông Thành,38,Tỉnh Thanh Hoá
+1486,16072,Xã Hoa Lộc,38,Tỉnh Thanh Hoá
+1487,16078,Xã Vạn Lộc,38,Tỉnh Thanh Hoá
+1488,16093,Xã Nga Sơn,38,Tỉnh Thanh Hoá
+1489,16108,Xã Tân Tiến,38,Tỉnh Thanh Hoá
+1490,16114,Xã Nga Thắng,38,Tỉnh Thanh Hoá
+1491,16138,Xã Hồ Vương,38,Tỉnh Thanh Hoá
+1492,16144,Xã Nga An,38,Tỉnh Thanh Hoá
+1493,16171,Xã Ba Đình,38,Tỉnh Thanh Hoá
+1494,16174,Xã Như Xuân,38,Tỉnh Thanh Hoá
+1495,16177,Xã Xuân Bình,38,Tỉnh Thanh Hoá
+1496,16186,Xã Hoá Quỳ,38,Tỉnh Thanh Hoá
+1497,16213,Xã Thanh Phong,38,Tỉnh Thanh Hoá
+1498,16222,Xã Thanh Quân,38,Tỉnh Thanh Hoá
+1499,16225,Xã Thượng Ninh,38,Tỉnh Thanh Hoá
+1500,16228,Xã Như Thanh,38,Tỉnh Thanh Hoá
+1501,16234,Xã Xuân Du,38,Tỉnh Thanh Hoá
+1502,16249,Xã Mậu Lâm,38,Tỉnh Thanh Hoá
+1503,16258,Xã Xuân Thái,38,Tỉnh Thanh Hoá
+1504,16264,Xã Yên Thọ,38,Tỉnh Thanh Hoá
+1505,16273,Xã Thanh Kỳ,38,Tỉnh Thanh Hoá
+1506,16279,Xã Nông Cống,38,Tỉnh Thanh Hoá
+1507,16297,Xã Trung Chính,38,Tỉnh Thanh Hoá
+1508,16309,Xã Thắng Lợi,38,Tỉnh Thanh Hoá
+1509,16342,Xã Thăng Bình,38,Tỉnh Thanh Hoá
+1510,16348,Xã Trường Văn,38,Tỉnh Thanh Hoá
+1511,16363,Xã Tượng Lĩnh,38,Tỉnh Thanh Hoá
+1512,16369,Xã Công Chính,38,Tỉnh Thanh Hoá
+1513,16378,Phường Đông Sơn,38,Tỉnh Thanh Hoá
+1514,16417,Phường Đông Quang,38,Tỉnh Thanh Hoá
+1515,16438,Xã Lưu Vệ,38,Tỉnh Thanh Hoá
+1516,16480,Xã Quảng Yên,38,Tỉnh Thanh Hoá
+1517,16489,Xã Quảng Chính,38,Tỉnh Thanh Hoá
+1518,16498,Xã Quảng Ngọc,38,Tỉnh Thanh Hoá
+1519,16516,Phường Nam Sầm Sơn,38,Tỉnh Thanh Hoá
+1520,16522,Phường Quảng Phú,38,Tỉnh Thanh Hoá
+1521,16531,Phường Sầm Sơn,38,Tỉnh Thanh Hoá
+1522,16540,Xã Quảng Ninh,38,Tỉnh Thanh Hoá
+1523,16543,Xã Quảng Bình,38,Tỉnh Thanh Hoá
+1524,16549,Xã Tiên Trang,38,Tỉnh Thanh Hoá
+1525,16561,Phường Tĩnh Gia,38,Tỉnh Thanh Hoá
+1526,16576,Phường Ngọc Sơn,38,Tỉnh Thanh Hoá
+1527,16591,Xã Các Sơn,38,Tỉnh Thanh Hoá
+1528,16594,Phường Tân Dân,38,Tỉnh Thanh Hoá
+1529,16597,Phường Hải Lĩnh,38,Tỉnh Thanh Hoá
+1530,16609,Phường Đào Duy Từ,38,Tỉnh Thanh Hoá
+1531,16624,Phường Trúc Lâm,38,Tỉnh Thanh Hoá
+1532,16636,Xã Trường Lâm,38,Tỉnh Thanh Hoá
+1533,16645,Phường Hải Bình,38,Tỉnh Thanh Hoá
+1534,16654,Phường Nghi Sơn,38,Tỉnh Thanh Hoá
+1535,16681,Phường Thành Vinh,40,Tỉnh Nghệ An
+1536,16690,Phường Trường Vinh,40,Tỉnh Nghệ An
+1537,16702,Phường Vinh Phú,40,Tỉnh Nghệ An
+1538,16708,Phường Vinh Lộc,40,Tỉnh Nghệ An
+1539,16732,Phường Cửa Lò,40,Tỉnh Nghệ An
+1540,16738,Xã Quế Phong,40,Tỉnh Nghệ An
+1541,16744,Xã Thông Thụ,40,Tỉnh Nghệ An
+1542,16750,Xã Tiền Phong,40,Tỉnh Nghệ An
+1543,16756,Xã Tri Lễ,40,Tỉnh Nghệ An
+1544,16774,Xã Mường Quàng,40,Tỉnh Nghệ An
+1545,16777,Xã Quỳ Châu,40,Tỉnh Nghệ An
+1546,16792,Xã Châu Tiến,40,Tỉnh Nghệ An
+1547,16801,Xã Hùng Chân,40,Tỉnh Nghệ An
+1548,16804,Xã Châu Bình,40,Tỉnh Nghệ An
+1549,16813,Xã Mường Xén,40,Tỉnh Nghệ An
+1550,16816,Xã Mỹ Lý,40,Tỉnh Nghệ An
+1551,16819,Xã Bắc Lý,40,Tỉnh Nghệ An
+1552,16822,Xã Keng Đu,40,Tỉnh Nghệ An
+1553,16828,Xã Huồi Tụ,40,Tỉnh Nghệ An
+1554,16831,Xã Mường Lống,40,Tỉnh Nghệ An
+1555,16834,Xã Na Loi,40,Tỉnh Nghệ An
+1556,16837,Xã Nậm Cắn,40,Tỉnh Nghệ An
+1557,16849,Xã Hữu Kiệm,40,Tỉnh Nghệ An
+1558,16855,Xã Chiêu Lưu,40,Tỉnh Nghệ An
+1559,16858,Xã Mường Típ,40,Tỉnh Nghệ An
+1560,16870,Xã Na Ngoi,40,Tỉnh Nghệ An
+1561,16876,Xã Tương Dương,40,Tỉnh Nghệ An
+1562,16882,Xã Nhôn Mai,40,Tỉnh Nghệ An
+1563,16885,Xã Hữu Khuông,40,Tỉnh Nghệ An
+1564,16903,Xã Nga My,40,Tỉnh Nghệ An
+1565,16906,Xã Lượng Minh,40,Tỉnh Nghệ An
+1566,16909,Xã Yên Hoà,40,Tỉnh Nghệ An
+1567,16912,Xã Yên Na,40,Tỉnh Nghệ An
+1568,16933,Xã Tam Quang,40,Tỉnh Nghệ An
+1569,16936,Xã Tam Thái,40,Tỉnh Nghệ An
+1570,16939,Phường Thái Hoà,40,Tỉnh Nghệ An
+1571,16941,Xã Nghĩa Đàn,40,Tỉnh Nghệ An
+1572,16951,Xã Nghĩa Lâm,40,Tỉnh Nghệ An
+1573,16969,Xã Nghĩa Thọ,40,Tỉnh Nghệ An
+1574,16972,Xã Nghĩa Hưng,40,Tỉnh Nghệ An
+1575,16975,Xã Nghĩa Mai,40,Tỉnh Nghệ An
+1576,17011,Phường Tây Hiếu,40,Tỉnh Nghệ An
+1577,17017,Xã Đông Hiếu,40,Tỉnh Nghệ An
+1578,17029,Xã Nghĩa Lộc,40,Tỉnh Nghệ An
+1579,17032,Xã Nghĩa Khánh,40,Tỉnh Nghệ An
+1580,17035,Xã Quỳ Hợp,40,Tỉnh Nghệ An
+1581,17044,Xã Châu Hồng,40,Tỉnh Nghệ An
+1582,17056,Xã Châu Lộc,40,Tỉnh Nghệ An
+1583,17059,Xã Tam Hợp,40,Tỉnh Nghệ An
+1584,17071,Xã Minh Hợp,40,Tỉnh Nghệ An
+1585,17077,Xã Mường Ham,40,Tỉnh Nghệ An
+1586,17089,Xã Mường Chọng,40,Tỉnh Nghệ An
+1587,17110,Phường Hoàng Mai,40,Tỉnh Nghệ An
+1588,17125,Phường Quỳnh Mai,40,Tỉnh Nghệ An
+1589,17128,Phường Tân Mai,40,Tỉnh Nghệ An
+1590,17143,Xã Quỳnh Văn,40,Tỉnh Nghệ An
+1591,17149,Xã Quỳnh Tam,40,Tỉnh Nghệ An
+1592,17170,Xã Quỳnh Sơn,40,Tỉnh Nghệ An
+1593,17176,Xã Quỳnh Anh,40,Tỉnh Nghệ An
+1594,17179,Xã Quỳnh Lưu,40,Tỉnh Nghệ An
+1595,17212,Xã Quỳnh Phú,40,Tỉnh Nghệ An
+1596,17224,Xã Quỳnh Thắng,40,Tỉnh Nghệ An
+1597,17230,Xã Bình Chuẩn,40,Tỉnh Nghệ An
+1598,17239,Xã Mậu Thạch,40,Tỉnh Nghệ An
+1599,17242,Xã Cam Phục,40,Tỉnh Nghệ An
+1600,17248,Xã Châu Khê,40,Tỉnh Nghệ An
+1601,17254,Xã Con Cuông,40,Tỉnh Nghệ An
+1602,17263,Xã Môn Sơn,40,Tỉnh Nghệ An
+1603,17266,Xã Tân Kỳ,40,Tỉnh Nghệ An
+1604,17272,Xã Tân Phú,40,Tỉnh Nghệ An
+1605,17278,Xã Giai Xuân,40,Tỉnh Nghệ An
+1606,17284,Xã Nghĩa Đồng,40,Tỉnh Nghệ An
+1607,17287,Xã Tiên Đồng,40,Tỉnh Nghệ An
+1608,17305,Xã Tân An,40,Tỉnh Nghệ An
+1609,17326,Xã Nghĩa Hành,40,Tỉnh Nghệ An
+1610,17329,Xã Anh Sơn,40,Tỉnh Nghệ An
+1611,17335,Xã Thành Bình Thọ,40,Tỉnh Nghệ An
+1612,17344,Xã Nhân Hoà,40,Tỉnh Nghệ An
+1613,17357,Xã Vĩnh Tường,40,Tỉnh Nghệ An
+1614,17365,Xã Anh Sơn Đông,40,Tỉnh Nghệ An
+1615,17380,Xã Yên Xuân,40,Tỉnh Nghệ An
+1616,17395,Xã Hùng Châu,40,Tỉnh Nghệ An
+1617,17416,Xã Đức Châu,40,Tỉnh Nghệ An
+1618,17419,Xã Hải Châu,40,Tỉnh Nghệ An
+1619,17443,Xã Quảng Châu,40,Tỉnh Nghệ An
+1620,17464,Xã Diễn Châu,40,Tỉnh Nghệ An
+1621,17476,Xã Minh Châu,40,Tỉnh Nghệ An
+1622,17479,Xã An Châu,40,Tỉnh Nghệ An
+1623,17488,Xã Tân Châu,40,Tỉnh Nghệ An
+1624,17506,Xã Yên Thành,40,Tỉnh Nghệ An
+1625,17515,Xã Bình Minh,40,Tỉnh Nghệ An
+1626,17521,Xã Quang Đồng,40,Tỉnh Nghệ An
+1627,17524,Xã Giai Lạc,40,Tỉnh Nghệ An
+1628,17530,Xã Đông Thành,40,Tỉnh Nghệ An
+1629,17560,Xã Vân Du,40,Tỉnh Nghệ An
+1630,17569,Xã Quan Thành,40,Tỉnh Nghệ An
+1631,17605,Xã Hợp Minh,40,Tỉnh Nghệ An
+1632,17611,Xã Vân Tụ,40,Tỉnh Nghệ An
+1633,17623,Xã Bạch Ngọc,40,Tỉnh Nghệ An
+1634,17641,Xã Lương Sơn,40,Tỉnh Nghệ An
+1635,17662,Xã Đô Lương,40,Tỉnh Nghệ An
+1636,17677,Xã Văn Hiến,40,Tỉnh Nghệ An
+1637,17689,Xã Thuần Trung,40,Tỉnh Nghệ An
+1638,17707,Xã Bạch Hà,40,Tỉnh Nghệ An
+1639,17713,Xã Đại Đồng,40,Tỉnh Nghệ An
+1640,17722,Xã Hạnh Lâm,40,Tỉnh Nghệ An
+1641,17728,Xã Cát Ngạn,40,Tỉnh Nghệ An
+1642,17743,Xã Tam Đồng,40,Tỉnh Nghệ An
+1643,17759,Xã Sơn Lâm,40,Tỉnh Nghệ An
+1644,17770,Xã Hoa Quân,40,Tỉnh Nghệ An
+1645,17779,Xã Xuân Lâm,40,Tỉnh Nghệ An
+1646,17791,Xã Kim Bảng,40,Tỉnh Nghệ An
+1647,17818,Xã Bích Hào,40,Tỉnh Nghệ An
+1648,17827,Xã Nghi Lộc,40,Tỉnh Nghệ An
+1649,17833,Xã Hải Lộc,40,Tỉnh Nghệ An
+1650,17842,Xã Thần Lĩnh,40,Tỉnh Nghệ An
+1651,17854,Xã Văn Kiều,40,Tỉnh Nghệ An
+1652,17857,Xã Phúc Lộc,40,Tỉnh Nghệ An
+1653,17866,Xã Trung Lộc,40,Tỉnh Nghệ An
+1654,17878,Xã Đông Lộc,40,Tỉnh Nghệ An
+1655,17920,Phường Vinh Hưng,40,Tỉnh Nghệ An
+1656,17935,Xã Nam Đàn,40,Tỉnh Nghệ An
+1657,17944,Xã Đại Huệ,40,Tỉnh Nghệ An
+1658,17950,Xã Vạn An,40,Tỉnh Nghệ An
+1659,17971,Xã Kim Liên,40,Tỉnh Nghệ An
+1660,17989,Xã Thiên Nhẫn,40,Tỉnh Nghệ An
+1661,18001,Xã Hưng Nguyên,40,Tỉnh Nghệ An
+1662,18007,Xã Yên Trung,40,Tỉnh Nghệ An
+1663,18028,Xã Hưng Nguyên Nam,40,Tỉnh Nghệ An
+1664,18040,Xã Lam Thành,40,Tỉnh Nghệ An
+1665,18073,Phường Thành Sen,42,Tỉnh Hà Tĩnh
+1666,18100,Phường Trần Phú,42,Tỉnh Hà Tĩnh
+1667,18115,Phường Bắc Hồng Lĩnh,42,Tỉnh Hà Tĩnh
+1668,18118,Phường Nam Hồng Lĩnh,42,Tỉnh Hà Tĩnh
+1669,18133,Xã Hương Sơn,42,Tỉnh Hà Tĩnh
+1670,18160,Xã Sơn Hồng,42,Tỉnh Hà Tĩnh
+1671,18163,Xã Sơn Tiến,42,Tỉnh Hà Tĩnh
+1672,18172,Xã Sơn Tây,42,Tỉnh Hà Tĩnh
+1673,18184,Xã Sơn Giang,42,Tỉnh Hà Tĩnh
+1674,18196,Xã Sơn Kim 1,42,Tỉnh Hà Tĩnh
+1675,18199,Xã Sơn Kim 2,42,Tỉnh Hà Tĩnh
+1676,18202,Xã Tứ Mỹ,42,Tỉnh Hà Tĩnh
+1677,18223,Xã Kim Hoa,42,Tỉnh Hà Tĩnh
+1678,18229,Xã Đức Thọ,42,Tỉnh Hà Tĩnh
+1679,18244,Xã Đức Minh,42,Tỉnh Hà Tĩnh
+1680,18262,Xã Đức Quang,42,Tỉnh Hà Tĩnh
+1681,18277,Xã Đức Thịnh,42,Tỉnh Hà Tĩnh
+1682,18304,Xã Đức Đồng,42,Tỉnh Hà Tĩnh
+1683,18313,Xã Vũ Quang,42,Tỉnh Hà Tĩnh
+1684,18322,Xã Mai Hoa,42,Tỉnh Hà Tĩnh
+1685,18328,Xã Thượng Đức,42,Tỉnh Hà Tĩnh
+1686,18352,Xã Nghi Xuân,42,Tỉnh Hà Tĩnh
+1687,18364,Xã Đan Hải,42,Tỉnh Hà Tĩnh
+1688,18373,Xã Tiên Điền,42,Tỉnh Hà Tĩnh
+1689,18394,Xã Cổ Đạm,42,Tỉnh Hà Tĩnh
+1690,18406,Xã Can Lộc,42,Tỉnh Hà Tĩnh
+1691,18409,Xã Hồng Lộc,42,Tỉnh Hà Tĩnh
+1692,18418,Xã Tùng Lộc,42,Tỉnh Hà Tĩnh
+1693,18436,Xã Trường Lưu,42,Tỉnh Hà Tĩnh
+1694,18466,Xã Gia Hanh,42,Tỉnh Hà Tĩnh
+1695,18481,Xã Xuân Lộc,42,Tỉnh Hà Tĩnh
+1696,18484,Xã Đồng Lộc,42,Tỉnh Hà Tĩnh
+1697,18496,Xã Hương Khê,42,Tỉnh Hà Tĩnh
+1698,18502,Xã Hà Linh,42,Tỉnh Hà Tĩnh
+1699,18523,Xã Hương Bình,42,Tỉnh Hà Tĩnh
+1700,18532,Xã Hương Phố,42,Tỉnh Hà Tĩnh
+1701,18544,Xã Hương Xuân,42,Tỉnh Hà Tĩnh
+1702,18547,Xã Phúc Trạch,42,Tỉnh Hà Tĩnh
+1703,18550,Xã Hương Đô,42,Tỉnh Hà Tĩnh
+1704,18562,Xã Thạch Hà,42,Tỉnh Hà Tĩnh
+1705,18568,Xã Lộc Hà,42,Tỉnh Hà Tĩnh
+1706,18583,Xã Mai Phụ,42,Tỉnh Hà Tĩnh
+1707,18586,Xã Đông Kinh,42,Tỉnh Hà Tĩnh
+1708,18601,Xã Việt Xuyên,42,Tỉnh Hà Tĩnh
+1709,18604,Xã Thạch Khê,42,Tỉnh Hà Tĩnh
+1710,18619,Xã Đồng Tiến,42,Tỉnh Hà Tĩnh
+1711,18628,Xã Thạch Lạc,42,Tỉnh Hà Tĩnh
+1712,18634,Xã Toàn Lưu,42,Tỉnh Hà Tĩnh
+1713,18652,Phường Hà Huy Tập,42,Tỉnh Hà Tĩnh
+1714,18667,Xã Thạch Xuân,42,Tỉnh Hà Tĩnh
+1715,18673,Xã Cẩm Xuyên,42,Tỉnh Hà Tĩnh
+1716,18676,Xã Thiên Cầm,42,Tỉnh Hà Tĩnh
+1717,18682,Xã Yên Hoà,42,Tỉnh Hà Tĩnh
+1718,18685,Xã Cẩm Bình,42,Tỉnh Hà Tĩnh
+1719,18736,Xã Cẩm Hưng,42,Tỉnh Hà Tĩnh
+1720,18739,Xã Cẩm Duệ,42,Tỉnh Hà Tĩnh
+1721,18742,Xã Cẩm Trung,42,Tỉnh Hà Tĩnh
+1722,18748,Xã Cẩm Lạc,42,Tỉnh Hà Tĩnh
+1723,18754,Phường Sông Trí,42,Tỉnh Hà Tĩnh
+1724,18766,Xã Kỳ Xuân,42,Tỉnh Hà Tĩnh
+1725,18775,Xã Kỳ Anh,42,Tỉnh Hà Tĩnh
+1726,18781,Phường Hải Ninh,42,Tỉnh Hà Tĩnh
+1727,18787,Xã Kỳ Văn,42,Tỉnh Hà Tĩnh
+1728,18790,Xã Kỳ Khang,42,Tỉnh Hà Tĩnh
+1729,18814,Xã Kỳ Hoa,42,Tỉnh Hà Tĩnh
+1730,18823,Phường Vũng Áng,42,Tỉnh Hà Tĩnh
+1731,18832,Phường Hoành Sơn,42,Tỉnh Hà Tĩnh
+1732,18838,Xã Kỳ Lạc,42,Tỉnh Hà Tĩnh
+1733,18844,Xã Kỳ Thượng,42,Tỉnh Hà Tĩnh
+1734,18859,Phường Đồng Thuận,44,Tỉnh Quảng Trị
+1735,18871,Phường Đồng Sơn,44,Tỉnh Quảng Trị
+1736,18880,Phường Đồng Hới,44,Tỉnh Quảng Trị
+1737,18901,Xã Minh Hoá,44,Tỉnh Quảng Trị
+1738,18904,Xã Dân Hoá,44,Tỉnh Quảng Trị
+1739,18919,Xã Tân Thành,44,Tỉnh Quảng Trị
+1740,18922,Xã Kim Điền,44,Tỉnh Quảng Trị
+1741,18943,Xã Kim Phú,44,Tỉnh Quảng Trị
+1742,18949,Xã Đồng Lê,44,Tỉnh Quảng Trị
+1743,18952,Xã Tuyên Sơn,44,Tỉnh Quảng Trị
+1744,18958,Xã Tuyên Lâm,44,Tỉnh Quảng Trị
+1745,18985,Xã Tuyên Phú,44,Tỉnh Quảng Trị
+1746,18991,Xã Tuyên Bình,44,Tỉnh Quảng Trị
+1747,18997,Xã Tuyên Hoá,44,Tỉnh Quảng Trị
+1748,19009,Phường Ba Đồn,44,Tỉnh Quảng Trị
+1749,19021,Xã Phú Trạch,44,Tỉnh Quảng Trị
+1750,19030,Xã Trung Thuần,44,Tỉnh Quảng Trị
+1751,19033,Xã Hoà Trạch,44,Tỉnh Quảng Trị
+1752,19051,Xã Tân Gianh,44,Tỉnh Quảng Trị
+1753,19057,Xã Quảng Trạch,44,Tỉnh Quảng Trị
+1754,19066,Phường Bắc Gianh,44,Tỉnh Quảng Trị
+1755,19075,Xã Nam Ba Đồn,44,Tỉnh Quảng Trị
+1756,19093,Xã Nam Gianh,44,Tỉnh Quảng Trị
+1757,19111,Xã Hoàn Lão,44,Tỉnh Quảng Trị
+1758,19126,Xã Bắc Trạch,44,Tỉnh Quảng Trị
+1759,19138,Xã Phong Nha,44,Tỉnh Quảng Trị
+1760,19141,Xã Bố Trạch,44,Tỉnh Quảng Trị
+1761,19147,Xã Thượng Trạch,44,Tỉnh Quảng Trị
+1762,19159,Xã Đông Trạch,44,Tỉnh Quảng Trị
+1763,19198,Xã Nam Trạch,44,Tỉnh Quảng Trị
+1764,19204,Xã Trường Sơn,44,Tỉnh Quảng Trị
+1765,19207,Xã Quảng Ninh,44,Tỉnh Quảng Trị
+1766,19225,Xã Ninh Châu,44,Tỉnh Quảng Trị
+1767,19237,Xã Trường Ninh,44,Tỉnh Quảng Trị
+1768,19246,Xã Lệ Ninh,44,Tỉnh Quảng Trị
+1769,19249,Xã Lệ Thuỷ,44,Tỉnh Quảng Trị
+1770,19255,Xã Cam Hồng,44,Tỉnh Quảng Trị
+1771,19288,Xã Sen Ngư,44,Tỉnh Quảng Trị
+1772,19291,Xã Tân Mỹ,44,Tỉnh Quảng Trị
+1773,19309,Xã Trường Phú,44,Tỉnh Quảng Trị
+1774,19318,Xã Kim Ngân,44,Tỉnh Quảng Trị
+1775,19333,Phường Đông Hà,44,Tỉnh Quảng Trị
+1776,19351,Phường Nam Đông Hà,44,Tỉnh Quảng Trị
+1777,19360,Phường Quảng Trị,44,Tỉnh Quảng Trị
+1778,19363,Xã Vĩnh Linh,44,Tỉnh Quảng Trị
+1779,19366,Xã Bến Quan,44,Tỉnh Quảng Trị
+1780,19372,Xã Vĩnh Hoàng,44,Tỉnh Quảng Trị
+1781,19405,Xã Vĩnh Thuỷ,44,Tỉnh Quảng Trị
+1782,19414,Xã Cửa Tùng,44,Tỉnh Quảng Trị
+1783,19429,Xã Khe Sanh,44,Tỉnh Quảng Trị
+1784,19432,Xã Lao Bảo,44,Tỉnh Quảng Trị
+1785,19435,Xã Hướng Lập,44,Tỉnh Quảng Trị
+1786,19441,Xã Hướng Phùng,44,Tỉnh Quảng Trị
+1787,19462,Xã Tân Lập,44,Tỉnh Quảng Trị
+1788,19483,Xã A Dơi,44,Tỉnh Quảng Trị
+1789,19489,Xã Lìa,44,Tỉnh Quảng Trị
+1790,19495,Xã Gio Linh,44,Tỉnh Quảng Trị
+1791,19496,Xã Cửa Việt,44,Tỉnh Quảng Trị
+1792,19501,Xã Bến Hải,44,Tỉnh Quảng Trị
+1793,19537,Xã Cồn Tiên,44,Tỉnh Quảng Trị
+1794,19555,Xã Hướng Hiệp,44,Tỉnh Quảng Trị
+1795,19564,Xã Đakrông,44,Tỉnh Quảng Trị
+1796,19567,Xã Ba Lòng,44,Tỉnh Quảng Trị
+1797,19588,Xã Tà Rụt,44,Tỉnh Quảng Trị
+1798,19594,Xã La Lay,44,Tỉnh Quảng Trị
+1799,19597,Xã Cam Lộ,44,Tỉnh Quảng Trị
+1800,19603,Xã Hiếu Giang,44,Tỉnh Quảng Trị
+1801,19624,Xã Triệu Phong,44,Tỉnh Quảng Trị
+1802,19639,Xã Nam Cửa Việt,44,Tỉnh Quảng Trị
+1803,19645,Xã Triệu Bình,44,Tỉnh Quảng Trị
+1804,19654,Xã Triệu Cơ,44,Tỉnh Quảng Trị
+1805,19669,Xã Ái Tử,44,Tỉnh Quảng Trị
+1806,19681,Xã Diên Sanh,44,Tỉnh Quảng Trị
+1807,19699,Xã Vĩnh Định,44,Tỉnh Quảng Trị
+1808,19702,Xã Hải Lăng,44,Tỉnh Quảng Trị
+1809,19735,Xã Nam Hải Lăng,44,Tỉnh Quảng Trị
+1810,19741,Xã Mỹ Thuỷ,44,Tỉnh Quảng Trị
+1811,19742,Đặc khu Cồn Cỏ,44,Tỉnh Quảng Trị
+1812,19753,Phường Phú Xuân,46,Thành phố Huế
+1813,19774,Phường Kim Long,46,Thành phố Huế
+1814,19777,Phường Vỹ Dạ,46,Thành phố Huế
+1815,19789,Phường Thuận Hoá,46,Thành phố Huế
+1816,19804,Phường Hương An,46,Thành phố Huế
+1817,19813,Phường Thuỷ Xuân,46,Thành phố Huế
+1818,19815,Phường An Cựu,46,Thành phố Huế
+1819,19819,Phường Phong Điền,46,Thành phố Huế
+1820,19828,Phường Phong Phú,46,Thành phố Huế
+1821,19831,Phường Phong Dinh,46,Thành phố Huế
+1822,19858,Phường Phong Thái,46,Thành phố Huế
+1823,19867,Xã Quảng Điền,46,Thành phố Huế
+1824,19873,Phường Phong Quảng,46,Thành phố Huế
+1825,19885,Xã Đan Điền,46,Thành phố Huế
+1826,19900,Phường Thuận An,46,Thành phố Huế
+1827,19909,Phường Dương Nỗ,46,Thành phố Huế
+1828,19918,Xã Phú Hồ,46,Thành phố Huế
+1829,19930,Phường Mỹ Thượng,46,Thành phố Huế
+1830,19942,Xã Phú Vang,46,Thành phố Huế
+1831,19945,Xã Phú Vinh,46,Thành phố Huế
+1832,19960,Phường Phú Bài,46,Thành phố Huế
+1833,19969,Phường Thanh Thuỷ,46,Thành phố Huế
+1834,19975,Phường Hương Thuỷ,46,Thành phố Huế
+1835,19996,Phường Hương Trà,46,Thành phố Huế
+1836,20014,Phường Hoá Châu,46,Thành phố Huế
+1837,20017,Phường Kim Trà,46,Thành phố Huế
+1838,20035,Xã Bình Điền,46,Thành phố Huế
+1839,20044,Xã A Lưới 2,46,Thành phố Huế
+1840,20050,Xã A Lưới 5,46,Thành phố Huế
+1841,20056,Xã A Lưới 1,46,Thành phố Huế
+1842,20071,Xã A Lưới 3,46,Thành phố Huế
+1843,20101,Xã A Lưới 4,46,Thành phố Huế
+1844,20107,Xã Phú Lộc,46,Thành phố Huế
+1845,20122,Xã Vinh Lộc,46,Thành phố Huế
+1846,20131,Xã Hưng Lộc,46,Thành phố Huế
+1847,20137,Xã Chân Mây - Lăng Cô,46,Thành phố Huế
+1848,20140,Xã Lộc An,46,Thành phố Huế
+1849,20161,Xã Khe Tre,46,Thành phố Huế
+1850,20179,Xã Nam Đông,46,Thành phố Huế
+1851,20182,Xã Long Quảng,46,Thành phố Huế
+1852,20194,Phường Hải Vân,48,Thành phố Đà Nẵng
+1853,20197,Phường Liên Chiểu,48,Thành phố Đà Nẵng
+1854,20200,Phường Hoà Khánh,48,Thành phố Đà Nẵng
+1855,20209,Phường Thanh Khê,48,Thành phố Đà Nẵng
+1856,20242,Phường Hải Châu,48,Thành phố Đà Nẵng
+1857,20257,Phường Hoà Cường,48,Thành phố Đà Nẵng
+1858,20260,Phường Cẩm Lệ,48,Thành phố Đà Nẵng
+1859,20263,Phường Sơn Trà,48,Thành phố Đà Nẵng
+1860,20275,Phường An Hải,48,Thành phố Đà Nẵng
+1861,20285,Phường Ngũ Hành Sơn,48,Thành phố Đà Nẵng
+1862,20305,Phường An Khê,48,Thành phố Đà Nẵng
+1863,20308,Xã Bà Nà,48,Thành phố Đà Nẵng
+1864,20314,Phường Hoà Xuân,48,Thành phố Đà Nẵng
+1865,20320,Xã Hoà Vang,48,Thành phố Đà Nẵng
+1866,20332,Xã Hoà Tiến,48,Thành phố Đà Nẵng
+1867,20333,Đặc khu Hoàng Sa,48,Thành phố Đà Nẵng
+1868,20335,Phường Bàn Thạch,48,Thành phố Đà Nẵng
+1869,20341,Phường Tam Kỳ,48,Thành phố Đà Nẵng
+1870,20350,Phường Hương Trà,48,Thành phố Đà Nẵng
+1871,20356,Phường Quảng Phú,48,Thành phố Đà Nẵng
+1872,20364,Xã Chiên Đàn,48,Thành phố Đà Nẵng
+1873,20380,Xã Tây Hồ,48,Thành phố Đà Nẵng
+1874,20392,Xã Phú Ninh,48,Thành phố Đà Nẵng
+1875,20401,Phường Hội An Tây,48,Thành phố Đà Nẵng
+1876,20410,Phường Hội An,48,Thành phố Đà Nẵng
+1877,20413,Phường Hội An Đông,48,Thành phố Đà Nẵng
+1878,20434,Xã Tân Hiệp,48,Thành phố Đà Nẵng
+1879,20443,Xã Hùng Sơn,48,Thành phố Đà Nẵng
+1880,20455,Xã Tây Giang,48,Thành phố Đà Nẵng
+1881,20458,Xã Avương,48,Thành phố Đà Nẵng
+1882,20467,Xã Đông Giang,48,Thành phố Đà Nẵng
+1883,20476,Xã Sông Kôn,48,Thành phố Đà Nẵng
+1884,20485,Xã Sông Vàng,48,Thành phố Đà Nẵng
+1885,20494,Xã Bến Hiên,48,Thành phố Đà Nẵng
+1886,20500,Xã Đại Lộc,48,Thành phố Đà Nẵng
+1887,20506,Xã Thượng Đức,48,Thành phố Đà Nẵng
+1888,20515,Xã Hà Nha,48,Thành phố Đà Nẵng
+1889,20539,Xã Vu Gia,48,Thành phố Đà Nẵng
+1890,20542,Xã Phú Thuận,48,Thành phố Đà Nẵng
+1891,20551,Phường Điện Bàn,48,Thành phố Đà Nẵng
+1892,20557,Phường Điện Bàn Bắc,48,Thành phố Đà Nẵng
+1893,20569,Xã Điện Bàn Tây,48,Thành phố Đà Nẵng
+1894,20575,Phường An Thắng,48,Thành phố Đà Nẵng
+1895,20579,Phường Điện Bàn Đông,48,Thành phố Đà Nẵng
+1896,20587,Xã Gò Nổi,48,Thành phố Đà Nẵng
+1897,20599,Xã Nam Phước,48,Thành phố Đà Nẵng
+1898,20611,Xã Thu Bồn,48,Thành phố Đà Nẵng
+1899,20623,Xã Duy Xuyên,48,Thành phố Đà Nẵng
+1900,20635,Xã Duy Nghĩa,48,Thành phố Đà Nẵng
+1901,20641,Xã Quế Sơn,48,Thành phố Đà Nẵng
+1902,20650,Xã Xuân Phú,48,Thành phố Đà Nẵng
+1903,20656,Xã Nông Sơn,48,Thành phố Đà Nẵng
+1904,20662,Xã Quế Sơn Trung,48,Thành phố Đà Nẵng
+1905,20669,Xã Quế Phước,48,Thành phố Đà Nẵng
+1906,20695,Xã Thạnh Mỹ,48,Thành phố Đà Nẵng
+1907,20698,Xã La Êê,48,Thành phố Đà Nẵng
+1908,20704,Xã La Dêê,48,Thành phố Đà Nẵng
+1909,20707,Xã Nam Giang,48,Thành phố Đà Nẵng
+1910,20710,Xã Bến Giằng,48,Thành phố Đà Nẵng
+1911,20716,Xã Đắc Pring,48,Thành phố Đà Nẵng
+1912,20722,Xã Khâm Đức,48,Thành phố Đà Nẵng
+1913,20728,Xã Phước Hiệp,48,Thành phố Đà Nẵng
+1914,20734,Xã Phước Năng,48,Thành phố Đà Nẵng
+1915,20740,Xã Phước Chánh,48,Thành phố Đà Nẵng
+1916,20752,Xã Phước Thành,48,Thành phố Đà Nẵng
+1917,20767,Xã Việt An,48,Thành phố Đà Nẵng
+1918,20770,Xã Phước Trà,48,Thành phố Đà Nẵng
+1919,20779,Xã Hiệp Đức,48,Thành phố Đà Nẵng
+1920,20791,Xã Thăng Bình,48,Thành phố Đà Nẵng
+1921,20794,Xã Thăng An,48,Thành phố Đà Nẵng
+1922,20818,Xã Đồng Dương,48,Thành phố Đà Nẵng
+1923,20827,Xã Thăng Phú,48,Thành phố Đà Nẵng
+1924,20836,Xã Thăng Trường,48,Thành phố Đà Nẵng
+1925,20848,Xã Thăng Điền,48,Thành phố Đà Nẵng
+1926,20854,Xã Tiên Phước,48,Thành phố Đà Nẵng
+1927,20857,Xã Sơn Cẩm Hà,48,Thành phố Đà Nẵng
+1928,20875,Xã Lãnh Ngọc,48,Thành phố Đà Nẵng
+1929,20878,Xã Thạnh Bình,48,Thành phố Đà Nẵng
+1930,20900,Xã Trà My,48,Thành phố Đà Nẵng
+1931,20908,Xã Trà Liên,48,Thành phố Đà Nẵng
+1932,20920,Xã Trà Đốc,48,Thành phố Đà Nẵng
+1933,20923,Xã Trà Tân,48,Thành phố Đà Nẵng
+1934,20929,Xã Trà Giáp,48,Thành phố Đà Nẵng
+1935,20938,Xã Trà Leng,48,Thành phố Đà Nẵng
+1936,20941,Xã Trà Tập,48,Thành phố Đà Nẵng
+1937,20944,Xã Nam Trà My,48,Thành phố Đà Nẵng
+1938,20950,Xã Trà Linh,48,Thành phố Đà Nẵng
+1939,20959,Xã Trà Vân,48,Thành phố Đà Nẵng
+1940,20965,Xã Núi Thành,48,Thành phố Đà Nẵng
+1941,20971,Xã Tam Xuân,48,Thành phố Đà Nẵng
+1942,20977,Xã Đức Phú,48,Thành phố Đà Nẵng
+1943,20984,Xã Tam Anh,48,Thành phố Đà Nẵng
+1944,20992,Xã Tam Hải,48,Thành phố Đà Nẵng
+1945,21004,Xã Tam Mỹ,48,Thành phố Đà Nẵng
+1946,21025,Phường Cẩm Thành,51,Tỉnh Quảng Ngãi
+1947,21028,Phường Nghĩa Lộ,51,Tỉnh Quảng Ngãi
+1948,21034,Xã An Phú,51,Tỉnh Quảng Ngãi
+1949,21040,Xã Bình Sơn,51,Tỉnh Quảng Ngãi
+1950,21061,Xã Vạn Tường,51,Tỉnh Quảng Ngãi
+1951,21085,Xã Bình Minh,51,Tỉnh Quảng Ngãi
+1952,21100,Xã Bình Chương,51,Tỉnh Quảng Ngãi
+1953,21109,Xã Đông Sơn,51,Tỉnh Quảng Ngãi
+1954,21115,Xã Trà Bồng,51,Tỉnh Quảng Ngãi
+1955,21124,Xã Thanh Bồng,51,Tỉnh Quảng Ngãi
+1956,21127,Xã Đông Trà Bồng,51,Tỉnh Quảng Ngãi
+1957,21136,Xã Cà Đam,51,Tỉnh Quảng Ngãi
+1958,21154,Xã Tây Trà,51,Tỉnh Quảng Ngãi
+1959,21157,Xã Tây Trà Bồng,51,Tỉnh Quảng Ngãi
+1960,21172,Phường Trương Quang Trọng,51,Tỉnh Quảng Ngãi
+1961,21181,Xã Thọ Phong,51,Tỉnh Quảng Ngãi
+1962,21196,Xã Trường Giang,51,Tỉnh Quảng Ngãi
+1963,21205,Xã Ba Gia,51,Tỉnh Quảng Ngãi
+1964,21211,Xã Tịnh Khê,51,Tỉnh Quảng Ngãi
+1965,21220,Xã Sơn Tịnh,51,Tỉnh Quảng Ngãi
+1966,21235,Xã Tư Nghĩa,51,Tỉnh Quảng Ngãi
+1967,21238,Xã Vệ Giang,51,Tỉnh Quảng Ngãi
+1968,21244,Xã Trà Giang,51,Tỉnh Quảng Ngãi
+1969,21250,Xã Nghĩa Giang,51,Tỉnh Quảng Ngãi
+1970,21289,Xã Sơn Hà,51,Tỉnh Quảng Ngãi
+1971,21292,Xã Sơn Hạ,51,Tỉnh Quảng Ngãi
+1972,21307,Xã Sơn Linh,51,Tỉnh Quảng Ngãi
+1973,21319,Xã Sơn Thuỷ,51,Tỉnh Quảng Ngãi
+1974,21325,Xã Sơn Kỳ,51,Tỉnh Quảng Ngãi
+1975,21334,Xã Sơn Tây Thượng,51,Tỉnh Quảng Ngãi
+1976,21340,Xã Sơn Tây,51,Tỉnh Quảng Ngãi
+1977,21343,Xã Sơn Tây Hạ,51,Tỉnh Quảng Ngãi
+1978,21349,Xã Sơn Mai,51,Tỉnh Quảng Ngãi
+1979,21361,Xã Minh Long,51,Tỉnh Quảng Ngãi
+1980,21364,Xã Nghĩa Hành,51,Tỉnh Quảng Ngãi
+1981,21370,Xã Phước Giang,51,Tỉnh Quảng Ngãi
+1982,21385,Xã Đình Cương,51,Tỉnh Quảng Ngãi
+1983,21388,Xã Thiện Tín,51,Tỉnh Quảng Ngãi
+1984,21400,Xã Mộ Đức,51,Tỉnh Quảng Ngãi
+1985,21409,Xã Long Phụng,51,Tỉnh Quảng Ngãi
+1986,21421,Xã Mỏ Cày,51,Tỉnh Quảng Ngãi
+1987,21433,Xã Lân Phong,51,Tỉnh Quảng Ngãi
+1988,21439,Phường Đức Phổ,51,Tỉnh Quảng Ngãi
+1989,21451,Phường Trà Câu,51,Tỉnh Quảng Ngãi
+1990,21457,Xã Nguyễn Nghiêm,51,Tỉnh Quảng Ngãi
+1991,21472,Xã Khánh Cường,51,Tỉnh Quảng Ngãi
+1992,21478,Phường Sa Huỳnh,51,Tỉnh Quảng Ngãi
+1993,21484,Xã Ba Tơ,51,Tỉnh Quảng Ngãi
+1994,21490,Xã Ba Vinh,51,Tỉnh Quảng Ngãi
+1995,21496,Xã Ba Động,51,Tỉnh Quảng Ngãi
+1996,21499,Xã Ba Dinh,51,Tỉnh Quảng Ngãi
+1997,21520,Xã Đặng Thuỳ Trâm,51,Tỉnh Quảng Ngãi
+1998,21523,Xã Ba Tô,51,Tỉnh Quảng Ngãi
+1999,21529,Xã Ba Vì,51,Tỉnh Quảng Ngãi
+2000,21538,Xã Ba Xa,51,Tỉnh Quảng Ngãi
+2001,21548,Đặc khu Lý Sơn,51,Tỉnh Quảng Ngãi
+2002,23284,Phường Đăk Cấm,51,Tỉnh Quảng Ngãi
+2003,23293,Phường Kon Tum,51,Tỉnh Quảng Ngãi
+2004,23302,Phường Đăk Bla,51,Tỉnh Quảng Ngãi
+2005,23317,Xã Ngọk Bay,51,Tỉnh Quảng Ngãi
+2006,23326,Xã Ia Chim,51,Tỉnh Quảng Ngãi
+2007,23332,Xã Đăk Rơ Wa,51,Tỉnh Quảng Ngãi
+2008,23341,Xã Đăk Pék,51,Tỉnh Quảng Ngãi
+2009,23344,Xã Đăk Plô,51,Tỉnh Quảng Ngãi
+2010,23356,Xã Xốp,51,Tỉnh Quảng Ngãi
+2011,23365,Xã Ngọc Linh,51,Tỉnh Quảng Ngãi
+2012,23368,Xã Đăk Long,51,Tỉnh Quảng Ngãi
+2013,23374,Xã Đăk Môn,51,Tỉnh Quảng Ngãi
+2014,23377,Xã Bờ Y,51,Tỉnh Quảng Ngãi
+2015,23383,Xã Dục Nông,51,Tỉnh Quảng Ngãi
+2016,23392,Xã Sa Loong,51,Tỉnh Quảng Ngãi
+2017,23401,Xã Đăk Tô,51,Tỉnh Quảng Ngãi
+2018,23416,Xã Đăk Sao,51,Tỉnh Quảng Ngãi
+2019,23419,Xã Đăk Tờ Kan,51,Tỉnh Quảng Ngãi
+2020,23425,Xã Tu Mơ Rông,51,Tỉnh Quảng Ngãi
+2021,23428,Xã Ngọk Tụ,51,Tỉnh Quảng Ngãi
+2022,23430,Xã Kon Đào,51,Tỉnh Quảng Ngãi
+2023,23446,Xã Măng Ri,51,Tỉnh Quảng Ngãi
+2024,23455,Xã Măng Bút,51,Tỉnh Quảng Ngãi
+2025,23473,Xã Măng Đen,51,Tỉnh Quảng Ngãi
+2026,23476,Xã Kon Plông,51,Tỉnh Quảng Ngãi
+2027,23479,Xã Đăk Rve,51,Tỉnh Quảng Ngãi
+2028,23485,Xã Đăk Kôi,51,Tỉnh Quảng Ngãi
+2029,23497,Xã Kon Braih,51,Tỉnh Quảng Ngãi
+2030,23500,Xã Đăk Hà,51,Tỉnh Quảng Ngãi
+2031,23504,Xã Đăk Pxi,51,Tỉnh Quảng Ngãi
+2032,23510,Xã Đăk Ui,51,Tỉnh Quảng Ngãi
+2033,23512,Xã Đăk Mar,51,Tỉnh Quảng Ngãi
+2034,23515,Xã Ngọk Réo,51,Tỉnh Quảng Ngãi
+2035,23527,Xã Sa Thầy,51,Tỉnh Quảng Ngãi
+2036,23530,Xã Rờ Kơi,51,Tỉnh Quảng Ngãi
+2037,23534,Xã Sa Bình,51,Tỉnh Quảng Ngãi
+2038,23535,Xã Ia Đal,51,Tỉnh Quảng Ngãi
+2039,23536,Xã Mô Rai,51,Tỉnh Quảng Ngãi
+2040,23538,Xã Ia Tơi,51,Tỉnh Quảng Ngãi
+2041,23548,Xã Ya Ly,51,Tỉnh Quảng Ngãi
+2042,21553,Phường Quy Nhơn Bắc,52,Tỉnh Gia Lai
+2043,21583,Phường Quy Nhơn,52,Tỉnh Gia Lai
+2044,21589,Phường Quy Nhơn Tây,52,Tỉnh Gia Lai
+2045,21592,Phường Quy Nhơn Nam,52,Tỉnh Gia Lai
+2046,21601,Phường Quy Nhơn Đông,52,Tỉnh Gia Lai
+2047,21607,Xã Nhơn Châu,52,Tỉnh Gia Lai
+2048,21609,Xã An Lão,52,Tỉnh Gia Lai
+2049,21616,Xã An Vinh,52,Tỉnh Gia Lai
+2050,21622,Xã An Toàn,52,Tỉnh Gia Lai
+2051,21628,Xã An Hoà,52,Tỉnh Gia Lai
+2052,21637,Phường Tam Quan,52,Tỉnh Gia Lai
+2053,21640,Phường Bồng Sơn,52,Tỉnh Gia Lai
+2054,21655,Phường Hoài Nhơn Bắc,52,Tỉnh Gia Lai
+2055,21661,Phường Hoài Nhơn Tây,52,Tỉnh Gia Lai
+2056,21664,Phường Hoài Nhơn,52,Tỉnh Gia Lai
+2057,21670,Phường Hoài Nhơn Đông,52,Tỉnh Gia Lai
+2058,21673,Phường Hoài Nhơn Nam,52,Tỉnh Gia Lai
+2059,21688,Xã Hoài Ân,52,Tỉnh Gia Lai
+2060,21697,Xã Ân Hảo,52,Tỉnh Gia Lai
+2061,21703,Xã Vạn Đức,52,Tỉnh Gia Lai
+2062,21715,Xã Ân Tường,52,Tỉnh Gia Lai
+2063,21727,Xã Kim Sơn,52,Tỉnh Gia Lai
+2064,21730,Xã Phù Mỹ,52,Tỉnh Gia Lai
+2065,21733,Xã Bình Dương,52,Tỉnh Gia Lai
+2066,21739,Xã Phù Mỹ Bắc,52,Tỉnh Gia Lai
+2067,21751,Xã Phù Mỹ Đông,52,Tỉnh Gia Lai
+2068,21757,Xã Phù Mỹ Tây,52,Tỉnh Gia Lai
+2069,21769,Xã An Lương,52,Tỉnh Gia Lai
+2070,21775,Xã Phù Mỹ Nam,52,Tỉnh Gia Lai
+2071,21786,Xã Vĩnh Thạnh,52,Tỉnh Gia Lai
+2072,21787,Xã Vĩnh Sơn,52,Tỉnh Gia Lai
+2073,21796,Xã Vĩnh Thịnh,52,Tỉnh Gia Lai
+2074,21805,Xã Vĩnh Quang,52,Tỉnh Gia Lai
+2075,21808,Xã Tây Sơn,52,Tỉnh Gia Lai
+2076,21817,Xã Bình Hiệp,52,Tỉnh Gia Lai
+2077,21820,Xã Bình Khê,52,Tỉnh Gia Lai
+2078,21829,Xã Bình An,52,Tỉnh Gia Lai
+2079,21835,Xã Bình Phú,52,Tỉnh Gia Lai
+2080,21853,Xã Phù Cát,52,Tỉnh Gia Lai
+2081,21859,Xã Đề Gi,52,Tỉnh Gia Lai
+2082,21868,Xã Hội Sơn,52,Tỉnh Gia Lai
+2083,21871,Xã Hoà Hội,52,Tỉnh Gia Lai
+2084,21880,Xã Cát Tiến,52,Tỉnh Gia Lai
+2085,21892,Xã Xuân An,52,Tỉnh Gia Lai
+2086,21901,Xã Ngô Mây,52,Tỉnh Gia Lai
+2087,21907,Phường Bình Định,52,Tỉnh Gia Lai
+2088,21910,Phường An Nhơn,52,Tỉnh Gia Lai
+2089,21925,Phường An Nhơn Bắc,52,Tỉnh Gia Lai
+2090,21934,Phường An Nhơn Đông,52,Tỉnh Gia Lai
+2091,21940,Xã An Nhơn Tây,52,Tỉnh Gia Lai
+2092,21943,Phường An Nhơn Nam,52,Tỉnh Gia Lai
+2093,21952,Xã Tuy Phước,52,Tỉnh Gia Lai
+2094,21964,Xã Tuy Phước Bắc,52,Tỉnh Gia Lai
+2095,21970,Xã Tuy Phước Đông,52,Tỉnh Gia Lai
+2096,21985,Xã Tuy Phước Tây,52,Tỉnh Gia Lai
+2097,21994,Xã Vân Canh,52,Tỉnh Gia Lai
+2098,21997,Xã Canh Liên,52,Tỉnh Gia Lai
+2099,22006,Xã Canh Vinh,52,Tỉnh Gia Lai
+2100,23563,Phường Diên Hồng,52,Tỉnh Gia Lai
+2101,23575,Phường Pleiku,52,Tỉnh Gia Lai
+2102,23584,Phường Thống Nhất,52,Tỉnh Gia Lai
+2103,23586,Phường Hội Phú,52,Tỉnh Gia Lai
+2104,23590,Xã Biển Hồ,52,Tỉnh Gia Lai
+2105,23602,Phường An Phú,52,Tỉnh Gia Lai
+2106,23611,Xã Gào,52,Tỉnh Gia Lai
+2107,23614,Phường An Bình,52,Tỉnh Gia Lai
+2108,23617,Phường An Khê,52,Tỉnh Gia Lai
+2109,23629,Xã Cửu An,52,Tỉnh Gia Lai
+2110,23638,Xã Kbang,52,Tỉnh Gia Lai
+2111,23644,Xã Đak Rong,52,Tỉnh Gia Lai
+2112,23647,Xã Sơn Lang,52,Tỉnh Gia Lai
+2113,23650,Xã Krong,52,Tỉnh Gia Lai
+2114,23668,Xã Tơ Tung,52,Tỉnh Gia Lai
+2115,23674,Xã Kông Bơ La,52,Tỉnh Gia Lai
+2116,23677,Xã Đak Đoa,52,Tỉnh Gia Lai
+2117,23683,Xã Đak Sơmei,52,Tỉnh Gia Lai
+2118,23701,Xã Kon Gang,52,Tỉnh Gia Lai
+2119,23710,Xã Ia Băng,52,Tỉnh Gia Lai
+2120,23714,Xã KDang,52,Tỉnh Gia Lai
+2121,23722,Xã Chư Păh,52,Tỉnh Gia Lai
+2122,23728,Xã Ia Khươl,52,Tỉnh Gia Lai
+2123,23734,Xã Ia Ly,52,Tỉnh Gia Lai
+2124,23749,Xã Ia Phí,52,Tỉnh Gia Lai
+2125,23764,Xã Ia Grai,52,Tỉnh Gia Lai
+2126,23767,Xã Ia Hrung,52,Tỉnh Gia Lai
+2127,23776,Xã Ia Krái,52,Tỉnh Gia Lai
+2128,23782,Xã Ia O,52,Tỉnh Gia Lai
+2129,23788,Xã Ia Chia,52,Tỉnh Gia Lai
+2130,23794,Xã Mang Yang,52,Tỉnh Gia Lai
+2131,23798,Xã Ayun,52,Tỉnh Gia Lai
+2132,23799,Xã Hra,52,Tỉnh Gia Lai
+2133,23812,Xã Lơ Pang,52,Tỉnh Gia Lai
+2134,23818,Xã Kon Chiêng,52,Tỉnh Gia Lai
+2135,23824,Xã Kông Chro,52,Tỉnh Gia Lai
+2136,23830,Xã Chư Krey,52,Tỉnh Gia Lai
+2137,23833,Xã Ya Ma,52,Tỉnh Gia Lai
+2138,23839,Xã SRó,52,Tỉnh Gia Lai
+2139,23842,Xã Đăk Song,52,Tỉnh Gia Lai
+2140,23851,Xã Chơ Long,52,Tỉnh Gia Lai
+2141,23857,Xã Đức Cơ,52,Tỉnh Gia Lai
+2142,23866,Xã Ia Krêl,52,Tỉnh Gia Lai
+2143,23869,Xã Ia Dơk,52,Tỉnh Gia Lai
+2144,23872,Xã Ia Dom,52,Tỉnh Gia Lai
+2145,23881,Xã Ia Pnôn,52,Tỉnh Gia Lai
+2146,23884,Xã Ia Nan,52,Tỉnh Gia Lai
+2147,23887,Xã Chư Prông,52,Tỉnh Gia Lai
+2148,23896,Xã Bàu Cạn,52,Tỉnh Gia Lai
+2149,23908,Xã Ia Tôr,52,Tỉnh Gia Lai
+2150,23911,Xã Ia Boòng,52,Tỉnh Gia Lai
+2151,23917,Xã Ia Púch,52,Tỉnh Gia Lai
+2152,23926,Xã Ia Pia,52,Tỉnh Gia Lai
+2153,23935,Xã Ia Lâu,52,Tỉnh Gia Lai
+2154,23938,Xã Ia Mơ,52,Tỉnh Gia Lai
+2155,23941,Xã Chư Sê,52,Tỉnh Gia Lai
+2156,23942,Xã Chư Pưh,52,Tỉnh Gia Lai
+2157,23947,Xã Bờ Ngoong,52,Tỉnh Gia Lai
+2158,23954,Xã Al Bá,52,Tỉnh Gia Lai
+2159,23971,Xã Ia Hrú,52,Tỉnh Gia Lai
+2160,23977,Xã Ia Ko,52,Tỉnh Gia Lai
+2161,23986,Xã Ia Le,52,Tỉnh Gia Lai
+2162,23995,Xã Đak Pơ,52,Tỉnh Gia Lai
+2163,24007,Xã Ya Hội,52,Tỉnh Gia Lai
+2164,24013,Xã Pờ Tó,52,Tỉnh Gia Lai
+2165,24022,Xã Ia Pa,52,Tỉnh Gia Lai
+2166,24028,Xã Ia Tul,52,Tỉnh Gia Lai
+2167,24043,Xã Phú Thiện,52,Tỉnh Gia Lai
+2168,24044,Phường Ayun Pa,52,Tỉnh Gia Lai
+2169,24049,Xã Chư A Thai,52,Tỉnh Gia Lai
+2170,24061,Xã Ia Hiao,52,Tỉnh Gia Lai
+2171,24065,Xã Ia Rbol,52,Tỉnh Gia Lai
+2172,24073,Xã Ia Sao,52,Tỉnh Gia Lai
+2173,24076,Xã Phú Túc,52,Tỉnh Gia Lai
+2174,24100,Xã Ia Dreh,52,Tỉnh Gia Lai
+2175,24109,Xã Uar,52,Tỉnh Gia Lai
+2176,24112,Xã Ia Rsai,52,Tỉnh Gia Lai
+2177,22333,Phường Bắc Nha Trang,56,Tỉnh Khánh Hoà
+2178,22366,Phường Nha Trang,56,Tỉnh Khánh Hoà
+2179,22390,Phường Tây Nha Trang,56,Tỉnh Khánh Hoà
+2180,22402,Phường Nam Nha Trang,56,Tỉnh Khánh Hoà
+2181,22411,Phường Bắc Cam Ranh,56,Tỉnh Khánh Hoà
+2182,22420,Phường Cam Ranh,56,Tỉnh Khánh Hoà
+2183,22423,Phường Ba Ngòi,56,Tỉnh Khánh Hoà
+2184,22432,Phường Cam Linh,56,Tỉnh Khánh Hoà
+2185,22435,Xã Cam Hiệp,56,Tỉnh Khánh Hoà
+2186,22453,Xã Cam Lâm,56,Tỉnh Khánh Hoà
+2187,22465,Xã Cam An,56,Tỉnh Khánh Hoà
+2188,22480,Xã Nam Cam Ranh,56,Tỉnh Khánh Hoà
+2189,22489,Xã Vạn Ninh,56,Tỉnh Khánh Hoà
+2190,22498,Xã Tu Bông,56,Tỉnh Khánh Hoà
+2191,22504,Xã Đại Lãnh,56,Tỉnh Khánh Hoà
+2192,22516,Xã Vạn Thắng,56,Tỉnh Khánh Hoà
+2193,22525,Xã Vạn Hưng,56,Tỉnh Khánh Hoà
+2194,22528,Phường Ninh Hoà,56,Tỉnh Khánh Hoà
+2195,22546,Xã Bắc Ninh Hoà,56,Tỉnh Khánh Hoà
+2196,22552,Xã Tây Ninh Hoà,56,Tỉnh Khánh Hoà
+2197,22558,Xã Hoà Trí,56,Tỉnh Khánh Hoà
+2198,22561,Phường Đông Ninh Hoà,56,Tỉnh Khánh Hoà
+2199,22576,Xã Tân Định,56,Tỉnh Khánh Hoà
+2200,22591,Phường Hoà Thắng,56,Tỉnh Khánh Hoà
+2201,22597,Xã Nam Ninh Hoà,56,Tỉnh Khánh Hoà
+2202,22609,Xã Khánh Vĩnh,56,Tỉnh Khánh Hoà
+2203,22612,Xã Trung Khánh Vĩnh,56,Tỉnh Khánh Hoà
+2204,22615,Xã Bắc Khánh Vĩnh,56,Tỉnh Khánh Hoà
+2205,22624,Xã Tây Khánh Vĩnh,56,Tỉnh Khánh Hoà
+2206,22648,Xã Nam Khánh Vĩnh,56,Tỉnh Khánh Hoà
+2207,22651,Xã Diên Khánh,56,Tỉnh Khánh Hoà
+2208,22657,Xã Diên Điền,56,Tỉnh Khánh Hoà
+2209,22660,Xã Diên Lâm,56,Tỉnh Khánh Hoà
+2210,22672,Xã Diên Thọ,56,Tỉnh Khánh Hoà
+2211,22678,Xã Diên Lạc,56,Tỉnh Khánh Hoà
+2212,22702,Xã Suối Hiệp,56,Tỉnh Khánh Hoà
+2213,22708,Xã Suối Dầu,56,Tỉnh Khánh Hoà
+2214,22714,Xã Khánh Sơn,56,Tỉnh Khánh Hoà
+2215,22720,Xã Tây Khánh Sơn,56,Tỉnh Khánh Hoà
+2216,22732,Xã Đông Khánh Sơn,56,Tỉnh Khánh Hoà
+2217,22736,Đặc khu Trường Sa,56,Tỉnh Khánh Hoà
+2218,22738,Phường Đô Vinh,56,Tỉnh Khánh Hoà
+2219,22741,Phường Bảo An,56,Tỉnh Khánh Hoà
+2220,22759,Phường Phan Rang,56,Tỉnh Khánh Hoà
+2221,22780,Phường Đông Hải,56,Tỉnh Khánh Hoà
+2222,22786,Xã Bác Ái Tây,56,Tỉnh Khánh Hoà
+2223,22795,Xã Bác Ái,56,Tỉnh Khánh Hoà
+2224,22801,Xã Bác Ái Đông,56,Tỉnh Khánh Hoà
+2225,22810,Xã Ninh Sơn,56,Tỉnh Khánh Hoà
+2226,22813,Xã Lâm Sơn,56,Tỉnh Khánh Hoà
+2227,22822,Xã Mỹ Sơn,56,Tỉnh Khánh Hoà
+2228,22828,Xã Anh Dũng,56,Tỉnh Khánh Hoà
+2229,22834,Phường Ninh Chử,56,Tỉnh Khánh Hoà
+2230,22840,Xã Công Hải,56,Tỉnh Khánh Hoà
+2231,22846,Xã Vĩnh Hải,56,Tỉnh Khánh Hoà
+2232,22849,Xã Thuận Bắc,56,Tỉnh Khánh Hoà
+2233,22852,Xã Ninh Hải,56,Tỉnh Khánh Hoà
+2234,22861,Xã Xuân Hải,56,Tỉnh Khánh Hoà
+2235,22870,Xã Ninh Phước,56,Tỉnh Khánh Hoà
+2236,22873,Xã Phước Hậu,56,Tỉnh Khánh Hoà
+2237,22888,Xã Phước Dinh,56,Tỉnh Khánh Hoà
+2238,22891,Xã Phước Hữu,56,Tỉnh Khánh Hoà
+2239,22897,Xã Thuận Nam,56,Tỉnh Khánh Hoà
+2240,22900,Xã Phước Hà,56,Tỉnh Khánh Hoà
+2241,22909,Xã Cà Ná,56,Tỉnh Khánh Hoà
+2242,22015,Phường Tuy Hoà,66,Tỉnh Đắk Lắk
+2243,22045,Phường Bình Kiến,66,Tỉnh Đắk Lắk
+2244,22051,Phường Sông Cầu,66,Tỉnh Đắk Lắk
+2245,22057,Xã Xuân Lộc,66,Tỉnh Đắk Lắk
+2246,22060,Xã Xuân Cảnh,66,Tỉnh Đắk Lắk
+2247,22075,Xã Xuân Thọ,66,Tỉnh Đắk Lắk
+2248,22076,Phường Xuân Đài,66,Tỉnh Đắk Lắk
+2249,22081,Xã Đồng Xuân,66,Tỉnh Đắk Lắk
+2250,22090,Xã Xuân Lãnh,66,Tỉnh Đắk Lắk
+2251,22096,Xã Phú Mỡ,66,Tỉnh Đắk Lắk
+2252,22111,Xã Xuân Phước,66,Tỉnh Đắk Lắk
+2253,22114,Xã Tuy An Bắc,66,Tỉnh Đắk Lắk
+2254,22120,Xã Tuy An Đông,66,Tỉnh Đắk Lắk
+2255,22132,Xã Tuy An Tây,66,Tỉnh Đắk Lắk
+2256,22147,Xã Ô Loan,66,Tỉnh Đắk Lắk
+2257,22153,Xã Tuy An Nam,66,Tỉnh Đắk Lắk
+2258,22165,Xã Sơn Hoà,66,Tỉnh Đắk Lắk
+2259,22171,Xã Tây Sơn,66,Tỉnh Đắk Lắk
+2260,22177,Xã Vân Hoà,66,Tỉnh Đắk Lắk
+2261,22192,Xã Suối Trai,66,Tỉnh Đắk Lắk
+2262,22207,Xã Sông Hinh,66,Tỉnh Đắk Lắk
+2263,22222,Xã Đức Bình,66,Tỉnh Đắk Lắk
+2264,22225,Xã Ea Bá,66,Tỉnh Đắk Lắk
+2265,22237,Xã Ea Ly,66,Tỉnh Đắk Lắk
+2266,22240,Phường Phú Yên,66,Tỉnh Đắk Lắk
+2267,22250,Xã Sơn Thành,66,Tỉnh Đắk Lắk
+2268,22255,Xã Tây Hoà,66,Tỉnh Đắk Lắk
+2269,22258,Phường Đông Hoà,66,Tỉnh Đắk Lắk
+2270,22261,Phường Hoà Hiệp,66,Tỉnh Đắk Lắk
+2271,22276,Xã Hoà Thịnh,66,Tỉnh Đắk Lắk
+2272,22285,Xã Hoà Mỹ,66,Tỉnh Đắk Lắk
+2273,22291,Xã Hoà Xuân,66,Tỉnh Đắk Lắk
+2274,22303,Xã Phú Hoà 2,66,Tỉnh Đắk Lắk
+2275,22319,Xã Phú Hoà 1,66,Tỉnh Đắk Lắk
+2276,24121,Phường Tân Lập,66,Tỉnh Đắk Lắk
+2277,24133,Phường Buôn Ma Thuột,66,Tỉnh Đắk Lắk
+2278,24154,Phường Thành Nhất,66,Tỉnh Đắk Lắk
+2279,24163,Phường Tân An,66,Tỉnh Đắk Lắk
+2280,24169,Phường Ea Kao,66,Tỉnh Đắk Lắk
+2281,24175,Xã Hoà Phú,66,Tỉnh Đắk Lắk
+2282,24181,Xã Ea Drăng,66,Tỉnh Đắk Lắk
+2283,24184,Xã Ea H'Leo,66,Tỉnh Đắk Lắk
+2284,24187,Xã Ea Hiao,66,Tỉnh Đắk Lắk
+2285,24193,Xã Ea Wy,66,Tỉnh Đắk Lắk
+2286,24208,Xã Ea Khăl,66,Tỉnh Đắk Lắk
+2287,24211,Xã Ea Súp,66,Tỉnh Đắk Lắk
+2288,24214,Xã Ia Lốp,66,Tỉnh Đắk Lắk
+2289,24217,Xã Ea Rốk,66,Tỉnh Đắk Lắk
+2290,24221,Xã Ia Rvê,66,Tỉnh Đắk Lắk
+2291,24229,Xã Ea Bung,66,Tỉnh Đắk Lắk
+2292,24235,Xã Buôn Đôn,66,Tỉnh Đắk Lắk
+2293,24241,Xã Ea Wer,66,Tỉnh Đắk Lắk
+2294,24250,Xã Ea Nuôl,66,Tỉnh Đắk Lắk
+2295,24259,Xã Quảng Phú,66,Tỉnh Đắk Lắk
+2296,24265,Xã Ea Kiết,66,Tỉnh Đắk Lắk
+2297,24277,Xã Ea Tul,66,Tỉnh Đắk Lắk
+2298,24280,Xã Cư M'gar,66,Tỉnh Đắk Lắk
+2299,24286,Xã Ea M'Droh,66,Tỉnh Đắk Lắk
+2300,24301,Xã Cuôr Đăng,66,Tỉnh Đắk Lắk
+2301,24305,Phường Buôn Hồ,66,Tỉnh Đắk Lắk
+2302,24310,Xã Krông Búk,66,Tỉnh Đắk Lắk
+2303,24313,Xã Cư Pơng,66,Tỉnh Đắk Lắk
+2304,24316,Xã Pơng Drang,66,Tỉnh Đắk Lắk
+2305,24328,Xã Ea Drông,66,Tỉnh Đắk Lắk
+2306,24340,Phường Cư Bao,66,Tỉnh Đắk Lắk
+2307,24343,Xã Krông Năng,66,Tỉnh Đắk Lắk
+2308,24346,Xã Dliê Ya,66,Tỉnh Đắk Lắk
+2309,24352,Xã Tam Giang,66,Tỉnh Đắk Lắk
+2310,24364,Xã Phú Xuân,66,Tỉnh Đắk Lắk
+2311,24373,Xã Ea Kar,66,Tỉnh Đắk Lắk
+2312,24376,Xã Ea Knốp,66,Tỉnh Đắk Lắk
+2313,24400,Xã Ea Păl,66,Tỉnh Đắk Lắk
+2314,24403,Xã Ea Ô,66,Tỉnh Đắk Lắk
+2315,24406,Xã Cư Yang,66,Tỉnh Đắk Lắk
+2316,24412,Xã M'Drắk,66,Tỉnh Đắk Lắk
+2317,24415,Xã Cư Prao,66,Tỉnh Đắk Lắk
+2318,24433,Xã Ea Riêng,66,Tỉnh Đắk Lắk
+2319,24436,Xã Cư M'ta,66,Tỉnh Đắk Lắk
+2320,24444,Xã Krông Á,66,Tỉnh Đắk Lắk
+2321,24445,Xã Ea Trang,66,Tỉnh Đắk Lắk
+2322,24448,Xã Krông Bông,66,Tỉnh Đắk Lắk
+2323,24454,Xã Dang Kang,66,Tỉnh Đắk Lắk
+2324,24472,Xã Hoà Sơn,66,Tỉnh Đắk Lắk
+2325,24478,Xã Cư Pui,66,Tỉnh Đắk Lắk
+2326,24484,Xã Yang Mao,66,Tỉnh Đắk Lắk
+2327,24490,Xã Krông Pắc,66,Tỉnh Đắk Lắk
+2328,24496,Xã Ea Kly,66,Tỉnh Đắk Lắk
+2329,24502,Xã Ea Phê,66,Tỉnh Đắk Lắk
+2330,24505,Xã Ea Knuếc,66,Tỉnh Đắk Lắk
+2331,24526,Xã Tân Tiến,66,Tỉnh Đắk Lắk
+2332,24529,Xã Vụ Bổn,66,Tỉnh Đắk Lắk
+2333,24538,Xã Krông Ana,66,Tỉnh Đắk Lắk
+2334,24540,Xã Ea Ning,66,Tỉnh Đắk Lắk
+2335,24544,Xã Ea Ktur,66,Tỉnh Đắk Lắk
+2336,24559,Xã Ea Na,66,Tỉnh Đắk Lắk
+2337,24561,Xã Dray Bhăng,66,Tỉnh Đắk Lắk
+2338,24568,Xã Dur Kmăl,66,Tỉnh Đắk Lắk
+2339,24580,Xã Liên Sơn Lắk,66,Tỉnh Đắk Lắk
+2340,24595,Xã Đắk Liêng,66,Tỉnh Đắk Lắk
+2341,24598,Xã Đắk Phơi,66,Tỉnh Đắk Lắk
+2342,24604,Xã Krông Nô,66,Tỉnh Đắk Lắk
+2343,24607,Xã Nam Ka,66,Tỉnh Đắk Lắk
+2344,22918,Phường Mũi Né,68,Tỉnh Lâm Đồng
+2345,22924,Phường Phú Thuỷ,68,Tỉnh Lâm Đồng
+2346,22933,Phường Hàm Thắng,68,Tỉnh Lâm Đồng
+2347,22945,Phường Phan Thiết,68,Tỉnh Lâm Đồng
+2348,22954,Phường Tiến Thành,68,Tỉnh Lâm Đồng
+2349,22960,Phường Bình Thuận,68,Tỉnh Lâm Đồng
+2350,22963,Xã Tuyên Quang,68,Tỉnh Lâm Đồng
+2351,22969,Xã Liên Hương,68,Tỉnh Lâm Đồng
+2352,22972,Xã Phan Rí Cửa,68,Tỉnh Lâm Đồng
+2353,22978,Xã Tuy Phong,68,Tỉnh Lâm Đồng
+2354,22981,Xã Vĩnh Hảo,68,Tỉnh Lâm Đồng
+2355,23005,Xã Bắc Bình,68,Tỉnh Lâm Đồng
+2356,23008,Xã Phan Sơn,68,Tỉnh Lâm Đồng
+2357,23020,Xã Hải Ninh,68,Tỉnh Lâm Đồng
+2358,23023,Xã Sông Luỹ,68,Tỉnh Lâm Đồng
+2359,23032,Xã Lương Sơn,68,Tỉnh Lâm Đồng
+2360,23041,Xã Hồng Thái,68,Tỉnh Lâm Đồng
+2361,23053,Xã Hoà Thắng,68,Tỉnh Lâm Đồng
+2362,23059,Xã Hàm Thuận,68,Tỉnh Lâm Đồng
+2363,23065,Xã La Dạ,68,Tỉnh Lâm Đồng
+2364,23074,Xã Đông Giang,68,Tỉnh Lâm Đồng
+2365,23086,Xã Hồng Sơn,68,Tỉnh Lâm Đồng
+2366,23089,Xã Hàm Thuận Bắc,68,Tỉnh Lâm Đồng
+2367,23095,Xã Hàm Liêm,68,Tỉnh Lâm Đồng
+2368,23110,Xã Hàm Thuận Nam,68,Tỉnh Lâm Đồng
+2369,23122,Xã Hàm Thạnh,68,Tỉnh Lâm Đồng
+2370,23128,Xã Hàm Kiệm,68,Tỉnh Lâm Đồng
+2371,23134,Xã Tân Lập,68,Tỉnh Lâm Đồng
+2372,23143,Xã Tân Thành,68,Tỉnh Lâm Đồng
+2373,23149,Xã Tánh Linh,68,Tỉnh Lâm Đồng
+2374,23152,Xã Bắc Ruộng,68,Tỉnh Lâm Đồng
+2375,23158,Xã Nghị Đức,68,Tỉnh Lâm Đồng
+2376,23173,Xã Đồng Kho,68,Tỉnh Lâm Đồng
+2377,23188,Xã Suối Kiết,68,Tỉnh Lâm Đồng
+2378,23191,Xã Đức Linh,68,Tỉnh Lâm Đồng
+2379,23194,Xã Hoài Đức,68,Tỉnh Lâm Đồng
+2380,23200,Xã Nam Thành,68,Tỉnh Lâm Đồng
+2381,23227,Xã Trà Tân,68,Tỉnh Lâm Đồng
+2382,23230,Xã Tân Minh,68,Tỉnh Lâm Đồng
+2383,23231,Phường Phước Hội,68,Tỉnh Lâm Đồng
+2384,23235,Phường La Gi,68,Tỉnh Lâm Đồng
+2385,23236,Xã Hàm Tân,68,Tỉnh Lâm Đồng
+2386,23246,Xã Tân Hải,68,Tỉnh Lâm Đồng
+2387,23266,Xã Sơn Mỹ,68,Tỉnh Lâm Đồng
+2388,23272,Đặc khu Phú Quý,68,Tỉnh Lâm Đồng
+2389,24611,Phường Bắc Gia Nghĩa,68,Tỉnh Lâm Đồng
+2390,24615,Phường Nam Gia Nghĩa,68,Tỉnh Lâm Đồng
+2391,24616,Xã Quảng Sơn,68,Tỉnh Lâm Đồng
+2392,24617,Phường Đông Gia Nghĩa,68,Tỉnh Lâm Đồng
+2393,24620,Xã Quảng Hoà,68,Tỉnh Lâm Đồng
+2394,24631,Xã Quảng Khê,68,Tỉnh Lâm Đồng
+2395,24637,Xã Tà Đùng,68,Tỉnh Lâm Đồng
+2396,24640,Xã Cư Jút,68,Tỉnh Lâm Đồng
+2397,24646,Xã Đắk Wil,68,Tỉnh Lâm Đồng
+2398,24649,Xã Nam Dong,68,Tỉnh Lâm Đồng
+2399,24664,Xã Đức Lập,68,Tỉnh Lâm Đồng
+2400,24670,Xã Đắk Mil,68,Tỉnh Lâm Đồng
+2401,24678,Xã Đắk Sắk,68,Tỉnh Lâm Đồng
+2402,24682,Xã Thuận An,68,Tỉnh Lâm Đồng
+2403,24688,Xã Krông Nô,68,Tỉnh Lâm Đồng
+2404,24697,Xã Nam Đà,68,Tỉnh Lâm Đồng
+2405,24703,Xã Nâm Nung,68,Tỉnh Lâm Đồng
+2406,24712,Xã Quảng Phú,68,Tỉnh Lâm Đồng
+2407,24717,Xã Đức An,68,Tỉnh Lâm Đồng
+2408,24718,Xã Đắk Song,68,Tỉnh Lâm Đồng
+2409,24722,Xã Thuận Hạnh,68,Tỉnh Lâm Đồng
+2410,24730,Xã Trường Xuân,68,Tỉnh Lâm Đồng
+2411,24733,Xã Kiến Đức,68,Tỉnh Lâm Đồng
+2412,24736,Xã Quảng Trực,68,Tỉnh Lâm Đồng
+2413,24739,Xã Tuy Đức,68,Tỉnh Lâm Đồng
+2414,24748,Xã Quảng Tân,68,Tỉnh Lâm Đồng
+2415,24751,Xã Nhân Cơ,68,Tỉnh Lâm Đồng
+2416,24760,Xã Quảng Tín,68,Tỉnh Lâm Đồng
+2417,24778,Phường Lâm Viên - Đà Lạt,68,Tỉnh Lâm Đồng
+2418,24781,Phường Xuân Hương - Đà Lạt,68,Tỉnh Lâm Đồng
+2419,24787,Phường Cam Ly - Đà Lạt,68,Tỉnh Lâm Đồng
+2420,24805,Phường Xuân Trường - Đà Lạt,68,Tỉnh Lâm Đồng
+2421,24820,Phường 2 Bảo Lộc,68,Tỉnh Lâm Đồng
+2422,24823,Phường 1 Bảo Lộc,68,Tỉnh Lâm Đồng
+2423,24829,Phường B'Lao,68,Tỉnh Lâm Đồng
+2424,24841,Phường 3 Bảo Lộc,68,Tỉnh Lâm Đồng
+2425,24846,Phường Lang Biang - Đà Lạt,68,Tỉnh Lâm Đồng
+2426,24848,Xã Lạc Dương,68,Tỉnh Lâm Đồng
+2427,24853,Xã Đam Rông 4,68,Tỉnh Lâm Đồng
+2428,24868,Xã Nam Ban Lâm Hà,68,Tỉnh Lâm Đồng
+2429,24871,Xã Đinh Văn Lâm Hà,68,Tỉnh Lâm Đồng
+2430,24875,Xã Đam Rông 3,68,Tỉnh Lâm Đồng
+2431,24877,Xã Đam Rông 2,68,Tỉnh Lâm Đồng
+2432,24883,Xã Nam Hà Lâm Hà,68,Tỉnh Lâm Đồng
+2433,24886,Xã Đam Rông 1,68,Tỉnh Lâm Đồng
+2434,24895,Xã Phú Sơn Lâm Hà,68,Tỉnh Lâm Đồng
+2435,24907,Xã Phúc Thọ Lâm Hà,68,Tỉnh Lâm Đồng
+2436,24916,Xã Tân Hà Lâm Hà,68,Tỉnh Lâm Đồng
+2437,24931,Xã Đơn Dương,68,Tỉnh Lâm Đồng
+2438,24934,Xã D'Ran,68,Tỉnh Lâm Đồng
+2439,24943,Xã Ka Đô,68,Tỉnh Lâm Đồng
+2440,24955,Xã Quảng Lập,68,Tỉnh Lâm Đồng
+2441,24958,Xã Đức Trọng,68,Tỉnh Lâm Đồng
+2442,24967,Xã Hiệp Thạnh,68,Tỉnh Lâm Đồng
+2443,24976,Xã Tân Hội,68,Tỉnh Lâm Đồng
+2444,24985,Xã Ninh Gia,68,Tỉnh Lâm Đồng
+2445,24988,Xã Tà Năng,68,Tỉnh Lâm Đồng
+2446,24991,Xã Tà Hine,68,Tỉnh Lâm Đồng
+2447,25000,Xã Di Linh,68,Tỉnh Lâm Đồng
+2448,25007,Xã Đinh Trang Thượng,68,Tỉnh Lâm Đồng
+2449,25015,Xã Gia Hiệp,68,Tỉnh Lâm Đồng
+2450,25018,Xã Bảo Thuận,68,Tỉnh Lâm Đồng
+2451,25036,Xã Hoà Ninh,68,Tỉnh Lâm Đồng
+2452,25042,Xã Hoà Bắc,68,Tỉnh Lâm Đồng
+2453,25051,Xã Sơn Điền,68,Tỉnh Lâm Đồng
+2454,25054,Xã Bảo Lâm 1,68,Tỉnh Lâm Đồng
+2455,25057,Xã Bảo Lâm 5,68,Tỉnh Lâm Đồng
+2456,25063,Xã Bảo Lâm 4,68,Tỉnh Lâm Đồng
+2457,25084,Xã Bảo Lâm 2,68,Tỉnh Lâm Đồng
+2458,25093,Xã Bảo Lâm 3,68,Tỉnh Lâm Đồng
+2459,25099,Xã Đạ Huoai,68,Tỉnh Lâm Đồng
+2460,25105,Xã Đạ Huoai 2,68,Tỉnh Lâm Đồng
+2461,25114,Xã Đạ Huoai 3,68,Tỉnh Lâm Đồng
+2462,25126,Xã Đạ Tẻh,68,Tỉnh Lâm Đồng
+2463,25135,Xã Đạ Tẻh 3,68,Tỉnh Lâm Đồng
+2464,25138,Xã Đạ Tẻh 2,68,Tỉnh Lâm Đồng
+2465,25159,Xã Cát Tiên,68,Tỉnh Lâm Đồng
+2466,25162,Xã Cát Tiên 3,68,Tỉnh Lâm Đồng
+2467,25180,Xã Cát Tiên 2,68,Tỉnh Lâm Đồng
+2468,25195,Phường Bình Phước,75,Thành phố Đồng Nai
+2469,25210,Phường Đồng Xoài,75,Thành phố Đồng Nai
+2470,25217,Phường Phước Long,75,Thành phố Đồng Nai
+2471,25220,Phường Phước Bình,75,Thành phố Đồng Nai
+2472,25222,Xã Bù Gia Mập,75,Thành phố Đồng Nai
+2473,25225,Xã Đăk Ơ,75,Thành phố Đồng Nai
+2474,25231,Xã Đa Kia,75,Thành phố Đồng Nai
+2475,25246,Xã Bình Tân,75,Thành phố Đồng Nai
+2476,25252,Xã Phú Riềng,75,Thành phố Đồng Nai
+2477,25255,Xã Long Hà,75,Thành phố Đồng Nai
+2478,25261,Xã Phú Trung,75,Thành phố Đồng Nai
+2479,25267,Xã Phú Nghĩa,75,Thành phố Đồng Nai
+2480,25270,Phường Lộc Ninh,75,Thành phố Đồng Nai
+2481,25279,Xã Lộc Tấn,75,Thành phố Đồng Nai
+2482,25280,Xã Lộc Thạnh,75,Thành phố Đồng Nai
+2483,25292,Xã Lộc Quang,75,Thành phố Đồng Nai
+2484,25294,Xã Lộc Thành,75,Thành phố Đồng Nai
+2485,25303,Xã Lộc Hưng,75,Thành phố Đồng Nai
+2486,25308,Xã Thiện Hưng,75,Thành phố Đồng Nai
+2487,25309,Xã Hưng Phước,75,Thành phố Đồng Nai
+2488,25318,Xã Tân Tiến,75,Thành phố Đồng Nai
+2489,25326,Phường Bình Long,75,Thành phố Đồng Nai
+2490,25333,Phường An Lộc,75,Thành phố Đồng Nai
+2491,25345,Xã Tân Hưng,75,Thành phố Đồng Nai
+2492,25349,Xã Minh Đức,75,Thành phố Đồng Nai
+2493,25351,Xã Tân Quan,75,Thành phố Đồng Nai
+2494,25357,Phường Tân Khai,75,Thành phố Đồng Nai
+2495,25363,Phường Đồng Phú,75,Thành phố Đồng Nai
+2496,25378,Xã Tân Lợi,75,Thành phố Đồng Nai
+2497,25387,Xã Thuận Lợi,75,Thành phố Đồng Nai
+2498,25390,Xã Đồng Tâm,75,Thành phố Đồng Nai
+2499,25396,Xã Bù Đăng,75,Thành phố Đồng Nai
+2500,25399,Xã Đak Nhau,75,Thành phố Đồng Nai
+2501,25402,Xã Thọ Sơn,75,Thành phố Đồng Nai
+2502,25405,Xã Bom Bo,75,Thành phố Đồng Nai
+2503,25417,Xã Nghĩa Trung,75,Thành phố Đồng Nai
+2504,25420,Xã Phước Sơn,75,Thành phố Đồng Nai
+2505,25432,Phường Chơn Thành,75,Thành phố Đồng Nai
+2506,25441,Phường Minh Hưng,75,Thành phố Đồng Nai
+2507,25450,Xã Nha Bích,75,Thành phố Đồng Nai
+2508,25993,Phường Trảng Dài,75,Thành phố Đồng Nai
+2509,26005,Phường Hố Nai,75,Thành phố Đồng Nai
+2510,26017,Phường Tam Hiệp,75,Thành phố Đồng Nai
+2511,26020,Phường Long Bình,75,Thành phố Đồng Nai
+2512,26041,Phường Trấn Biên,75,Thành phố Đồng Nai
+2513,26068,Phường Biên Hoà,75,Thành phố Đồng Nai
+2514,26080,Phường Long Khánh,75,Thành phố Đồng Nai
+2515,26089,Phường Bình Lộc,75,Thành phố Đồng Nai
+2516,26098,Phường Bảo Vinh,75,Thành phố Đồng Nai
+2517,26104,Phường Xuân Lập,75,Thành phố Đồng Nai
+2518,26113,Phường Hàng Gòn,75,Thành phố Đồng Nai
+2519,26116,Phường Tân Phú,75,Thành phố Đồng Nai
+2520,26119,Xã Đak Lua,75,Thành phố Đồng Nai
+2521,26122,Xã Nam Cát Tiên,75,Thành phố Đồng Nai
+2522,26134,Xã Tà Lài,75,Thành phố Đồng Nai
+2523,26158,Xã Phú Lâm,75,Thành phố Đồng Nai
+2524,26170,Phường Trị An,75,Thành phố Đồng Nai
+2525,26173,Xã Phú Lý,75,Thành phố Đồng Nai
+2526,26179,Xã Tân An,75,Thành phố Đồng Nai
+2527,26188,Phường Tân Triều,75,Thành phố Đồng Nai
+2528,26206,Xã Định Quán,75,Thành phố Đồng Nai
+2529,26209,Xã Thanh Sơn,75,Thành phố Đồng Nai
+2530,26215,Xã Phú Vinh,75,Thành phố Đồng Nai
+2531,26221,Xã Phú Hoà,75,Thành phố Đồng Nai
+2532,26227,Xã La Ngà,75,Thành phố Đồng Nai
+2533,26248,Phường Trảng Bom,75,Thành phố Đồng Nai
+2534,26254,Xã Bàu Hàm,75,Thành phố Đồng Nai
+2535,26278,Xã Bình Minh,75,Thành phố Đồng Nai
+2536,26281,Xã Hưng Thịnh,75,Thành phố Đồng Nai
+2537,26296,Xã An Viễn,75,Thành phố Đồng Nai
+2538,26299,Xã Thống Nhất,75,Thành phố Đồng Nai
+2539,26311,Xã Gia Kiệm,75,Thành phố Đồng Nai
+2540,26326,Phường Dầu Giây,75,Thành phố Đồng Nai
+2541,26332,Xã Xuân Quế,75,Thành phố Đồng Nai
+2542,26341,Xã Cẩm Mỹ,75,Thành phố Đồng Nai
+2543,26347,Xã Xuân Đường,75,Thành phố Đồng Nai
+2544,26359,Xã Xuân Đông,75,Thành phố Đồng Nai
+2545,26362,Xã Sông Ray,75,Thành phố Đồng Nai
+2546,26368,Phường Long Thành,75,Thành phố Đồng Nai
+2547,26374,Phường Tam Phước,75,Thành phố Đồng Nai
+2548,26377,Phường Phước Tân,75,Thành phố Đồng Nai
+2549,26380,Phường Long Hưng,75,Thành phố Đồng Nai
+2550,26383,Xã An Phước,75,Thành phố Đồng Nai
+2551,26389,Xã Bình An,75,Thành phố Đồng Nai
+2552,26413,Xã Long Phước,75,Thành phố Đồng Nai
+2553,26422,Xã Phước Thái,75,Thành phố Đồng Nai
+2554,26425,Phường Xuân Lộc,75,Thành phố Đồng Nai
+2555,26428,Xã Xuân Bắc,75,Thành phố Đồng Nai
+2556,26434,Xã Xuân Thành,75,Thành phố Đồng Nai
+2557,26446,Xã Xuân Hoà,75,Thành phố Đồng Nai
+2558,26458,Xã Xuân Phú,75,Thành phố Đồng Nai
+2559,26461,Xã Xuân Định,75,Thành phố Đồng Nai
+2560,26485,Phường Nhơn Trạch,75,Thành phố Đồng Nai
+2561,26491,Xã Đại Phước,75,Thành phố Đồng Nai
+2562,26503,Xã Phước An,75,Thành phố Đồng Nai
+2563,25747,Phường Thủ Dầu Một,79,Thành phố Hồ Chí Minh
+2564,25750,Phường Phú Lợi,79,Thành phố Hồ Chí Minh
+2565,25760,Phường Bình Dương,79,Thành phố Hồ Chí Minh
+2566,25768,Phường Phú An,79,Thành phố Hồ Chí Minh
+2567,25771,Phường Chánh Hiệp,79,Thành phố Hồ Chí Minh
+2568,25777,Xã Dầu Tiếng,79,Thành phố Hồ Chí Minh
+2569,25780,Xã Minh Thạnh,79,Thành phố Hồ Chí Minh
+2570,25792,Xã Long Hoà,79,Thành phố Hồ Chí Minh
+2571,25807,Xã Thanh An,79,Thành phố Hồ Chí Minh
+2572,25813,Phường Bến Cát,79,Thành phố Hồ Chí Minh
+2573,25819,Xã Trừ Văn Thố,79,Thành phố Hồ Chí Minh
+2574,25822,Xã Bàu Bàng,79,Thành phố Hồ Chí Minh
+2575,25837,Phường Chánh Phú Hoà,79,Thành phố Hồ Chí Minh
+2576,25840,Phường Long Nguyên,79,Thành phố Hồ Chí Minh
+2577,25843,Phường Tây Nam,79,Thành phố Hồ Chí Minh
+2578,25846,Phường Thới Hoà,79,Thành phố Hồ Chí Minh
+2579,25849,Phường Hoà Lợi,79,Thành phố Hồ Chí Minh
+2580,25858,Xã Phú Giáo,79,Thành phố Hồ Chí Minh
+2581,25864,Xã Phước Thành,79,Thành phố Hồ Chí Minh
+2582,25867,Xã An Long,79,Thành phố Hồ Chí Minh
+2583,25882,Xã Phước Hoà,79,Thành phố Hồ Chí Minh
+2584,25888,Phường Tân Uyên,79,Thành phố Hồ Chí Minh
+2585,25891,Phường Tân Khánh,79,Thành phố Hồ Chí Minh
+2586,25906,Xã Bắc Tân Uyên,79,Thành phố Hồ Chí Minh
+2587,25909,Xã Thường Tân,79,Thành phố Hồ Chí Minh
+2588,25912,Phường Vĩnh Tân,79,Thành phố Hồ Chí Minh
+2589,25915,Phường Bình Cơ,79,Thành phố Hồ Chí Minh
+2590,25920,Phường Tân Hiệp,79,Thành phố Hồ Chí Minh
+2591,25942,Phường Dĩ An,79,Thành phố Hồ Chí Minh
+2592,25945,Phường Tân Đông Hiệp,79,Thành phố Hồ Chí Minh
+2593,25951,Phường Đông Hoà,79,Thành phố Hồ Chí Minh
+2594,25966,Phường Lái Thiêu,79,Thành phố Hồ Chí Minh
+2595,25969,Phường Thuận Giao,79,Thành phố Hồ Chí Minh
+2596,25975,Phường An Phú,79,Thành phố Hồ Chí Minh
+2597,25978,Phường Thuận An,79,Thành phố Hồ Chí Minh
+2598,25987,Phường Bình Hoà,79,Thành phố Hồ Chí Minh
+2599,26506,Phường Vũng Tàu,79,Thành phố Hồ Chí Minh
+2600,26526,Phường Tam Thắng,79,Thành phố Hồ Chí Minh
+2601,26536,Phường Rạch Dừa,79,Thành phố Hồ Chí Minh
+2602,26542,Phường Phước Thắng,79,Thành phố Hồ Chí Minh
+2603,26545,Xã Long Sơn,79,Thành phố Hồ Chí Minh
+2604,26560,Phường Bà Rịa,79,Thành phố Hồ Chí Minh
+2605,26566,Phường Long Hương,79,Thành phố Hồ Chí Minh
+2606,26572,Phường Tam Long,79,Thành phố Hồ Chí Minh
+2607,26575,Xã Ngãi Giao,79,Thành phố Hồ Chí Minh
+2608,26584,Xã Xuân Sơn,79,Thành phố Hồ Chí Minh
+2609,26590,Xã Bình Giã,79,Thành phố Hồ Chí Minh
+2610,26596,Xã Châu Đức,79,Thành phố Hồ Chí Minh
+2611,26608,Xã Kim Long,79,Thành phố Hồ Chí Minh
+2612,26617,Xã Nghĩa Thành,79,Thành phố Hồ Chí Minh
+2613,26620,Xã Hồ Tràm,79,Thành phố Hồ Chí Minh
+2614,26632,Xã Xuyên Mộc,79,Thành phố Hồ Chí Minh
+2615,26638,Xã Bàu Lâm,79,Thành phố Hồ Chí Minh
+2616,26641,Xã Hoà Hội,79,Thành phố Hồ Chí Minh
+2617,26647,Xã Hoà Hiệp,79,Thành phố Hồ Chí Minh
+2618,26656,Xã Bình Châu,79,Thành phố Hồ Chí Minh
+2619,26659,Xã Long Điền,79,Thành phố Hồ Chí Minh
+2620,26662,Xã Long Hải,79,Thành phố Hồ Chí Minh
+2621,26680,Xã Đất Đỏ,79,Thành phố Hồ Chí Minh
+2622,26686,Xã Phước Hải,79,Thành phố Hồ Chí Minh
+2623,26704,Phường Phú Mỹ,79,Thành phố Hồ Chí Minh
+2624,26710,Phường Tân Hải,79,Thành phố Hồ Chí Minh
+2625,26713,Phường Tân Phước,79,Thành phố Hồ Chí Minh
+2626,26725,Phường Tân Thành,79,Thành phố Hồ Chí Minh
+2627,26728,Xã Châu Pha,79,Thành phố Hồ Chí Minh
+2628,26732,Đặc khu Côn Đảo,79,Thành phố Hồ Chí Minh
+2629,26737,Phường Tân Định,79,Thành phố Hồ Chí Minh
+2630,26740,Phường Sài Gòn,79,Thành phố Hồ Chí Minh
+2631,26743,Phường Bến Thành,79,Thành phố Hồ Chí Minh
+2632,26758,Phường Cầu Ông Lãnh,79,Thành phố Hồ Chí Minh
+2633,26767,Phường An Phú Đông,79,Thành phố Hồ Chí Minh
+2634,26773,Phường Thới An,79,Thành phố Hồ Chí Minh
+2635,26782,Phường Tân Thới Hiệp,79,Thành phố Hồ Chí Minh
+2636,26785,Phường Trung Mỹ Tây,79,Thành phố Hồ Chí Minh
+2637,26791,Phường Đông Hưng Thuận,79,Thành phố Hồ Chí Minh
+2638,26800,Phường Linh Xuân,79,Thành phố Hồ Chí Minh
+2639,26803,Phường Tam Bình,79,Thành phố Hồ Chí Minh
+2640,26809,Phường Hiệp Bình,79,Thành phố Hồ Chí Minh
+2641,26824,Phường Thủ Đức,79,Thành phố Hồ Chí Minh
+2642,26833,Phường Long Bình,79,Thành phố Hồ Chí Minh
+2643,26842,Phường Tăng Nhơn Phú,79,Thành phố Hồ Chí Minh
+2644,26848,Phường Phước Long,79,Thành phố Hồ Chí Minh
+2645,26857,Phường Long Phước,79,Thành phố Hồ Chí Minh
+2646,26860,Phường Long Trường,79,Thành phố Hồ Chí Minh
+2647,26876,Phường An Nhơn,79,Thành phố Hồ Chí Minh
+2648,26878,Phường An Hội Đông,79,Thành phố Hồ Chí Minh
+2649,26882,Phường An Hội Tây,79,Thành phố Hồ Chí Minh
+2650,26884,Phường Gò Vấp,79,Thành phố Hồ Chí Minh
+2651,26890,Phường Hạnh Thông,79,Thành phố Hồ Chí Minh
+2652,26898,Phường Thông Tây Hội,79,Thành phố Hồ Chí Minh
+2653,26905,Phường Bình Lợi Trung,79,Thành phố Hồ Chí Minh
+2654,26911,Phường Bình Quới,79,Thành phố Hồ Chí Minh
+2655,26929,Phường Bình Thạnh,79,Thành phố Hồ Chí Minh
+2656,26944,Phường Gia Định,79,Thành phố Hồ Chí Minh
+2657,26956,Phường Thạnh Mỹ Tây,79,Thành phố Hồ Chí Minh
+2658,26968,Phường Tân Sơn Nhất,79,Thành phố Hồ Chí Minh
+2659,26977,Phường Tân Sơn Hoà,79,Thành phố Hồ Chí Minh
+2660,26983,Phường Bảy Hiền,79,Thành phố Hồ Chí Minh
+2661,26995,Phường Tân Hoà,79,Thành phố Hồ Chí Minh
+2662,27004,Phường Tân Bình,79,Thành phố Hồ Chí Minh
+2663,27007,Phường Tân Sơn,79,Thành phố Hồ Chí Minh
+2664,27013,Phường Tây Thạnh,79,Thành phố Hồ Chí Minh
+2665,27019,Phường Tân Sơn Nhì,79,Thành phố Hồ Chí Minh
+2666,27022,Phường Phú Thọ Hoà,79,Thành phố Hồ Chí Minh
+2667,27028,Phường Phú Thạnh,79,Thành phố Hồ Chí Minh
+2668,27031,Phường Tân Phú,79,Thành phố Hồ Chí Minh
+2669,27043,Phường Đức Nhuận,79,Thành phố Hồ Chí Minh
+2670,27058,Phường Cầu Kiệu,79,Thành phố Hồ Chí Minh
+2671,27073,Phường Phú Nhuận,79,Thành phố Hồ Chí Minh
+2672,27094,Phường An Khánh,79,Thành phố Hồ Chí Minh
+2673,27097,Phường Bình Trưng,79,Thành phố Hồ Chí Minh
+2674,27112,Phường Cát Lái,79,Thành phố Hồ Chí Minh
+2675,27139,Phường Xuân Hoà,79,Thành phố Hồ Chí Minh
+2676,27142,Phường Nhiêu Lộc,79,Thành phố Hồ Chí Minh
+2677,27154,Phường Bàn Cờ,79,Thành phố Hồ Chí Minh
+2678,27163,Phường Hoà Hưng,79,Thành phố Hồ Chí Minh
+2679,27169,Phường Diên Hồng,79,Thành phố Hồ Chí Minh
+2680,27190,Phường Vườn Lài,79,Thành phố Hồ Chí Minh
+2681,27211,Phường Hoà Bình,79,Thành phố Hồ Chí Minh
+2682,27226,Phường Phú Thọ,79,Thành phố Hồ Chí Minh
+2683,27232,Phường Bình Thới,79,Thành phố Hồ Chí Minh
+2684,27238,Phường Minh Phụng,79,Thành phố Hồ Chí Minh
+2685,27259,Phường Xóm Chiếu,79,Thành phố Hồ Chí Minh
+2686,27265,Phường Khánh Hội,79,Thành phố Hồ Chí Minh
+2687,27286,Phường Vĩnh Hội,79,Thành phố Hồ Chí Minh
+2688,27301,Phường Chợ Quán,79,Thành phố Hồ Chí Minh
+2689,27316,Phường An Đông,79,Thành phố Hồ Chí Minh
+2690,27343,Phường Chợ Lớn,79,Thành phố Hồ Chí Minh
+2691,27349,Phường Phú Lâm,79,Thành phố Hồ Chí Minh
+2692,27364,Phường Bình Phú,79,Thành phố Hồ Chí Minh
+2693,27367,Phường Bình Tây,79,Thành phố Hồ Chí Minh
+2694,27373,Phường Bình Tiên,79,Thành phố Hồ Chí Minh
+2695,27418,Phường Chánh Hưng,79,Thành phố Hồ Chí Minh
+2696,27424,Phường Bình Đông,79,Thành phố Hồ Chí Minh
+2697,27427,Phường Phú Định,79,Thành phố Hồ Chí Minh
+2698,27439,Phường Bình Hưng Hoà,79,Thành phố Hồ Chí Minh
+2699,27442,Phường Bình Tân,79,Thành phố Hồ Chí Minh
+2700,27448,Phường Bình Trị Đông,79,Thành phố Hồ Chí Minh
+2701,27457,Phường Tân Tạo,79,Thành phố Hồ Chí Minh
+2702,27460,Phường An Lạc,79,Thành phố Hồ Chí Minh
+2703,27475,Phường Tân Hưng,79,Thành phố Hồ Chí Minh
+2704,27478,Phường Tân Thuận,79,Thành phố Hồ Chí Minh
+2705,27484,Phường Phú Thuận,79,Thành phố Hồ Chí Minh
+2706,27487,Phường Tân Mỹ,79,Thành phố Hồ Chí Minh
+2707,27496,Xã Tân An Hội,79,Thành phố Hồ Chí Minh
+2708,27508,Xã An Nhơn Tây,79,Thành phố Hồ Chí Minh
+2709,27511,Xã Nhuận Đức,79,Thành phố Hồ Chí Minh
+2710,27526,Xã Thái Mỹ,79,Thành phố Hồ Chí Minh
+2711,27541,Xã Phú Hoà Đông,79,Thành phố Hồ Chí Minh
+2712,27544,Xã Bình Mỹ,79,Thành phố Hồ Chí Minh
+2713,27553,Xã Củ Chi,79,Thành phố Hồ Chí Minh
+2714,27559,Xã Hóc Môn,79,Thành phố Hồ Chí Minh
+2715,27568,Xã Đông Thạnh,79,Thành phố Hồ Chí Minh
+2716,27577,Xã Xuân Thới Sơn,79,Thành phố Hồ Chí Minh
+2717,27592,Xã Bà Điểm,79,Thành phố Hồ Chí Minh
+2718,27595,Xã Tân Nhựt,79,Thành phố Hồ Chí Minh
+2719,27601,Xã Vĩnh Lộc,79,Thành phố Hồ Chí Minh
+2720,27604,Xã Tân Vĩnh Lộc,79,Thành phố Hồ Chí Minh
+2721,27610,Xã Bình Lợi,79,Thành phố Hồ Chí Minh
+2722,27619,Xã Bình Hưng,79,Thành phố Hồ Chí Minh
+2723,27628,Xã Hưng Long,79,Thành phố Hồ Chí Minh
+2724,27637,Xã Bình Chánh,79,Thành phố Hồ Chí Minh
+2725,27655,Xã Nhà Bè,79,Thành phố Hồ Chí Minh
+2726,27658,Xã Hiệp Phước,79,Thành phố Hồ Chí Minh
+2727,27664,Xã Cần Giờ,79,Thành phố Hồ Chí Minh
+2728,27667,Xã Bình Khánh,79,Thành phố Hồ Chí Minh
+2729,27673,Xã An Thới Đông,79,Thành phố Hồ Chí Minh
+2730,27676,Xã Thạnh An,79,Thành phố Hồ Chí Minh
+2731,25459,Phường Tân Ninh,80,Tỉnh Tây Ninh
+2732,25480,Phường Bình Minh,80,Tỉnh Tây Ninh
+2733,25486,Xã Tân Biên,80,Tỉnh Tây Ninh
+2734,25489,Xã Tân Lập,80,Tỉnh Tây Ninh
+2735,25498,Xã Thạnh Bình,80,Tỉnh Tây Ninh
+2736,25510,Xã Trà Vong,80,Tỉnh Tây Ninh
+2737,25516,Xã Tân Châu,80,Tỉnh Tây Ninh
+2738,25522,Xã Tân Đông,80,Tỉnh Tây Ninh
+2739,25525,Xã Tân Hội,80,Tỉnh Tây Ninh
+2740,25531,Xã Tân Hoà,80,Tỉnh Tây Ninh
+2741,25534,Xã Tân Thành,80,Tỉnh Tây Ninh
+2742,25549,Xã Tân Phú,80,Tỉnh Tây Ninh
+2743,25552,Xã Dương Minh Châu,80,Tỉnh Tây Ninh
+2744,25567,Phường Ninh Thạnh,80,Tỉnh Tây Ninh
+2745,25573,Xã Cầu Khởi,80,Tỉnh Tây Ninh
+2746,25579,Xã Lộc Ninh,80,Tỉnh Tây Ninh
+2747,25585,Xã Châu Thành,80,Tỉnh Tây Ninh
+2748,25588,Xã Hảo Đước,80,Tỉnh Tây Ninh
+2749,25591,Xã Phước Vinh,80,Tỉnh Tây Ninh
+2750,25606,Xã Hoà Hội,80,Tỉnh Tây Ninh
+2751,25621,Xã Ninh Điền,80,Tỉnh Tây Ninh
+2752,25630,Phường Long Hoa,80,Tỉnh Tây Ninh
+2753,25633,Phường Thanh Điền,80,Tỉnh Tây Ninh
+2754,25645,Phường Hoà Thành,80,Tỉnh Tây Ninh
+2755,25654,Phường Gò Dầu,80,Tỉnh Tây Ninh
+2756,25657,Xã Thạnh Đức,80,Tỉnh Tây Ninh
+2757,25663,Xã Phước Thạnh,80,Tỉnh Tây Ninh
+2758,25666,Xã Truông Mít,80,Tỉnh Tây Ninh
+2759,25672,Phường Gia Lộc,80,Tỉnh Tây Ninh
+2760,25681,Xã Bến Cầu,80,Tỉnh Tây Ninh
+2761,25684,Xã Long Chữ,80,Tỉnh Tây Ninh
+2762,25702,Xã Long Thuận,80,Tỉnh Tây Ninh
+2763,25708,Phường Trảng Bàng,80,Tỉnh Tây Ninh
+2764,25711,Xã Hưng Thuận,80,Tỉnh Tây Ninh
+2765,25729,Xã Phước Chỉ,80,Tỉnh Tây Ninh
+2766,25732,Phường An Tịnh,80,Tỉnh Tây Ninh
+2767,27694,Phường Long An,80,Tỉnh Tây Ninh
+2768,27712,Phường Tân An,80,Tỉnh Tây Ninh
+2769,27715,Phường Khánh Hậu,80,Tỉnh Tây Ninh
+2770,27721,Xã Tân Hưng,80,Tỉnh Tây Ninh
+2771,27727,Xã Hưng Điền,80,Tỉnh Tây Ninh
+2772,27736,Xã Vĩnh Thạnh,80,Tỉnh Tây Ninh
+2773,27748,Xã Vĩnh Châu,80,Tỉnh Tây Ninh
+2774,27757,Xã Vĩnh Hưng,80,Tỉnh Tây Ninh
+2775,27763,Xã Khánh Hưng,80,Tỉnh Tây Ninh
+2776,27775,Xã Tuyên Bình,80,Tỉnh Tây Ninh
+2777,27787,Phường Kiến Tường,80,Tỉnh Tây Ninh
+2778,27793,Xã Bình Hiệp,80,Tỉnh Tây Ninh
+2779,27811,Xã Bình Hoà,80,Tỉnh Tây Ninh
+2780,27817,Xã Tuyên Thạnh,80,Tỉnh Tây Ninh
+2781,27823,Xã Mộc Hoá,80,Tỉnh Tây Ninh
+2782,27826,Xã Tân Thạnh,80,Tỉnh Tây Ninh
+2783,27838,Xã Nhơn Hoà Lập,80,Tỉnh Tây Ninh
+2784,27841,Xã Hậu Thạnh,80,Tỉnh Tây Ninh
+2785,27856,Xã Nhơn Ninh,80,Tỉnh Tây Ninh
+2786,27865,Xã Thạnh Hoá,80,Tỉnh Tây Ninh
+2787,27868,Xã Bình Thành,80,Tỉnh Tây Ninh
+2788,27877,Xã Thạnh Phước,80,Tỉnh Tây Ninh
+2789,27889,Xã Tân Tây,80,Tỉnh Tây Ninh
+2790,27898,Xã Đông Thành,80,Tỉnh Tây Ninh
+2791,27907,Xã Mỹ Quý,80,Tỉnh Tây Ninh
+2792,27925,Xã Đức Huệ,80,Tỉnh Tây Ninh
+2793,27931,Xã Hậu Nghĩa,80,Tỉnh Tây Ninh
+2794,27937,Xã Đức Hoà,80,Tỉnh Tây Ninh
+2795,27943,Xã An Ninh,80,Tỉnh Tây Ninh
+2796,27952,Xã Hiệp Hoà,80,Tỉnh Tây Ninh
+2797,27964,Xã Đức Lập,80,Tỉnh Tây Ninh
+2798,27976,Xã Mỹ Hạnh,80,Tỉnh Tây Ninh
+2799,27979,Xã Hoà Khánh,80,Tỉnh Tây Ninh
+2800,27991,Xã Bến Lức,80,Tỉnh Tây Ninh
+2801,27994,Xã Thạnh Lợi,80,Tỉnh Tây Ninh
+2802,28003,Xã Lương Hoà,80,Tỉnh Tây Ninh
+2803,28015,Xã Bình Đức,80,Tỉnh Tây Ninh
+2804,28018,Xã Mỹ Yên,80,Tỉnh Tây Ninh
+2805,28036,Xã Thủ Thừa,80,Tỉnh Tây Ninh
+2806,28051,Xã Mỹ Thạnh,80,Tỉnh Tây Ninh
+2807,28066,Xã Mỹ An,80,Tỉnh Tây Ninh
+2808,28072,Xã Tân Long,80,Tỉnh Tây Ninh
+2809,28075,Xã Tân Trụ,80,Tỉnh Tây Ninh
+2810,28087,Xã Nhựt Tảo,80,Tỉnh Tây Ninh
+2811,28093,Xã Vàm Cỏ,80,Tỉnh Tây Ninh
+2812,28108,Xã Cần Đước,80,Tỉnh Tây Ninh
+2813,28114,Xã Rạch Kiến,80,Tỉnh Tây Ninh
+2814,28126,Xã Long Cang,80,Tỉnh Tây Ninh
+2815,28132,Xã Mỹ Lệ,80,Tỉnh Tây Ninh
+2816,28138,Xã Tân Lân,80,Tỉnh Tây Ninh
+2817,28144,Xã Long Hựu,80,Tỉnh Tây Ninh
+2818,28159,Xã Cần Giuộc,80,Tỉnh Tây Ninh
+2819,28165,Xã Phước Lý,80,Tỉnh Tây Ninh
+2820,28177,Xã Mỹ Lộc,80,Tỉnh Tây Ninh
+2821,28201,Xã Phước Vĩnh Tây,80,Tỉnh Tây Ninh
+2822,28207,Xã Tân Tập,80,Tỉnh Tây Ninh
+2823,28210,Xã Tầm Vu,80,Tỉnh Tây Ninh
+2824,28222,Xã Vĩnh Công,80,Tỉnh Tây Ninh
+2825,28225,Xã Thuận Mỹ,80,Tỉnh Tây Ninh
+2826,28243,Xã An Lục Long,80,Tỉnh Tây Ninh
+2827,28249,Phường Đạo Thạnh,82,Tỉnh Đồng Tháp
+2828,28261,Phường Mỹ Tho,82,Tỉnh Đồng Tháp
+2829,28270,Phường Thới Sơn,82,Tỉnh Đồng Tháp
+2830,28273,Phường Mỹ Phong,82,Tỉnh Đồng Tháp
+2831,28285,Phường Trung An,82,Tỉnh Đồng Tháp
+2832,28297,Phường Long Thuận,82,Tỉnh Đồng Tháp
+2833,28306,Phường Gò Công,82,Tỉnh Đồng Tháp
+2834,28315,Phường Bình Xuân,82,Tỉnh Đồng Tháp
+2835,28321,Xã Tân Phước 1,82,Tỉnh Đồng Tháp
+2836,28327,Xã Tân Phước 2,82,Tỉnh Đồng Tháp
+2837,28336,Xã Hưng Thạnh,82,Tỉnh Đồng Tháp
+2838,28345,Xã Tân Phước 3,82,Tỉnh Đồng Tháp
+2839,28360,Xã Cái Bè,82,Tỉnh Đồng Tháp
+2840,28366,Xã Hậu Mỹ,82,Tỉnh Đồng Tháp
+2841,28378,Xã Mỹ Thiện,82,Tỉnh Đồng Tháp
+2842,28393,Xã Hội Cư,82,Tỉnh Đồng Tháp
+2843,28405,Xã Mỹ Đức Tây,82,Tỉnh Đồng Tháp
+2844,28414,Xã Mỹ Lợi,82,Tỉnh Đồng Tháp
+2845,28426,Xã Thanh Hưng,82,Tỉnh Đồng Tháp
+2846,28429,Xã An Hữu,82,Tỉnh Đồng Tháp
+2847,28435,Phường Mỹ Phước Tây,82,Tỉnh Đồng Tháp
+2848,28436,Phường Thanh Hoà,82,Tỉnh Đồng Tháp
+2849,28439,Phường Cai Lậy,82,Tỉnh Đồng Tháp
+2850,28444,Xã Thạnh Phú,82,Tỉnh Đồng Tháp
+2851,28456,Xã Mỹ Thành,82,Tỉnh Đồng Tháp
+2852,28468,Xã Tân Phú,82,Tỉnh Đồng Tháp
+2853,28471,Xã Bình Phú,82,Tỉnh Đồng Tháp
+2854,28477,Phường Nhị Quý,82,Tỉnh Đồng Tháp
+2855,28501,Xã Hiệp Đức,82,Tỉnh Đồng Tháp
+2856,28504,Xã Long Tiên,82,Tỉnh Đồng Tháp
+2857,28516,Xã Ngũ Hiệp,82,Tỉnh Đồng Tháp
+2858,28519,Xã Châu Thành,82,Tỉnh Đồng Tháp
+2859,28525,Xã Tân Hương,82,Tỉnh Đồng Tháp
+2860,28537,Xã Long Hưng,82,Tỉnh Đồng Tháp
+2861,28543,Xã Long Định,82,Tỉnh Đồng Tháp
+2862,28564,Xã Bình Trưng,82,Tỉnh Đồng Tháp
+2863,28576,Xã Vĩnh Kim,82,Tỉnh Đồng Tháp
+2864,28582,Xã Kim Sơn,82,Tỉnh Đồng Tháp
+2865,28594,Xã Chợ Gạo,82,Tỉnh Đồng Tháp
+2866,28603,Xã Mỹ Tịnh An,82,Tỉnh Đồng Tháp
+2867,28615,Xã Lương Hoà Lạc,82,Tỉnh Đồng Tháp
+2868,28627,Xã Tân Thuận Bình,82,Tỉnh Đồng Tháp
+2869,28633,Xã An Thạnh Thuỷ,82,Tỉnh Đồng Tháp
+2870,28648,Xã Bình Ninh,82,Tỉnh Đồng Tháp
+2871,28651,Xã Vĩnh Bình,82,Tỉnh Đồng Tháp
+2872,28660,Xã Đồng Sơn,82,Tỉnh Đồng Tháp
+2873,28663,Xã Phú Thành,82,Tỉnh Đồng Tháp
+2874,28678,Xã Vĩnh Hựu,82,Tỉnh Đồng Tháp
+2875,28687,Xã Long Bình,82,Tỉnh Đồng Tháp
+2876,28693,Xã Tân Thới,82,Tỉnh Đồng Tháp
+2877,28696,Xã Tân Phú Đông,82,Tỉnh Đồng Tháp
+2878,28702,Xã Tân Hoà,82,Tỉnh Đồng Tháp
+2879,28720,Xã Gia Thuận,82,Tỉnh Đồng Tháp
+2880,28723,Xã Tân Đông,82,Tỉnh Đồng Tháp
+2881,28729,Phường Sơn Qui,82,Tỉnh Đồng Tháp
+2882,28738,Xã Tân Điền,82,Tỉnh Đồng Tháp
+2883,28747,Xã Gò Công Đông,82,Tỉnh Đồng Tháp
+2884,29869,Phường Cao Lãnh,82,Tỉnh Đồng Tháp
+2885,29884,Phường Mỹ Ngãi,82,Tỉnh Đồng Tháp
+2886,29888,Phường Mỹ Trà,82,Tỉnh Đồng Tháp
+2887,29905,Phường Sa Đéc,82,Tỉnh Đồng Tháp
+2888,29926,Xã Tân Hồng,82,Tỉnh Đồng Tháp
+2889,29929,Xã Tân Hộ Cơ,82,Tỉnh Đồng Tháp
+2890,29938,Xã Tân Thành,82,Tỉnh Đồng Tháp
+2891,29944,Xã An Phước,82,Tỉnh Đồng Tháp
+2892,29954,Phường An Bình,82,Tỉnh Đồng Tháp
+2893,29955,Phường Hồng Ngự,82,Tỉnh Đồng Tháp
+2894,29971,Xã Thường Phước,82,Tỉnh Đồng Tháp
+2895,29978,Phường Thường Lạc,82,Tỉnh Đồng Tháp
+2896,29983,Xã Long Khánh,82,Tỉnh Đồng Tháp
+2897,29992,Xã Long Phú Thuận,82,Tỉnh Đồng Tháp
+2898,30001,Xã Tràm Chim,82,Tỉnh Đồng Tháp
+2899,30010,Xã Tam Nông,82,Tỉnh Đồng Tháp
+2900,30019,Xã An Hoà,82,Tỉnh Đồng Tháp
+2901,30025,Xã Phú Cường,82,Tỉnh Đồng Tháp
+2902,30028,Xã An Long,82,Tỉnh Đồng Tháp
+2903,30034,Xã Phú Thọ,82,Tỉnh Đồng Tháp
+2904,30037,Xã Tháp Mười,82,Tỉnh Đồng Tháp
+2905,30043,Xã Phương Thịnh,82,Tỉnh Đồng Tháp
+2906,30046,Xã Trường Xuân,82,Tỉnh Đồng Tháp
+2907,30055,Xã Mỹ Quí,82,Tỉnh Đồng Tháp
+2908,30061,Xã Đốc Binh Kiều,82,Tỉnh Đồng Tháp
+2909,30073,Xã Thanh Mỹ,82,Tỉnh Đồng Tháp
+2910,30076,Xã Mỹ Thọ,82,Tỉnh Đồng Tháp
+2911,30085,Xã Ba Sao,82,Tỉnh Đồng Tháp
+2912,30088,Xã Phong Mỹ,82,Tỉnh Đồng Tháp
+2913,30112,Xã Mỹ Hiệp,82,Tỉnh Đồng Tháp
+2914,30118,Xã Bình Hàng Trung,82,Tỉnh Đồng Tháp
+2915,30130,Xã Thanh Bình,82,Tỉnh Đồng Tháp
+2916,30154,Xã Tân Long,82,Tỉnh Đồng Tháp
+2917,30157,Xã Tân Thạnh,82,Tỉnh Đồng Tháp
+2918,30163,Xã Bình Thành,82,Tỉnh Đồng Tháp
+2919,30169,Xã Lấp Vò,82,Tỉnh Đồng Tháp
+2920,30178,Xã Mỹ An Hưng,82,Tỉnh Đồng Tháp
+2921,30184,Xã Tân Khánh Trung,82,Tỉnh Đồng Tháp
+2922,30208,Xã Hoà Long,82,Tỉnh Đồng Tháp
+2923,30214,Xã Tân Dương,82,Tỉnh Đồng Tháp
+2924,30226,Xã Lai Vung,82,Tỉnh Đồng Tháp
+2925,30235,Xã Phong Hoà,82,Tỉnh Đồng Tháp
+2926,30244,Xã Phú Hựu,82,Tỉnh Đồng Tháp
+2927,30253,Xã Tân Nhuận Đông,82,Tỉnh Đồng Tháp
+2928,30259,Xã Tân Phú Trung,82,Tỉnh Đồng Tháp
+2929,28756,Phường Phú Khương,86,Tỉnh Vĩnh Long
+2930,28777,Phường An Hội,86,Tỉnh Vĩnh Long
+2931,28783,Phường Sơn Đông,86,Tỉnh Vĩnh Long
+2932,28789,Phường Bến Tre,86,Tỉnh Vĩnh Long
+2933,28807,Xã Giao Long,86,Tỉnh Vĩnh Long
+2934,28810,Xã Phú Túc,86,Tỉnh Vĩnh Long
+2935,28840,Xã Tân Phú,86,Tỉnh Vĩnh Long
+2936,28858,Phường Phú Tân,86,Tỉnh Vĩnh Long
+2937,28861,Xã Tiên Thuỷ,86,Tỉnh Vĩnh Long
+2938,28870,Xã Chợ Lách,86,Tỉnh Vĩnh Long
+2939,28879,Xã Phú Phụng,86,Tỉnh Vĩnh Long
+2940,28894,Xã Vĩnh Thành,86,Tỉnh Vĩnh Long
+2941,28901,Xã Hưng Khánh Trung,86,Tỉnh Vĩnh Long
+2942,28903,Xã Mỏ Cày,86,Tỉnh Vĩnh Long
+2943,28915,Xã Phước Mỹ Trung,86,Tỉnh Vĩnh Long
+2944,28921,Xã Tân Thành Bình,86,Tỉnh Vĩnh Long
+2945,28945,Xã Đồng Khởi,86,Tỉnh Vĩnh Long
+2946,28948,Xã Nhuận Phú Tân,86,Tỉnh Vĩnh Long
+2947,28957,Xã An Định,86,Tỉnh Vĩnh Long
+2948,28969,Xã Thành Thới,86,Tỉnh Vĩnh Long
+2949,28981,Xã Hương Mỹ,86,Tỉnh Vĩnh Long
+2950,28984,Xã Giồng Trôm,86,Tỉnh Vĩnh Long
+2951,28987,Xã Lương Hoà,86,Tỉnh Vĩnh Long
+2952,28993,Xã Lương Phú,86,Tỉnh Vĩnh Long
+2953,28996,Xã Châu Hoà,86,Tỉnh Vĩnh Long
+2954,29020,Xã Phước Long,86,Tỉnh Vĩnh Long
+2955,29029,Xã Tân Hào,86,Tỉnh Vĩnh Long
+2956,29044,Xã Hưng Nhượng,86,Tỉnh Vĩnh Long
+2957,29050,Xã Bình Đại,86,Tỉnh Vĩnh Long
+2958,29062,Xã Phú Thuận,86,Tỉnh Vĩnh Long
+2959,29077,Xã Lộc Thuận,86,Tỉnh Vĩnh Long
+2960,29083,Xã Châu Hưng,86,Tỉnh Vĩnh Long
+2961,29089,Xã Thạnh Trị,86,Tỉnh Vĩnh Long
+2962,29104,Xã Thạnh Phước,86,Tỉnh Vĩnh Long
+2963,29107,Xã Thới Thuận,86,Tỉnh Vĩnh Long
+2964,29110,Xã Ba Tri,86,Tỉnh Vĩnh Long
+2965,29122,Xã Mỹ Chánh Hoà,86,Tỉnh Vĩnh Long
+2966,29125,Xã Bảo Thạnh,86,Tỉnh Vĩnh Long
+2967,29137,Xã Tân Xuân,86,Tỉnh Vĩnh Long
+2968,29143,Xã An Ngãi Trung,86,Tỉnh Vĩnh Long
+2969,29158,Xã An Hiệp,86,Tỉnh Vĩnh Long
+2970,29167,Xã Tân Thuỷ,86,Tỉnh Vĩnh Long
+2971,29182,Xã Thạnh Phú,86,Tỉnh Vĩnh Long
+2972,29191,Xã Quới Điền,86,Tỉnh Vĩnh Long
+2973,29194,Xã Đại Điền,86,Tỉnh Vĩnh Long
+2974,29221,Xã Thạnh Hải,86,Tỉnh Vĩnh Long
+2975,29224,Xã An Qui,86,Tỉnh Vĩnh Long
+2976,29227,Xã Thạnh Phong,86,Tỉnh Vĩnh Long
+2977,29242,Phường Trà Vinh,86,Tỉnh Vĩnh Long
+2978,29254,Phường Nguyệt Hoá,86,Tỉnh Vĩnh Long
+2979,29263,Phường Long Đức,86,Tỉnh Vĩnh Long
+2980,29266,Xã Càng Long,86,Tỉnh Vĩnh Long
+2981,29275,Xã An Trường,86,Tỉnh Vĩnh Long
+2982,29278,Xã Tân An,86,Tỉnh Vĩnh Long
+2983,29287,Xã Bình Phú,86,Tỉnh Vĩnh Long
+2984,29302,Xã Nhị Long,86,Tỉnh Vĩnh Long
+2985,29308,Xã Cầu Kè,86,Tỉnh Vĩnh Long
+2986,29317,Xã An Phú Tân,86,Tỉnh Vĩnh Long
+2987,29329,Xã Phong Thạnh,86,Tỉnh Vĩnh Long
+2988,29335,Xã Tam Ngãi,86,Tỉnh Vĩnh Long
+2989,29341,Xã Tiểu Cần,86,Tỉnh Vĩnh Long
+2990,29362,Xã Hùng Hoà,86,Tỉnh Vĩnh Long
+2991,29365,Xã Tập Ngãi,86,Tỉnh Vĩnh Long
+2992,29371,Xã Tân Hoà,86,Tỉnh Vĩnh Long
+2993,29374,Xã Châu Thành,86,Tỉnh Vĩnh Long
+2994,29386,Xã Song Lộc,86,Tỉnh Vĩnh Long
+2995,29398,Phường Hoà Thuận,86,Tỉnh Vĩnh Long
+2996,29407,Xã Hưng Mỹ,86,Tỉnh Vĩnh Long
+2997,29410,Xã Hoà Minh,86,Tỉnh Vĩnh Long
+2998,29413,Xã Long Hoà,86,Tỉnh Vĩnh Long
+2999,29416,Xã Cầu Ngang,86,Tỉnh Vĩnh Long
+3000,29419,Xã Mỹ Long,86,Tỉnh Vĩnh Long
+3001,29431,Xã Vinh Kim,86,Tỉnh Vĩnh Long
+3002,29446,Xã Nhị Trường,86,Tỉnh Vĩnh Long
+3003,29455,Xã Hiệp Mỹ,86,Tỉnh Vĩnh Long
+3004,29461,Xã Trà Cú,86,Tỉnh Vĩnh Long
+3005,29467,Xã Tập Sơn,86,Tỉnh Vĩnh Long
+3006,29476,Xã Lưu Nghiệp Anh,86,Tỉnh Vĩnh Long
+3007,29489,Xã Hàm Giang,86,Tỉnh Vĩnh Long
+3008,29491,Xã Đại An,86,Tỉnh Vĩnh Long
+3009,29497,Xã Đôn Châu,86,Tỉnh Vĩnh Long
+3010,29506,Xã Long Hiệp,86,Tỉnh Vĩnh Long
+3011,29512,Phường Duyên Hải,86,Tỉnh Vĩnh Long
+3012,29513,Xã Long Thành,86,Tỉnh Vĩnh Long
+3013,29516,Phường Trường Long Hoà,86,Tỉnh Vĩnh Long
+3014,29518,Xã Long Hữu,86,Tỉnh Vĩnh Long
+3015,29530,Xã Ngũ Lạc,86,Tỉnh Vĩnh Long
+3016,29533,Xã Long Vĩnh,86,Tỉnh Vĩnh Long
+3017,29536,Xã Đông Hải,86,Tỉnh Vĩnh Long
+3018,29551,Phường Long Châu,86,Tỉnh Vĩnh Long
+3019,29557,Phường Phước Hậu,86,Tỉnh Vĩnh Long
+3020,29566,Phường Tân Ngãi,86,Tỉnh Vĩnh Long
+3021,29584,Xã An Bình,86,Tỉnh Vĩnh Long
+3022,29590,Phường Thanh Đức,86,Tỉnh Vĩnh Long
+3023,29593,Phường Tân Hạnh,86,Tỉnh Vĩnh Long
+3024,29602,Xã Long Hồ,86,Tỉnh Vĩnh Long
+3025,29611,Xã Phú Quới,86,Tỉnh Vĩnh Long
+3026,29623,Xã Nhơn Phú,86,Tỉnh Vĩnh Long
+3027,29638,Xã Bình Phước,86,Tỉnh Vĩnh Long
+3028,29641,Xã Cái Nhum,86,Tỉnh Vĩnh Long
+3029,29653,Xã Tân Long Hội,86,Tỉnh Vĩnh Long
+3030,29659,Xã Trung Thành,86,Tỉnh Vĩnh Long
+3031,29668,Xã Quới An,86,Tỉnh Vĩnh Long
+3032,29677,Xã Quới Thiện,86,Tỉnh Vĩnh Long
+3033,29683,Xã Trung Hiệp,86,Tỉnh Vĩnh Long
+3034,29698,Xã Trung Ngãi,86,Tỉnh Vĩnh Long
+3035,29701,Xã Hiếu Phụng,86,Tỉnh Vĩnh Long
+3036,29713,Xã Hiếu Thành,86,Tỉnh Vĩnh Long
+3037,29719,Xã Tam Bình,86,Tỉnh Vĩnh Long
+3038,29728,Xã Cái Ngang,86,Tỉnh Vĩnh Long
+3039,29734,Xã Hoà Hiệp,86,Tỉnh Vĩnh Long
+3040,29740,Xã Song Phú,86,Tỉnh Vĩnh Long
+3041,29767,Xã Ngãi Tứ,86,Tỉnh Vĩnh Long
+3042,29770,Phường Cái Vồn,86,Tỉnh Vĩnh Long
+3043,29771,Phường Bình Minh,86,Tỉnh Vĩnh Long
+3044,29785,Xã Tân Lược,86,Tỉnh Vĩnh Long
+3045,29788,Xã Mỹ Thuận,86,Tỉnh Vĩnh Long
+3046,29800,Xã Tân Quới,86,Tỉnh Vĩnh Long
+3047,29812,Phường Đông Thành,86,Tỉnh Vĩnh Long
+3048,29821,Xã Trà Ôn,86,Tỉnh Vĩnh Long
+3049,29830,Xã Hoà Bình,86,Tỉnh Vĩnh Long
+3050,29836,Xã Trà Côn,86,Tỉnh Vĩnh Long
+3051,29845,Xã Vĩnh Xuân,86,Tỉnh Vĩnh Long
+3052,29857,Xã Lục Sĩ Thành,86,Tỉnh Vĩnh Long
+3053,30292,Phường Bình Đức,91,Tỉnh An Giang
+3054,30301,Phường Mỹ Thới,91,Tỉnh An Giang
+3055,30307,Phường Long Xuyên,91,Tỉnh An Giang
+3056,30313,Xã Mỹ Hoà Hưng,91,Tỉnh An Giang
+3057,30316,Phường Châu Đốc,91,Tỉnh An Giang
+3058,30325,Phường Vĩnh Tế,91,Tỉnh An Giang
+3059,30337,Xã An Phú,91,Tỉnh An Giang
+3060,30341,Xã Khánh Bình,91,Tỉnh An Giang
+3061,30346,Xã Nhơn Hội,91,Tỉnh An Giang
+3062,30352,Xã Phú Hữu,91,Tỉnh An Giang
+3063,30367,Xã Vĩnh Hậu,91,Tỉnh An Giang
+3064,30376,Phường Tân Châu,91,Tỉnh An Giang
+3065,30377,Phường Long Phú,91,Tỉnh An Giang
+3066,30385,Xã Vĩnh Xương,91,Tỉnh An Giang
+3067,30388,Xã Tân An,91,Tỉnh An Giang
+3068,30403,Xã Châu Phong,91,Tỉnh An Giang
+3069,30406,Xã Phú Tân,91,Tỉnh An Giang
+3070,30409,Xã Chợ Vàm,91,Tỉnh An Giang
+3071,30421,Xã Phú Lâm,91,Tỉnh An Giang
+3072,30430,Xã Hoà Lạc,91,Tỉnh An Giang
+3073,30436,Xã Phú An,91,Tỉnh An Giang
+3074,30445,Xã Bình Thạnh Đông,91,Tỉnh An Giang
+3075,30463,Xã Châu Phú,91,Tỉnh An Giang
+3076,30469,Xã Mỹ Đức,91,Tỉnh An Giang
+3077,30478,Xã Vĩnh Thạnh Trung,91,Tỉnh An Giang
+3078,30481,Xã Thạnh Mỹ Tây,91,Tỉnh An Giang
+3079,30487,Xã Bình Mỹ,91,Tỉnh An Giang
+3080,30502,Phường Thới Sơn,91,Tỉnh An Giang
+3081,30505,Phường Chi Lăng,91,Tỉnh An Giang
+3082,30520,Phường Tịnh Biên,91,Tỉnh An Giang
+3083,30526,Xã An Cư,91,Tỉnh An Giang
+3084,30538,Xã Núi Cấm,91,Tỉnh An Giang
+3085,30544,Xã Tri Tôn,91,Tỉnh An Giang
+3086,30547,Xã Ba Chúc,91,Tỉnh An Giang
+3087,30568,Xã Vĩnh Gia,91,Tỉnh An Giang
+3088,30577,Xã Ô Lâm,91,Tỉnh An Giang
+3089,30580,Xã Cô Tô,91,Tỉnh An Giang
+3090,30589,Xã An Châu,91,Tỉnh An Giang
+3091,30595,Xã Cần Đăng,91,Tỉnh An Giang
+3092,30604,Xã Vĩnh An,91,Tỉnh An Giang
+3093,30607,Xã Bình Hoà,91,Tỉnh An Giang
+3094,30619,Xã Vĩnh Hanh,91,Tỉnh An Giang
+3095,30628,Xã Chợ Mới,91,Tỉnh An Giang
+3096,30631,Xã Long Điền,91,Tỉnh An Giang
+3097,30643,Xã Cù Lao Giêng,91,Tỉnh An Giang
+3098,30658,Xã Nhơn Mỹ,91,Tỉnh An Giang
+3099,30664,Xã Long Kiến,91,Tỉnh An Giang
+3100,30673,Xã Hội An,91,Tỉnh An Giang
+3101,30682,Xã Thoại Sơn,91,Tỉnh An Giang
+3102,30685,Xã Phú Hoà,91,Tỉnh An Giang
+3103,30688,Xã Óc Eo,91,Tỉnh An Giang
+3104,30691,Xã Tây Phú,91,Tỉnh An Giang
+3105,30697,Xã Vĩnh Trạch,91,Tỉnh An Giang
+3106,30709,Xã Định Mỹ,91,Tỉnh An Giang
+3107,30742,Phường Rạch Giá,91,Tỉnh An Giang
+3108,30760,Phường Vĩnh Thông,91,Tỉnh An Giang
+3109,30766,Phường Tô Châu,91,Tỉnh An Giang
+3110,30769,Phường Hà Tiên,91,Tỉnh An Giang
+3111,30781,Xã Tiên Hải,91,Tỉnh An Giang
+3112,30787,Xã Kiên Lương,91,Tỉnh An Giang
+3113,30790,Xã Hoà Điền,91,Tỉnh An Giang
+3114,30793,Xã Vĩnh Điều,91,Tỉnh An Giang
+3115,30796,Xã Giang Thành,91,Tỉnh An Giang
+3116,30811,Xã Sơn Hải,91,Tỉnh An Giang
+3117,30814,Xã Hòn Nghệ,91,Tỉnh An Giang
+3118,30817,Xã Hòn Đất,91,Tỉnh An Giang
+3119,30823,Xã Bình Sơn,91,Tỉnh An Giang
+3120,30826,Xã Bình Giang,91,Tỉnh An Giang
+3121,30835,Xã Sơn Kiên,91,Tỉnh An Giang
+3122,30838,Xã Mỹ Thuận,91,Tỉnh An Giang
+3123,30850,Xã Tân Hiệp,91,Tỉnh An Giang
+3124,30856,Xã Tân Hội,91,Tỉnh An Giang
+3125,30874,Xã Thạnh Đông,91,Tỉnh An Giang
+3126,30880,Xã Châu Thành,91,Tỉnh An Giang
+3127,30886,Xã Thạnh Lộc,91,Tỉnh An Giang
+3128,30898,Xã Bình An,91,Tỉnh An Giang
+3129,30904,Xã Giồng Riềng,91,Tỉnh An Giang
+3130,30910,Xã Thạnh Hưng,91,Tỉnh An Giang
+3131,30928,Xã Ngọc Chúc,91,Tỉnh An Giang
+3132,30934,Xã Hoà Hưng,91,Tỉnh An Giang
+3133,30943,Xã Long Thạnh,91,Tỉnh An Giang
+3134,30949,Xã Hoà Thuận,91,Tỉnh An Giang
+3135,30952,Xã Gò Quao,91,Tỉnh An Giang
+3136,30958,Xã Định Hoà,91,Tỉnh An Giang
+3137,30970,Xã Vĩnh Hoà Hưng,91,Tỉnh An Giang
+3138,30982,Xã Vĩnh Tuy,91,Tỉnh An Giang
+3139,30985,Xã An Biên,91,Tỉnh An Giang
+3140,30988,Xã Tây Yên,91,Tỉnh An Giang
+3141,31006,Xã Đông Thái,91,Tỉnh An Giang
+3142,31012,Xã Vĩnh Hoà,91,Tỉnh An Giang
+3143,31018,Xã An Minh,91,Tỉnh An Giang
+3144,31024,Xã Đông Hoà,91,Tỉnh An Giang
+3145,31027,Xã U Minh Thượng,91,Tỉnh An Giang
+3146,31031,Xã Tân Thạnh,91,Tỉnh An Giang
+3147,31036,Xã Đông Hưng,91,Tỉnh An Giang
+3148,31042,Xã Vân Khánh,91,Tỉnh An Giang
+3149,31051,Xã Vĩnh Phong,91,Tỉnh An Giang
+3150,31064,Xã Vĩnh Bình,91,Tỉnh An Giang
+3151,31069,Xã Vĩnh Thuận,91,Tỉnh An Giang
+3152,31078,Đặc khu Phú Quốc,91,Tỉnh An Giang
+3153,31105,Đặc khu Thổ Châu,91,Tỉnh An Giang
+3154,31108,Đặc khu Kiên Hải,91,Tỉnh An Giang
+3155,31120,Phường Cái Khế,92,Thành phố Cần Thơ
+3156,31135,Phường Ninh Kiều,92,Thành phố Cần Thơ
+3157,31147,Phường Tân An,92,Thành phố Cần Thơ
+3158,31150,Phường An Bình,92,Thành phố Cần Thơ
+3159,31153,Phường Ô Môn,92,Thành phố Cần Thơ
+3160,31157,Phường Thới Long,92,Thành phố Cần Thơ
+3161,31162,Phường Phước Thới,92,Thành phố Cần Thơ
+3162,31168,Phường Bình Thuỷ,92,Thành phố Cần Thơ
+3163,31174,Phường Thới An Đông,92,Thành phố Cần Thơ
+3164,31183,Phường Long Tuyền,92,Thành phố Cần Thơ
+3165,31186,Phường Cái Răng,92,Thành phố Cần Thơ
+3166,31201,Phường Hưng Phú,92,Thành phố Cần Thơ
+3167,31207,Phường Thốt Nốt,92,Thành phố Cần Thơ
+3168,31213,Phường Tân Lộc,92,Thành phố Cần Thơ
+3169,31217,Phường Trung Nhứt,92,Thành phố Cần Thơ
+3170,31228,Phường Thuận Hưng,92,Thành phố Cần Thơ
+3171,31231,Xã Thạnh An,92,Thành phố Cần Thơ
+3172,31232,Xã Vĩnh Thạnh,92,Thành phố Cần Thơ
+3173,31237,Xã Vĩnh Trinh,92,Thành phố Cần Thơ
+3174,31246,Xã Thạnh Quới,92,Thành phố Cần Thơ
+3175,31249,Xã Thạnh Phú,92,Thành phố Cần Thơ
+3176,31255,Xã Trung Hưng,92,Thành phố Cần Thơ
+3177,31258,Xã Thới Lai,92,Thành phố Cần Thơ
+3178,31261,Xã Cờ Đỏ,92,Thành phố Cần Thơ
+3179,31264,Xã Thới Hưng,92,Thành phố Cần Thơ
+3180,31273,Xã Đông Hiệp,92,Thành phố Cần Thơ
+3181,31282,Xã Đông Thuận,92,Thành phố Cần Thơ
+3182,31288,Xã Trường Thành,92,Thành phố Cần Thơ
+3183,31294,Xã Trường Xuân,92,Thành phố Cần Thơ
+3184,31299,Xã Phong Điền,92,Thành phố Cần Thơ
+3185,31309,Xã Trường Long,92,Thành phố Cần Thơ
+3186,31315,Xã Nhơn Ái,92,Thành phố Cần Thơ
+3187,31321,Phường Vị Thanh,92,Thành phố Cần Thơ
+3188,31333,Phường Vị Tân,92,Thành phố Cần Thơ
+3189,31338,Xã Hoả Lựu,92,Thành phố Cần Thơ
+3190,31340,Phường Ngã Bảy,92,Thành phố Cần Thơ
+3191,31342,Xã Tân Hoà,92,Thành phố Cần Thơ
+3192,31348,Xã Trường Long Tây,92,Thành phố Cần Thơ
+3193,31360,Xã Thạnh Xuân,92,Thành phố Cần Thơ
+3194,31366,Xã Châu Thành,92,Thành phố Cần Thơ
+3195,31369,Xã Đông Phước,92,Thành phố Cần Thơ
+3196,31378,Xã Phú Hữu,92,Thành phố Cần Thơ
+3197,31393,Xã Hoà An,92,Thành phố Cần Thơ
+3198,31396,Xã Hiệp Hưng,92,Thành phố Cần Thơ
+3199,31399,Xã Tân Bình,92,Thành phố Cần Thơ
+3200,31408,Xã Thạnh Hoà,92,Thành phố Cần Thơ
+3201,31411,Phường Đại Thành,92,Thành phố Cần Thơ
+3202,31420,Xã Phụng Hiệp,92,Thành phố Cần Thơ
+3203,31426,Xã Phương Bình,92,Thành phố Cần Thơ
+3204,31432,Xã Tân Phước Hưng,92,Thành phố Cần Thơ
+3205,31441,Xã Vị Thuỷ,92,Thành phố Cần Thơ
+3206,31453,Xã Vĩnh Thuận Đông,92,Thành phố Cần Thơ
+3207,31459,Xã Vĩnh Tường,92,Thành phố Cần Thơ
+3208,31465,Xã Vị Thanh 1,92,Thành phố Cần Thơ
+3209,31471,Phường Long Mỹ,92,Thành phố Cần Thơ
+3210,31473,Phường Long Bình,92,Thành phố Cần Thơ
+3211,31480,Phường Long Phú 1,92,Thành phố Cần Thơ
+3212,31489,Xã Vĩnh Viễn,92,Thành phố Cần Thơ
+3213,31492,Xã Lương Tâm,92,Thành phố Cần Thơ
+3214,31495,Xã Xà Phiên,92,Thành phố Cần Thơ
+3215,31507,Phường Sóc Trăng,92,Thành phố Cần Thơ
+3216,31510,Phường Phú Lợi,92,Thành phố Cần Thơ
+3217,31528,Xã Kế Sách,92,Thành phố Cần Thơ
+3218,31531,Xã An Lạc Thôn,92,Thành phố Cần Thơ
+3219,31537,Xã Phong Nẫm,92,Thành phố Cần Thơ
+3220,31540,Xã Thới An Hội,92,Thành phố Cần Thơ
+3221,31552,Xã Nhơn Mỹ,92,Thành phố Cần Thơ
+3222,31561,Xã Đại Hải,92,Thành phố Cần Thơ
+3223,31567,Xã Mỹ Tú,92,Thành phố Cần Thơ
+3224,31569,Xã Phú Tâm,92,Thành phố Cần Thơ
+3225,31570,Xã Hồ Đắc Kiện,92,Thành phố Cần Thơ
+3226,31579,Xã Long Hưng,92,Thành phố Cần Thơ
+3227,31582,Xã Thuận Hoà,92,Thành phố Cần Thơ
+3228,31591,Xã Mỹ Hương,92,Thành phố Cần Thơ
+3229,31594,Xã An Ninh,92,Thành phố Cần Thơ
+3230,31603,Xã Mỹ Phước,92,Thành phố Cần Thơ
+3231,31615,Xã An Thạnh,92,Thành phố Cần Thơ
+3232,31633,Xã Cù Lao Dung,92,Thành phố Cần Thơ
+3233,31639,Xã Long Phú,92,Thành phố Cần Thơ
+3234,31645,Xã Đại Ngãi,92,Thành phố Cần Thơ
+3235,31654,Xã Trường Khánh,92,Thành phố Cần Thơ
+3236,31666,Xã Tân Thạnh,92,Thành phố Cần Thơ
+3237,31673,Xã Trần Đề,92,Thành phố Cần Thơ
+3238,31675,Xã Liêu Tú,92,Thành phố Cần Thơ
+3239,31679,Xã Lịch Hội Thượng,92,Thành phố Cần Thơ
+3240,31684,Phường Mỹ Xuyên,92,Thành phố Cần Thơ
+3241,31687,Xã Tài Văn,92,Thành phố Cần Thơ
+3242,31699,Xã Thạnh Thới An,92,Thành phố Cần Thơ
+3243,31708,Xã Nhu Gia,92,Thành phố Cần Thơ
+3244,31717,Xã Hoà Tú,92,Thành phố Cần Thơ
+3245,31723,Xã Ngọc Tố,92,Thành phố Cần Thơ
+3246,31726,Xã Gia Hoà,92,Thành phố Cần Thơ
+3247,31732,Phường Ngã Năm,92,Thành phố Cần Thơ
+3248,31741,Xã Tân Long,92,Thành phố Cần Thơ
+3249,31753,Phường Mỹ Quới,92,Thành phố Cần Thơ
+3250,31756,Xã Phú Lộc,92,Thành phố Cần Thơ
+3251,31759,Xã Lâm Tân,92,Thành phố Cần Thơ
+3252,31777,Xã Vĩnh Lợi,92,Thành phố Cần Thơ
+3253,31783,Phường Vĩnh Châu,92,Thành phố Cần Thơ
+3254,31789,Phường Khánh Hoà,92,Thành phố Cần Thơ
+3255,31795,Xã Vĩnh Hải,92,Thành phố Cần Thơ
+3256,31804,Phường Vĩnh Phước,92,Thành phố Cần Thơ
+3257,31810,Xã Lai Hoà,92,Thành phố Cần Thơ
+3258,31825,Phường Bạc Liêu,96,Tỉnh Cà Mau
+3259,31834,Phường Vĩnh Trạch,96,Tỉnh Cà Mau
+3260,31840,Phường Hiệp Thành,96,Tỉnh Cà Mau
+3261,31843,Xã Hồng Dân,96,Tỉnh Cà Mau
+3262,31849,Xã Ninh Quới,96,Tỉnh Cà Mau
+3263,31858,Xã Vĩnh Lộc,96,Tỉnh Cà Mau
+3264,31864,Xã Ninh Thạnh Lợi,96,Tỉnh Cà Mau
+3265,31867,Xã Phước Long,96,Tỉnh Cà Mau
+3266,31876,Xã Vĩnh Phước,96,Tỉnh Cà Mau
+3267,31882,Xã Vĩnh Thanh,96,Tỉnh Cà Mau
+3268,31885,Xã Phong Hiệp,96,Tỉnh Cà Mau
+3269,31891,Xã Hoà Bình,96,Tỉnh Cà Mau
+3270,31894,Xã Châu Thới,96,Tỉnh Cà Mau
+3271,31900,Xã Vĩnh Lợi,96,Tỉnh Cà Mau
+3272,31906,Xã Hưng Hội,96,Tỉnh Cà Mau
+3273,31918,Xã Vĩnh Mỹ,96,Tỉnh Cà Mau
+3274,31927,Xã Vĩnh Hậu,96,Tỉnh Cà Mau
+3275,31942,Phường Giá Rai,96,Tỉnh Cà Mau
+3276,31951,Phường Láng Tròn,96,Tỉnh Cà Mau
+3277,31957,Xã Phong Thạnh,96,Tỉnh Cà Mau
+3278,31972,Xã Gành Hào,96,Tỉnh Cà Mau
+3279,31975,Xã Đông Hải,96,Tỉnh Cà Mau
+3280,31985,Xã Long Điền,96,Tỉnh Cà Mau
+3281,31988,Xã An Trạch,96,Tỉnh Cà Mau
+3282,31993,Xã Định Thành,96,Tỉnh Cà Mau
+3283,32002,Phường An Xuyên,96,Tỉnh Cà Mau
+3284,32014,Phường Lý Văn Lâm,96,Tỉnh Cà Mau
+3285,32025,Phường Tân Thành,96,Tỉnh Cà Mau
+3286,32041,Phường Hoà Thành,96,Tỉnh Cà Mau
+3287,32044,Xã Nguyễn Phích,96,Tỉnh Cà Mau
+3288,32047,Xã U Minh,96,Tỉnh Cà Mau
+3289,32059,Xã Khánh An,96,Tỉnh Cà Mau
+3290,32062,Xã Khánh Lâm,96,Tỉnh Cà Mau
+3291,32065,Xã Thới Bình,96,Tỉnh Cà Mau
+3292,32069,Xã Biển Bạch,96,Tỉnh Cà Mau
+3293,32071,Xã Trí Phải,96,Tỉnh Cà Mau
+3294,32083,Xã Tân Lộc,96,Tỉnh Cà Mau
+3295,32092,Xã Hồ Thị Kỷ,96,Tỉnh Cà Mau
+3296,32095,Xã Trần Văn Thời,96,Tỉnh Cà Mau
+3297,32098,Xã Sông Đốc,96,Tỉnh Cà Mau
+3298,32104,Xã Đá Bạc,96,Tỉnh Cà Mau
+3299,32110,Xã Khánh Bình,96,Tỉnh Cà Mau
+3300,32119,Xã Khánh Hưng,96,Tỉnh Cà Mau
+3301,32128,Xã Cái Nước,96,Tỉnh Cà Mau
+3302,32134,Xã Lương Thế Trân,96,Tỉnh Cà Mau
+3303,32137,Xã Tân Hưng,96,Tỉnh Cà Mau
+3304,32140,Xã Hưng Mỹ,96,Tỉnh Cà Mau
+3305,32152,Xã Đầm Dơi,96,Tỉnh Cà Mau
+3306,32155,Xã Tạ An Khương,96,Tỉnh Cà Mau
+3307,32161,Xã Trần Phán,96,Tỉnh Cà Mau
+3308,32167,Xã Tân Thuận,96,Tỉnh Cà Mau
+3309,32182,Xã Quách Phẩm,96,Tỉnh Cà Mau
+3310,32185,Xã Thanh Tùng,96,Tỉnh Cà Mau
+3311,32188,Xã Tân Tiến,96,Tỉnh Cà Mau
+3312,32191,Xã Năm Căn,96,Tỉnh Cà Mau
+3313,32201,Xã Đất Mới,96,Tỉnh Cà Mau
+3314,32206,Xã Tam Giang,96,Tỉnh Cà Mau
+3315,32212,Xã Cái Đôi Vàm,96,Tỉnh Cà Mau
+3316,32214,Xã Phú Mỹ,96,Tỉnh Cà Mau
+3317,32218,Xã Phú Tân,96,Tỉnh Cà Mau
+3318,32227,Xã Nguyễn Việt Khái,96,Tỉnh Cà Mau
+3319,32236,Xã Tân Ân,96,Tỉnh Cà Mau
+3320,32244,Xã Phan Ngọc Hiển,96,Tỉnh Cà Mau
+3321,32248,Xã Đất Mũi,96,Tỉnh Cà Mau
