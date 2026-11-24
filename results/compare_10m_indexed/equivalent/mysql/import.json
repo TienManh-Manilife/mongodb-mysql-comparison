@@ -1,0 +1,55 @@
+{
+  "schema_seconds": 0.22461073399995257,
+  "import_seconds": 1373.6605540509995,
+  "logical_records": 34093651,
+  "logical_records_per_second": 24819.56033421501,
+  "table_seconds": {
+    "provinces": 0.01546533499981706,
+    "wards": 0.13351842900010524,
+    "households": 53.211069272999794,
+    "persons": 676.5311720119998,
+    "household_members": 229.95884889900003,
+    "residence_history": 413.8104801029999
+  },
+  "counts": {
+    "provinces": 34,
+    "wards": 3321,
+    "households": 2592673,
+    "persons": 10000000,
+    "household_members": 10000000,
+    "residence_history": 11497623
+  },
+  "version": "8.4.13",
+  "storage_core": [
+    {
+      "name": "household_members",
+      "data_bytes": 423591936,
+      "index_bytes": 211648512
+    },
+    {
+      "name": "households",
+      "data_bytes": 202096640,
+      "index_bytes": 52019200
+    },
+    {
+      "name": "persons",
+      "data_bytes": 1565523968,
+      "index_bytes": 711983104
+    },
+    {
+      "name": "provinces",
+      "data_bytes": 16384,
+      "index_bytes": 0
+    },
+    {
+      "name": "residence_history",
+      "data_bytes": 668991488,
+      "index_bytes": 560873472
+    },
+    {
+      "name": "wards",
+      "data_bytes": 196608,
+      "index_bytes": 81920
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "Id": "sha256:479e85ced54ffb8a40dade1dcde2da2a9ae858515b9415e9cc54bfb8f0575d01",
+        "RepoTags": [
+            "mongo:8.0"
+        ],
+        "RepoDigests": [
+            "mongo@sha256:479e85ced54ffb8a40dade1dcde2da2a9ae858515b9415e9cc54bfb8f0575d01"
+        ],
+        "Comment": "buildkit.dockerfile.v0",
+        "Created": "2026-11-20T03:24:52.935142394Z",
+        "Config": {
+            "ExposedPorts": {
+                "27017/tcp": {}
+            },
+            "Env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "GOSU_VERSION=1.19",
+                "JSYAML_VERSION=3.13.1",
+                "JSYAML_CHECKSUM=662e32319bdd378e91f67578e56a34954b0a2e33aca11d70ab9f4826af24b941",
+                "MONGO_PACKAGE=mongodb-org",
+                "MONGO_REPO=repo.mongodb.org",
+                "MONGO_MAJOR=8.0",
+                "MONGO_VERSION=8.0.38",
+                "HOME=/data/db",
+                "GLIBC_TUNABLES=glibc.pthread.rseq=0"
+            ],
+            "Entrypoint": [
+                "docker-entrypoint.sh"
+            ],
+            "Cmd": [
+                "mongod"
+            ],
+            "Volumes": {
+                "/data/configdb": {},
+                "/data/db": {}
+            },
+            "Labels": {
+                "org.opencontainers.image.version": "24.04"
+            }
+        },
+        "Architecture": "amd64",
+        "Os": "linux",
+        "Size": 320494875,
+        "RootFS": {
+            "Type": "layers",
+            "Layers": [
+                "sha256:369ede38a92da8cd72a76f15f37e496def401830f3c8b7d39c0c7695682a51ce",
+                "sha256:b83d1157328b266ab9c68a26204a3048c4d61b818427641bc372492aa9d53eb7",
+                "sha256:7c27dc5af25ff8afbccd2e94255ce67ceaeecae104ff71c6f75ac8857c920efd",
+                "sha256:54b6d52ca49c70dd2d7e70d14aa20d9968bf4f284164bd3e1e5d48e5f2218b67",
+                "sha256:4eebdf82a666af3209a79038495219a5934d3e0b0546b9a96ef1255ca8a67d13",
+                "sha256:0fe2d067de54db3ee49fe11f9db1e9e8f9e07fd584f7e9eba0f3c0101fd0e879",
+                "sha256:bf8059bd273fc44bf5e14198076673fe422f0a2559e43f0b89188a3eb8903cbb",
+                "sha256:d4b58ebcd6a80decb02af980c7c5d0bf5acc7cbe02347b5db602ed359cf48b95"
+            ]
+        },
+        "Metadata": {
+            "LastTagTime": "2026-11-24T14:19:59.409375618Z"
+        },
+        "Descriptor": {
+            "mediaType": "application/vnd.oci.image.index.v1+json",
+            "digest": "sha256:479e85ced54ffb8a40dade1dcde2da2a9ae858515b9415e9cc54bfb8f0575d01",
+            "size": 3250
+        },
+        "Identity": {
+            "Pull": [
+                {
+                    "Repository": "docker.io/library/mongo"
+                }
+            ]
+        }
+    }
+]

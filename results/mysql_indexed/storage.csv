@@ -1,0 +1,7 @@
+﻿profile,engine,index_mode,name,data_bytes,index_bytes
+equivalent,mysql,secondary,household_members,423591936,211648512
+equivalent,mysql,secondary,households,202096640,52019200
+equivalent,mysql,secondary,persons,1816133632,738197504
+equivalent,mysql,secondary,provinces,16384,0
+equivalent,mysql,secondary,residence_history,668991488,560873472
+equivalent,mysql,secondary,wards,196608,81920

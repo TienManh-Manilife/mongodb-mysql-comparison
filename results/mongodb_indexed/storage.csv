@@ -1,0 +1,7 @@
+﻿profile,engine,index_mode,name,data_bytes,index_bytes
+equivalent,mongodb,secondary,household_members,179830784,280702976
+equivalent,mongodb,secondary,households,78028800,53858304
+equivalent,mongodb,secondary,persons,1012473856,1030963200
+equivalent,mongodb,secondary,provinces,20480,20480
+equivalent,mongodb,secondary,residence_history,365404160,692109312
+equivalent,mongodb,secondary,wards,110592,86016

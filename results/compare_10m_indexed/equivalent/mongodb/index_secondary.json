@@ -1,0 +1,36 @@
+{
+  "index_mode": "secondary",
+  "transition_seconds": 0.0019107649986835895,
+  "storage": [
+    {
+      "name": "household_members",
+      "data_bytes": 179830784,
+      "index_bytes": 280702976
+    },
+    {
+      "name": "households",
+      "data_bytes": 78028800,
+      "index_bytes": 53858304
+    },
+    {
+      "name": "persons",
+      "data_bytes": 1012473856,
+      "index_bytes": 1030963200
+    },
+    {
+      "name": "provinces",
+      "data_bytes": 20480,
+      "index_bytes": 20480
+    },
+    {
+      "name": "residence_history",
+      "data_bytes": 365404160,
+      "index_bytes": 692109312
+    },
+    {
+      "name": "wards",
+      "data_bytes": 110592,
+      "index_bytes": 86016
+    }
+  ]
+}

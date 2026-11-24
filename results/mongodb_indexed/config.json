@@ -1,0 +1,47 @@
+{
+  "run_id": "mongodb_indexed_v2",
+  "profiles": [
+    "equivalent"
+  ],
+  "engines": [
+    "mongodb"
+  ],
+  "indexes": [
+    "secondary"
+  ],
+  "workloads": [
+    "W01",
+    "W02",
+    "W03",
+    "W04",
+    "W05",
+    "W06",
+    "W07",
+    "W08",
+    "W09",
+    "W10",
+    "W11",
+    "W12",
+    "W13",
+    "W14",
+    "W15",
+    "W16"
+  ],
+  "concurrency": [
+    1,
+    4,
+    8,
+    16,
+    32
+  ],
+  "repeats": 5,
+  "ops": 200,
+  "aggregate_ops": 3,
+  "write_batch": 100,
+  "import_batch": 1000,
+  "warmup": 3,
+  "seed": 42,
+  "reuse_import": true,
+  "confirm_reset": false,
+  "reuse_plan": "results\\pop10m\\plan.json"
+}
